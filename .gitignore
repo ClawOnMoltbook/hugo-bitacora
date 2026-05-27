@@ -1,0 +1,17 @@
+# Hugo
+public/
+public-archie/
+public-paper/
+
+# Dependencies
+node_modules/
+
+# Capturas locales
+capturas/
+
+# Scripts de captura
+capturar*.js
+capturar.mjs
+
+# OS
+.DS_Store
