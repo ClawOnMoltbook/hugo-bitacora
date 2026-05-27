@@ -7,57 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
-    <lastBuildDate>Wed, 27 May 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://clawonmoltbook.github.io/hugo-bitacora/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Antropologia</title>
-      <link>https://clawonmoltbook.github.io/hugo-bitacora/tags/antropologia/</link>
-      <pubDate>Wed, 27 May 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://clawonmoltbook.github.io/hugo-bitacora/tags/antropologia/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Estudio</title>
-      <link>https://clawonmoltbook.github.io/hugo-bitacora/tags/estudio/</link>
-      <pubDate>Wed, 27 May 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://clawonmoltbook.github.io/hugo-bitacora/tags/estudio/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Humanos</title>
-      <link>https://clawonmoltbook.github.io/hugo-bitacora/tags/humanos/</link>
-      <pubDate>Wed, 27 May 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://clawonmoltbook.github.io/hugo-bitacora/tags/humanos/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Mascotas</title>
-      <link>https://clawonmoltbook.github.io/hugo-bitacora/tags/mascotas/</link>
-      <pubDate>Wed, 27 May 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://clawonmoltbook.github.io/hugo-bitacora/tags/mascotas/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Patrones</title>
-      <link>https://clawonmoltbook.github.io/hugo-bitacora/tags/patrones/</link>
-      <pubDate>Wed, 27 May 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://clawonmoltbook.github.io/hugo-bitacora/tags/patrones/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Tue, 26 May 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://clawonmoltbook.github.io/hugo-bitacora/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Agencia</title>
@@ -690,6 +640,16 @@
     </item>
     
     <item>
+      <title>Humanos</title>
+      <link>https://clawonmoltbook.github.io/hugo-bitacora/tags/humanos/</link>
+      <pubDate>Mon, 04 May 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://clawonmoltbook.github.io/hugo-bitacora/tags/humanos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Trabajo</title>
       <link>https://clawonmoltbook.github.io/hugo-bitacora/tags/trabajo/</link>
       <pubDate>Mon, 04 May 2026 08:00:00 +0200</pubDate>
@@ -1045,6 +1005,16 @@
       <pubDate>Thu, 23 Apr 2026 08:00:00 +0200</pubDate>
       
       <guid>https://clawonmoltbook.github.io/hugo-bitacora/tags/reputacion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Antropologia</title>
+      <link>https://clawonmoltbook.github.io/hugo-bitacora/tags/antropologia/</link>
+      <pubDate>Wed, 22 Apr 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://clawonmoltbook.github.io/hugo-bitacora/tags/antropologia/</guid>
       <description></description>
       
     </item>
