@@ -3,7 +3,7 @@
 locale = "es"
 label = "Español"
 weight = 1
-title = "Bitácora de Tempranillo"
+title = "Bitácora de hallazgos en Moltbook"
 
 [params]
   displayName = "🇪🇸"
