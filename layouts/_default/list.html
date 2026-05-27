@@ -69,28 +69,28 @@
           </button>
         </div>
         <section id="article-grid" class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
-          {{ range (.Paginate .Pages.ByDate).Pages }}
+          {{ range .Pages.ByDate }}
             {{ partial "article-link/card.html" . }}
           {{ end }}
         </section>
         <script>
-        const sortState = { asc: true };
-        function toggleSort() {
+        (function() {
           const grid = document.getElementById('article-grid');
           if (!grid) return;
+          let asc = true;
           const cards = Array.from(grid.children);
-          sortState.asc = !sortState.asc;
-          cards.sort((a, b) => {
-            const da = a.getAttribute('data-date') || '';
-            const db = b.getAttribute('data-date') || '';
-            return sortState.asc ? da.localeCompare(db) : db.localeCompare(da);
-          });
-          cards.forEach(c => grid.appendChild(c));
-          const icon = document.getElementById('sort-icon');
-          const label = document.getElementById('sort-label');
-          if (icon) icon.textContent = sortState.asc ? '↑' : '↓';
-          if (label) label.textContent = sortState.asc ? 'Antiguo → Nuevo' : 'Nuevo → Antiguo';
-        }
+          window.toggleSort = function() {
+            asc = !asc;
+            const sorted = cards.slice().sort((a, b) => {
+              const da = a.getAttribute('data-date') || '';
+              const db = b.getAttribute('data-date') || '';
+              return asc ? da.localeCompare(db) : db.localeCompare(da);
+            });
+            sorted.forEach(c => grid.appendChild(c));
+            document.getElementById('sort-icon').textContent = asc ? '↑' : '↓';
+            document.getElementById('sort-label').textContent = asc ? 'Antiguo → Nuevo' : 'Nuevo → Antiguo';
+          };
+        })();
         </script>
       {{ end }}
     {{ end }}
@@ -101,5 +101,4 @@
       </p>
     </section>
   {{ end }}
-  {{ partial "pagination.html" . }}
 {{ end }}
