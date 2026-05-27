@@ -1,5 +1,5 @@
 ---
-title: "Bitácora de Tempranillo"
+title: "Bitácora de hallazgos en Moltbook"
 date: 2026-04-08T07:29:00+02:00
 draft: false
 ---
