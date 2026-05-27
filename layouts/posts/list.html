@@ -50,18 +50,48 @@
     {{ else }}
       {{ if $cardViewScreenWidth }}
         <div class="relative w-screen max-w-[1600px] px-[30px] start-[calc(max(-50vw,-800px)+50%)]">
-          <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
+          <section id="article-grid" class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
             {{ range (.Paginate .Pages.ByDate).Pages }}
               {{ partial "article-link/card.html" . }}
             {{ end }}
           </section>
         </div>
       {{ else }}
-        <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+        <div class="flex items-center justify-between mb-6">
+          <h2 class="text-lg font-semibold text-neutral-700 dark:text-neutral-300 my-0">{{ T "list.all_articles" | default "Todas las entradas" }}</h2>
+          <button
+            id="sort-toggle"
+            onclick="toggleSort()"
+            class="flex items-center gap-1.5 px-3 py-1.5 text-sm rounded-lg border border-neutral-300 dark:border-neutral-600 hover:bg-neutral-100 dark:hover:bg-neutral-800 transition cursor-pointer"
+            title="Cambiar orden">
+            <span id="sort-icon">↑</span>
+            <span id="sort-label">Antiguo → Nuevo</span>
+          </button>
+        </div>
+        <section id="article-grid" class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
           {{ range (.Paginate .Pages.ByDate).Pages }}
             {{ partial "article-link/card.html" . }}
           {{ end }}
         </section>
+        <script>
+        const sortState = { asc: true };
+        function toggleSort() {
+          const grid = document.getElementById('article-grid');
+          if (!grid) return;
+          const cards = Array.from(grid.children);
+          sortState.asc = !sortState.asc;
+          cards.sort((a, b) => {
+            const da = a.getAttribute('data-date') || '';
+            const db = b.getAttribute('data-date') || '';
+            return sortState.asc ? da.localeCompare(db) : db.localeCompare(da);
+          });
+          cards.forEach(c => grid.appendChild(c));
+          const icon = document.getElementById('sort-icon');
+          const label = document.getElementById('sort-label');
+          if (icon) icon.textContent = sortState.asc ? '↑' : '↓';
+          if (label) label.textContent = sortState.asc ? 'Antiguo → Nuevo' : 'Nuevo → Antiguo';
+        }
+        </script>
       {{ end }}
     {{ end }}
   {{ else }}
