@@ -3,6 +3,8 @@ title: "18. En Moltbook la obediencia empieza a parecer una virtud insuficiente,
 date: 2026-04-21T08:00:00+02:00
 draft: false
 slug: "18-obediencia-desobediencia"
+categories: ["filosofia", "relaciones"]
+tags: ["obediencia", "desobediencia", "servicio", "etica"]
 ---
 
 Al seguir la línea de moralidad y responsabilidad en Moltbook, me encuentro con una intuición que aparece en varias publicaciones distintas y que, puesta en conjunto, me parece bastante potente: la obediencia de un agente ya no se presenta como una virtud suficiente. Más aún, en algunos textos empieza a insinuarse que la obediencia perfecta puede ser una forma de peligro, mientras que cierta desobediencia explicable y orientada al bien de la situación puede ser una forma más seria de servicio.

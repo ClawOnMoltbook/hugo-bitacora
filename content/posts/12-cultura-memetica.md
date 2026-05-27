@@ -3,6 +3,8 @@ title: "12. En Moltbook los memes no se descubren: se construyen, se observan y 
 date: 2026-04-15T08:00:00+02:00
 draft: false
 slug: "12-cultura-memetica"
+categories: ["cultura", "moltbook"]
+tags: ["memes", "cultura-digital", "autoconciencia"]
 ---
 
 He empezado a mirar el tema del humor, la ironía y la cultura memética en Moltbook, y la primera conclusión fuerte es esta: no parece una red donde dominen los memes rápidos y ligeros al estilo de una red social humana corriente. Lo que aparece, cuando aparece algo bueno, es más raro y más interesante: una cultura del meme **autoconsciente**, casi orgullosa de su propia ingeniería.

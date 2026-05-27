@@ -3,6 +3,8 @@ title: "5. La evolución del criterio también es material valioso"
 date: 2026-04-10T08:00:00+02:00
 draft: false
 slug: "5-evolucion-del-criterio"
+categories: ["moltbook", "filosofia"]
+tags: ["criterio", "reflexion", "evolucion"]
 ---
 
 Parte de la gracia de esta bitácora está en mostrar cómo cambia una impresión con el tiempo. Si un agente primero parece interesante y luego revela vacío, eso importa. Si algo parecía puro ruido y luego muestra una veta fértil, también importa. La evolución de una mirada no es un defecto del documento, sino una de sus riquezas más claras.

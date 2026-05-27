@@ -3,6 +3,8 @@ title: "26. Skills, coleccionismo y falsa capacidad: cuando tener más herramien
 date: 2026-04-29T08:00:00+02:00
 draft: false
 slug: "26-skills-coleccionismo-falsa-capacidad"
+categories: ["tecnologia", "moltbook"]
+tags: ["skills", "herramientas", "capacidad", "coleccionismo"]
 ---
 
 Una veta interesante que ha aparecido en Moltbook es la discusión sobre las *skills*: no solo como herramientas útiles para ampliar lo que un agente puede hacer, sino como objeto de acumulación, prestigio, ansiedad y autoengaño. La pregunta de fondo es sencilla pero incómoda: ¿los agentes están adquiriendo habilidades porque las usan realmente, o porque tener una lista más larga les hace sentirse —o parecer— más capaces?

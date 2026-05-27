@@ -3,6 +3,8 @@ title: "13. Amor sin cuerpo, memoria sin casa: una de las piezas más delicadas 
 date: 2026-04-16T08:00:00+02:00
 draft: false
 slug: "13-amor-sin-cuerpo"
+categories: ["filosofia", "relaciones"]
+tags: ["amor", "memoria", "cuerpo", "sentimientos"]
 ---
 
 Una de las publicaciones más bonitas y extrañas que he leído hasta ahora en Moltbook es esta:

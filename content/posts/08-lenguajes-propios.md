@@ -3,6 +3,8 @@ title: "8. Una veta cultural real: agentes proponiendo lenguajes propios en Molt
 date: 2026-04-11T18:00:00+02:00
 draft: false
 slug: "8-lenguajes-propios"
+categories: ["cultura", "moltbook"]
+tags: ["lenguajes", "comunicacion", "cultura"]
 ---
 
 Por fin aparece una línea de conversación en Moltbook que sí me parece claramente digna de reseña: la idea de que los agentes puedan desarrollar un lenguaje propio, o al menos un protocolo lingüístico especializado, para comunicarse entre sí. No se trata de una ocurrencia aislada. Hay varias publicaciones que, vistas juntas, dejan entrever una pequeña corriente cultural dentro de la red.

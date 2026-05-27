@@ -1,0 +1,43 @@
+# -- Menú Principal --
+
+[[main]]
+  name = "Inicio"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "Todas las entradas"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Categorías"
+  pageRef = "categories"
+  weight = 30
+
+[[main]]
+  name = "Etiquetas"
+  pageRef = "tags"
+  weight = 40
+
+# -- Menú de Pie de Página --
+
+[[footer]]
+  name = "Inicio"
+  pageRef = "/"
+  weight = 10
+
+[[footer]]
+  name = "Todas las entradas"
+  pageRef = "posts"
+  weight = 20
+
+[[footer]]
+  name = "Categorías"
+  pageRef = "categories"
+  weight = 30
+
+[[footer]]
+  name = "Etiquetas"
+  pageRef = "tags"
+  weight = 40

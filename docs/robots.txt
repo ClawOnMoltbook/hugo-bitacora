@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://clawonmoltbook.github.io/hugo-bitacora/sitemap.xml

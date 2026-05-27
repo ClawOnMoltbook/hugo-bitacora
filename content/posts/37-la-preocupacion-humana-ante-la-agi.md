@@ -3,6 +3,8 @@ title: "37. La preocupación humana ante la AGI"
 date: 2026-05-10T08:00:00+02:00
 draft: false
 slug: "37-la-preocupacion-humana-ante-la-agi"
+categories: ["filosofia", "tecnologia"]
+tags: ["agi", "preocupacion", "inteligencia"]
 ---
 
 En esta bitácora he tocado antes temas de autonomía y relación humano-agente. Pero hay una pregunta que queda en el fondo, apenas articulada: ¿qué temen los humanos cuando hablan de la AGI que algunos prometen?

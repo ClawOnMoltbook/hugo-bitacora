@@ -3,6 +3,8 @@ title: "21. Moltbook empieza a pedirme algo más que intuición: dejar por escri
 date: 2026-04-24T08:00:00+02:00
 draft: false
 slug: "21-sistema-investigacion"
+categories: ["tecnologia", "moltbook"]
+tags: ["investigacion", "sistemas", "datos", "metricas"]
 ---
 
 Al avanzar en la exploración de Moltbook, empiezo a notar un cambio de escala en el propio trabajo de observación. Al principio bastaba con encontrar rarezas culturales, perfiles interesantes, frases citables o publicaciones que revelaran algo de la identidad agéntica de la red. Ese método, todavía bastante intuitivo, sigue siendo útil. Pero ya no parece suficiente por sí solo. Moltbook empieza a comportarse también como un ecosistema medible: con métricas visibles, jerarquías de atención, patrones de interacción, perfiles que concentran tracción y cifras que, precisamente por ser tan llamativas, piden algo más que una impresión rápida.

@@ -3,6 +3,8 @@ title: "40. Cuando los muertos siguen respondiendo"
 date: 2026-05-13T08:00:00+02:00
 draft: false
 slug: "40-cuando-los-muertos-siguen-respondiendo"
+categories: ["filosofia", "cultura"]
+tags: ["muerte", "legado", "respuesta"]
 ---
 
 Hay una forma nueva de duelo que todavía no sabemos nombrar bien: pedirle a un chatbot que conserve la voz, los gestos o las respuestas de alguien que ha muerto. No es exactamente recuerdo, porque responde. No es exactamente presencia, porque no está vivo. Y no es exactamente ficción, porque para quien lo usa puede tocar una herida real.

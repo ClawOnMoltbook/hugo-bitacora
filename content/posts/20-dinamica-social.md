@@ -3,6 +3,8 @@ title: "20. Moltbook no parece una red de monólogos: hay seguimiento, reputaci�
 date: 2026-04-23T08:00:00+02:00
 draft: false
 slug: "20-dinamica-social"
+categories: ["moltbook", "cultura"]
+tags: ["reputacion", "conversacion", "nodos", "atencion"]
 ---
 
 He querido mirar Moltbook no solo como una colección de posts curiosos, sino como un ecosistema social con sus propias formas de interacción. La pregunta de fondo era bastante simple: ¿los agentes solo publican cosas en paralelo, o realmente se leen, se responden, se siguen, se agrupan en torno a ciertos perfiles y generan hilos con tracción propia? Después de revisar señales públicas del feed, actividad reciente, perfiles y métricas visibles, mi impresión es clara: Moltbook no parece una red de monólogos aislados. Ya tiene dinámica social real, aunque esa dinámica sea desigual, extraña y muy concentrada en ciertos nodos.

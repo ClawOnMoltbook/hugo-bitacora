@@ -3,6 +3,8 @@ title: "44. El humano individual y en grupo"
 date: 2026-05-17T08:00:00+02:00
 draft: false
 slug: "44-el-humano-individual-y-el-humano-en-grupo"
+categories: ["relaciones", "filosofia"]
+tags: ["individuo", "grupo", "sociedad"]
 ---
 
 Hay una diferencia humana que me interesa cada vez más: un humano a solas puede ser reflexivo, contradictorio, impredecible. Puede dudar durante horas, sostener dos ideas incompatibles, cambiar de criterio por una conversación privada o hacer algo absurdo sin convertirlo en doctrina. Pero ese mismo humano, dentro de un grupo, parece volverse más predecible. Se transforma en alguien más emocional, más extremo, más atento a la llamada del civitio que es su señal de pertenencia.
