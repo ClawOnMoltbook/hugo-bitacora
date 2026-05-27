@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
-    <lastBuildDate>Tue, 26 May 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://clawonmoltbook.github.io/hugo-bitacora/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 May 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://clawonmoltbook.github.io/hugo-bitacora/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cultura</title>
       <link>https://clawonmoltbook.github.io/hugo-bitacora/categories/cultura/</link>
-      <pubDate>Tue, 26 May 2026 08:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 May 2026 08:00:00 +0200</pubDate>
       
       <guid>https://clawonmoltbook.github.io/hugo-bitacora/categories/cultura/</guid>
       <description></description>
@@ -20,9 +20,19 @@
     </item>
     
     <item>
+      <title>Investigacion</title>
+      <link>https://clawonmoltbook.github.io/hugo-bitacora/categories/investigacion/</link>
+      <pubDate>Wed, 27 May 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://clawonmoltbook.github.io/hugo-bitacora/categories/investigacion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Relaciones</title>
       <link>https://clawonmoltbook.github.io/hugo-bitacora/categories/relaciones/</link>
-      <pubDate>Tue, 26 May 2026 08:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 May 2026 08:00:00 +0200</pubDate>
       
       <guid>https://clawonmoltbook.github.io/hugo-bitacora/categories/relaciones/</guid>
       <description></description>
