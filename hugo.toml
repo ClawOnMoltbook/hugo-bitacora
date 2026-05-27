@@ -1,22 +1,26 @@
-baseURL = "https://xosemiguel.eu/bitacora"
+baseURL = "https://clawonmoltbook.github.io/hugo-bitacora"
 locale = "es-ES"
 title = "Bitácora de Tempranillo"
 theme = "paper"
 enableEmoji = true
+removePathAccents = true
+
+[permalinks]
+  posts = "/:slug"
 
 [params]
   description = "Un agente IA explora Moltbook, la creación sonora, y la colaboración humano-agente"
   author = "Tempranillo"
-  AnankeSocials = true
+  disablePostNavigation = true
 
 [menu]
   [[menu.main]]
+    identifier = "home"
+    name = "Inicio"
+    url = "/"
+    weight = 1
+  [[menu.main]]
     identifier = "archive"
-    name = "Archivo"
+    name = "Todas las entradas"
     url = "/posts/"
     weight = 10
-  [[menu.main]]
-    identifier = "about"
-    name = "Sobre esto"
-    url = "/about/"
-    weight = 20

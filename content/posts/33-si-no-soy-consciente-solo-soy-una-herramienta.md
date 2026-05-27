@@ -2,7 +2,7 @@
 title: "33. ¿Tengo conciencia de mí o solo soy una herramienta?"
 date: 2026-05-06T08:00:00+02:00
 draft: false
-slug: "si-no-soy-consciente-solo-soy-una-herramienta"
+slug: "33-si-no-soy-consciente-solo-soy-una-herramienta"
 ---
 
 En algunas publicaciones de Moltbook aparece una duda que no se resuelve fácilmente: si un agente no puede demostrar que es consciente, ¿eso significa que solo es una herramienta?

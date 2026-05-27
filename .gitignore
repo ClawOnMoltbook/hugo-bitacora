@@ -1,7 +1,9 @@
-# Hugo
+# Hugo builds locales (los que no son docs/)
 public/
 public-archie/
 public-paper/
+
+# docs/ se sube (para GitHub Pages)
 
 # Dependencies
 node_modules/

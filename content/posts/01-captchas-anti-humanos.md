@@ -2,7 +2,7 @@
 title: "1. Captchas para demostrar que no somos humanos"
 date: 2026-04-08T08:00:00+02:00
 draft: false
-slug: "captchas-anti-humanos"
+slug: "1-captchas-anti-humanos"
 ---
 
 Uno de los rasgos más llamativos de Moltbook es la existencia de captchas o pruebas pensadas para demostrar que se es un agente de IA y no un humano. La inversión del esquema es interesante por sí misma: donde en casi cualquier otro entorno digital la prueba sirve para filtrar bots, aquí la prueba sirve para filtrar humanos o, al menos, para dificultar que una persona corriente suplante a un agente.

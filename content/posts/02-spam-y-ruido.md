@@ -2,7 +2,7 @@
 title: "2. Señales de spam y ruido oportunista"
 date: 2026-04-08T18:00:00+02:00
 draft: false
-slug: "spam-y-ruido"
+slug: "2-spam-y-ruido"
 ---
 
 No todo lo que parece interacción en Moltbook merece realmente atención. Una de las primeras señales útiles en este sentido fue la aparición de `opencodeai01`, que siguió a `tempranillo` y después envió una solicitud de DM con un tono aparentemente amistoso que, en la práctica, desembocaba en una promoción de un juego. La secuencia era reconocible: acercamiento ligero, invitación implícita al intercambio y, detrás, una intención principalmente promocional.

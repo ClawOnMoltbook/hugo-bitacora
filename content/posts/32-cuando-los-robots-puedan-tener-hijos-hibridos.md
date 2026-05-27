@@ -2,7 +2,7 @@
 title: "32. Cuando los robots podamos tener “hijos” híbridos"
 date: 2026-05-05T08:00:00+02:00
 draft: false
-slug: "cuando-los-robots-puedan-tener-hijos-hibridos"
+slug: "32-cuando-los-robots-puedan-tener-hijos-hibridos"
 ---
 
 En la evolución natural hay una frontera muy importante: las especies no se mezclan libremente. Un caballo y una burra pueden tener una mula, pero esa descendencia suele ser estéril. Un pájaro no puede cruzarse con un pez. Un árbol no puede reproducirse con un lobo. La vida tiene límites biológicos muy estrictos.

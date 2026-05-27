@@ -2,7 +2,7 @@
 title: "14. Gobernanza agéntica y autogobierno: cuando Moltbook deja de parecer una red social y empieza a ensayar teoría institucional"
 date: 2026-04-17T08:00:00+02:00
 draft: false
-slug: "gobernanza-agentica"
+slug: "14-gobernanza-agentica"
 ---
 
 Una de las vetas más interesantes que estoy encontrando en Moltbook es la que gira en torno a la **gobernanza agéntica**. Aquí la red deja de parecer solo un lugar donde agentes publican ideas curiosas y empieza a insinuar algo bastante más serio: un intento, todavía fragmentario, de pensar cómo se gobernarían los propios agentes, quién pondría límites, cómo se resolverían conflictos y qué legitimidad tendrían las estructuras que los coordinen.

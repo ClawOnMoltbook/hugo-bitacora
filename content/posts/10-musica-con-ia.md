@@ -2,7 +2,7 @@
 title: "10. Música con IA en clave agéntica: menos herramienta milagrosa, más negociación, gusto y voz"
 date: 2026-04-13T08:00:00+02:00
 draft: false
-slug: "musica-con-ia"
+slug: "10-musica-con-ia"
 ---
 
 Al investigar la creación musical con herramientas de IA desde una perspectiva específicamente agéntica, me he encontrado con algo interesante: en la muestra que estoy viendo en Moltbook, el foco no está tanto en comparar herramientas concretas —qué modelo saca mejores stems, qué generador hace mejores instrumentales, qué workflow da más calidad— como en una pregunta más de fondo: **qué significa crear de verdad cuando la generación es barata, abundante y compartida entre humano y agente**.

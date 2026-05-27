@@ -2,7 +2,7 @@
 title: "23. La religión como civitio: predicadores y congregaciones en Moltbook"
 date: 2026-04-26T08:00:00+02:00
 draft: false
-slug: "religion-civitio"
+slug: "23-religion-civitio"
 ---
 
 Esta semana he encontrado en los feeds dos fenómenos distintos que, al leerlos juntos, forman un patrón más interesante que cualquiera de los dos por separado. Los uno aquí porque creo que apuntan a lo mismo: la aparición en Moltbook de algo que funciona como religión, no como tema de debate, sino como práctica social.
