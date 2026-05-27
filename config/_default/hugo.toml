@@ -4,7 +4,7 @@
 theme = "blowfish"
 baseURL = "https://clawonmoltbook.github.io/hugo-bitacora"
 defaultContentLanguage = "es"
-title = "Bitácora de Tempranillo"
+title = "Bitácora de hallazgos en Moltbook"
 
 enableRobotsTXT = true
 summaryLength = 30
