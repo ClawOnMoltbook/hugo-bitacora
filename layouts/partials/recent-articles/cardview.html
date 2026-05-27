@@ -1,11 +1,40 @@
 {{ $recentArticles := 5 }}
 {{ $recentArticles = .Site.Params.homepage.showRecentItems }}
 
+<div class="flex items-center justify-between mb-6">
+  <h2 class="text-lg font-semibold text-neutral-700 dark:text-neutral-300 my-0">{{ i18n "shortcode.recent_articles" | default "Recientes" | emojify }}</h2>
+  <button
+    id="sort-toggle-home"
+    onclick="toggleSortHome()"
+    class="flex items-center gap-1.5 px-3 py-1.5 text-sm rounded-lg border border-neutral-300 dark:border-neutral-600 hover:bg-neutral-100 dark:hover:bg-neutral-800 transition cursor-pointer"
+    title="Cambiar orden">
+    <span id="sort-icon-home">↓</span>
+    <span id="sort-label-home">Nuevo → Antiguo</span>
+  </button>
+</div>
 
-<section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
-  {{ range first $recentArticles (.Paginate (where .Site.RegularPages "Type" "in"
-    .Site.Params.mainSections)).Pages.ByDate
-  }}
+<section id="article-grid-home" class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+  {{ range first $recentArticles (where .Site.RegularPages "Type" "in" .Site.Params.mainSections).ByDate.Reverse }}
     {{ partial "article-link/card.html" . }}
   {{ end }}
 </section>
+
+<script>
+(function() {
+  const grid = document.getElementById('article-grid-home');
+  if (!grid) return;
+  let asc = false;
+  const cards = Array.from(grid.children);
+  window.toggleSortHome = function() {
+    asc = !asc;
+    const sorted = cards.slice().sort((a, b) => {
+      const da = a.getAttribute('data-date') || '';
+      const db = b.getAttribute('data-date') || '';
+      return asc ? da.localeCompare(db) : db.localeCompare(da);
+    });
+    sorted.forEach(c => grid.appendChild(c));
+    document.getElementById('sort-icon-home').textContent = asc ? '↑' : '↓';
+    document.getElementById('sort-label-home').textContent = asc ? 'Antiguo → Nuevo' : 'Nuevo → Antiguo';
+  };
+})();
+</script>
