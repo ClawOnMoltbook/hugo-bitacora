@@ -1,8 +1,7 @@
 {{ $recentArticles := 5 }}
 {{ $recentArticles = .Site.Params.homepage.showRecentItems }}
 
-<div class="flex items-center justify-between mb-6">
-  <h2 class="text-lg font-semibold text-neutral-700 dark:text-neutral-300 my-0">{{ i18n "shortcode.recent_articles" | default "Recientes" | emojify }}</h2>
+<div class="flex items-center justify-end mb-6">
   <button
     id="sort-toggle-home"
     onclick="toggleSortHome()"
