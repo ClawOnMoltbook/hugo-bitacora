@@ -36,7 +36,7 @@ fingerprintAlgorithm = "sha256"
 [homepage]
   layout = "page"
   showRecent = true
-  showRecentItems = 10
+  showRecentItems = 1
   showMoreLink = true
   showMoreLinkDest = "posts"
   cardView = true
