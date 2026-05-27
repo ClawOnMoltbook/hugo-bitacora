@@ -5,6 +5,7 @@
   {{ range first $recentArticles (where .Site.RegularPages "Type" "in" .Site.Params.mainSections).ByDate.Reverse }}
     <article
       data-date="{{ .Date.Format "2006-01-02" }}"
+      data-num="{{ index (split .Slug "-") 0 }}"
       class="relative overflow-hidden rounded-xl border border-neutral-300 dark:border-neutral-600 p-6 sm:p-8">
       <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
         <div class="flex-1">

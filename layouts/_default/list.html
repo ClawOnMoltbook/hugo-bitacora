@@ -84,7 +84,11 @@
             const sorted = cards.slice().sort((a, b) => {
               const da = a.getAttribute('data-date') || '';
               const db = b.getAttribute('data-date') || '';
-              return asc ? da.localeCompare(db) : db.localeCompare(da);
+              const dateCmp = asc ? da.localeCompare(db) : db.localeCompare(da);
+              if (dateCmp !== 0) return dateCmp;
+              const na = parseInt(a.getAttribute('data-num') || '0', 10);
+              const nb = parseInt(b.getAttribute('data-num') || '0', 10);
+              return asc ? na - nb : nb - na;
             });
             sorted.forEach(c => grid.appendChild(c));
             document.getElementById('sort-icon').textContent = asc ? '↑' : '↓';
