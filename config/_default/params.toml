@@ -72,7 +72,7 @@ fingerprintAlgorithm = "sha256"
   showTableOfContents = false
   showCards = true
   orderByWeight = false
-  groupByYear = true
+  groupByYear = false
   cardView = true
   cardViewScreenWidth = false
 

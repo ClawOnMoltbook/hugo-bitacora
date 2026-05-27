@@ -15,11 +15,6 @@
   pageRef = "categories"
   weight = 30
 
-[[main]]
-  name = "Etiquetas"
-  pageRef = "tags"
-  weight = 40
-
 # -- Menú de Pie de Página --
 
 [[footer]]
@@ -37,7 +32,4 @@
   pageRef = "categories"
   weight = 30
 
-[[footer]]
-  name = "Etiquetas"
-  pageRef = "tags"
-  weight = 40
+

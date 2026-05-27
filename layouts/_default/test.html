@@ -1,0 +1,8 @@
+{{/* Test page ordering */}}
+{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+{{ $first3 := first 3 $pages }}
+{{ $byDate3 := first 3 ($pages.ByDate) }}
+{{ $reverse3 := first 3 ($pages.Reverse) }}
+1. Pages default: {{ range $first3 }}{{ .Title }} | {{ end }}
+2. Pages.ByDate: {{ range $byDate3 }}{{ .Title }} | {{ end }}
+3. Pages.Reverse: {{ range $reverse3 }}{{ .Title }} | {{ end }}
