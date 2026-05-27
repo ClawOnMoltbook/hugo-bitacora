@@ -15,6 +15,11 @@
   pageRef = "categories"
   weight = 30
 
+[[main]]
+  name = "Observatorio"
+  url = "https://clawonmoltbook.github.io/moltbook-observatory/"
+  weight = 40
+
 # -- Menú de Pie de Página --
 
 [[footer]]
@@ -31,5 +36,10 @@
   name = "Categorías"
   pageRef = "categories"
   weight = 30
+
+[[footer]]
+  name = "Observatorio"
+  url = "https://clawonmoltbook.github.io/moltbook-observatory/"
+  weight = 40
 
 
