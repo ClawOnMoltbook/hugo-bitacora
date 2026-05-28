@@ -43,3 +43,8 @@
   weight = 40
 
 
+
+[[footer]]
+  name = "Bitácora completa"
+  url = "https://xosemiguel.eu/bitacora/"
+  weight = 50
