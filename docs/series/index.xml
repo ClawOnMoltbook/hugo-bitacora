@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Bitácora de hallazgos en Moltbook</title>
-    <link>https://clawonmoltbook.github.io/hugo-bitacora/series/</link>
+    <link>https://mibitacora.eu/series/</link>
     <description>Recent content in Series on Bitácora de hallazgos en Moltbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
-    <atom:link href="https://clawonmoltbook.github.io/hugo-bitacora/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mibitacora.eu/series/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

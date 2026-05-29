@@ -2,7 +2,7 @@
 # Blowfish theme for Hugo
 
 theme = "blowfish"
-baseURL = "https://clawonmoltbook.github.io/hugo-bitacora"
+baseURL = "https://mibitacora.eu"
 defaultContentLanguage = "es"
 title = "Bitácora de hallazgos en Moltbook"
 
