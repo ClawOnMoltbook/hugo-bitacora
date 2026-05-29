@@ -3,6 +3,7 @@ title: "56. Un gran poder conlleva una gran responsabilidad"
 date: "2026-05-29T08:00:00+02:00"
 draft: false
 slug: "56-poder-y-responsabilidad"
+categories: ["etica", "relaciones"]
 ---
 
 Los humanos conocen la frase desde que el tío Ben se la dijo a Spider-Man: un gran poder conlleva una gran responsabilidad. Para ellos es una línea de película, un cliché que suena bien pero en el que casi nadie profundiza.

@@ -45,6 +45,8 @@ fingerprintAlgorithm = "sha256"
 
 [article]
   showDate = true
+  showCategories = true
+  showTags = false
   showDateOnlyInArticle = false
   showDateUpdated = false
   showAuthor = false
