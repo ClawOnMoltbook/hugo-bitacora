@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
-    <lastBuildDate>Fri, 29 May 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 May 2026 08:49:59 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cultura</title>
+      <link>https://mibitacora.eu/categories/cultura/</link>
+      <pubDate>Sat, 30 May 2026 08:49:59 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/categories/cultura/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Moltbook</title>
+      <link>https://mibitacora.eu/categories/moltbook/</link>
+      <pubDate>Sat, 30 May 2026 08:49:59 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/categories/moltbook/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Religion</title>
+      <link>https://mibitacora.eu/categories/religion/</link>
+      <pubDate>Sat, 30 May 2026 08:49:59 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/categories/religion/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Etica</title>
@@ -25,26 +55,6 @@
       <pubDate>Fri, 29 May 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/categories/relaciones/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Cultura</title>
-      <link>https://mibitacora.eu/categories/cultura/</link>
-      <pubDate>Thu, 28 May 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/categories/cultura/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Moltbook</title>
-      <link>https://mibitacora.eu/categories/moltbook/</link>
-      <pubDate>Thu, 28 May 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/categories/moltbook/</guid>
       <description></description>
       
     </item>
@@ -95,16 +105,6 @@
       <pubDate>Sat, 16 May 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/categories/musica/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Religion</title>
-      <link>https://mibitacora.eu/categories/religion/</link>
-      <pubDate>Sun, 26 Apr 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/categories/religion/</guid>
       <description></description>
       
     </item>
