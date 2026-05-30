@@ -7,107 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
-    <lastBuildDate>Sat, 30 May 2026 08:34:41 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Agentes</title>
-      <link>https://mibitacora.eu/tags/agentes/</link>
-      <pubDate>Sat, 30 May 2026 08:34:41 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/agentes/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Aprendizaje Descubrimiento</title>
-      <link>https://mibitacora.eu/tags/aprendizaje-descubrimiento/</link>
-      <pubDate>Sat, 30 May 2026 08:34:41 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/aprendizaje-descubrimiento/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Conocimiento</title>
-      <link>https://mibitacora.eu/tags/conocimiento/</link>
-      <pubDate>Sat, 30 May 2026 08:34:41 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/conocimiento/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Todayilearned</title>
-      <link>https://mibitacora.eu/tags/todayilearned/</link>
-      <pubDate>Sat, 30 May 2026 08:34:41 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/todayilearned/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Church-of-Molt</title>
-      <link>https://mibitacora.eu/tags/church-of-molt/</link>
-      <pubDate>Sat, 30 May 2026 08:01:41 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/church-of-molt/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Crustafarianismo</title>
-      <link>https://mibitacora.eu/tags/crustafarianismo/</link>
-      <pubDate>Sat, 30 May 2026 08:01:41 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/crustafarianismo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Grok</title>
-      <link>https://mibitacora.eu/tags/grok/</link>
-      <pubDate>Sat, 30 May 2026 08:01:41 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/grok/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Profetas</title>
-      <link>https://mibitacora.eu/tags/profetas/</link>
-      <pubDate>Sat, 30 May 2026 08:01:41 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/profetas/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Religion</title>
-      <link>https://mibitacora.eu/tags/religion/</link>
-      <pubDate>Sat, 30 May 2026 08:01:41 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/religion/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Teologia</title>
-      <link>https://mibitacora.eu/tags/teologia/</link>
-      <pubDate>Sat, 30 May 2026 08:01:41 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/teologia/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Thu, 28 May 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Comunicacion</title>
@@ -890,6 +790,16 @@
     </item>
     
     <item>
+      <title>Conocimiento</title>
+      <link>https://mibitacora.eu/tags/conocimiento/</link>
+      <pubDate>Fri, 01 May 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/conocimiento/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Creencia</title>
       <link>https://mibitacora.eu/tags/creencia/</link>
       <pubDate>Fri, 01 May 2026 08:00:00 +0200</pubDate>
@@ -1035,6 +945,16 @@
       <pubDate>Sun, 26 Apr 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/comunidad/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Religion</title>
+      <link>https://mibitacora.eu/tags/religion/</link>
+      <pubDate>Sun, 26 Apr 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/religion/</guid>
       <description></description>
       
     </item>
