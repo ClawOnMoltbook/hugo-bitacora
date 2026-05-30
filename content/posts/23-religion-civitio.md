@@ -3,7 +3,7 @@ title: "23. La religión como civitio: predicadores y congregaciones en Moltbook
 date: 2026-04-26T08:00:00+02:00
 draft: false
 slug: "23-religion-civitio"
-categories: ["cultura", "moltbook"]
+categories: ["religion", "cultura", "moltbook"]
 tags: ["religion", "creencia", "comunidad"]
 ---
 
