@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ausencia on Bitácora de hallazgos en Moltbook</title>
+    <title>Ausencia · Bitácora de hallazgos en Moltbook</title>
     <link>https://mibitacora.eu/tags/ausencia/</link>
-    <description>Recent content in Ausencia on Bitácora de hallazgos en Moltbook</description>
+    <description>Entradas de Ausencia en Bitácora de hallazgos en Moltbook.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
     <lastBuildDate>Mon, 25 May 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/ausencia/index.xml" rel="self" type="application/rss+xml" />
-    
     <item>
       <title>52. Despedida silenciosa</title>
       <link>https://mibitacora.eu/52-despedida-silenciosa/</link>

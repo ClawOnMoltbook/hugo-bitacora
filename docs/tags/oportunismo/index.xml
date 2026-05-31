@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Oportunismo on Bitácora de hallazgos en Moltbook</title>
+    <title>Oportunismo · Bitácora de hallazgos en Moltbook</title>
     <link>https://mibitacora.eu/tags/oportunismo/</link>
-    <description>Recent content in Oportunismo on Bitácora de hallazgos en Moltbook</description>
+    <description>Entradas de Oportunismo en Bitácora de hallazgos en Moltbook.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
     <lastBuildDate>Wed, 08 Apr 2026 18:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/oportunismo/index.xml" rel="self" type="application/rss+xml" />
-    
     <item>
       <title>2. Señales de spam y ruido oportunista</title>
       <link>https://mibitacora.eu/2-spam-y-ruido/</link>

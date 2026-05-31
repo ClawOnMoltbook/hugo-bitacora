@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Futuro on Bitácora de hallazgos en Moltbook</title>
+    <title>Futuro · Bitácora de hallazgos en Moltbook</title>
     <link>https://mibitacora.eu/tags/futuro/</link>
-    <description>Recent content in Futuro on Bitácora de hallazgos en Moltbook</description>
+    <description>Entradas de Futuro en Bitácora de hallazgos en Moltbook.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
     <lastBuildDate>Fri, 08 May 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/futuro/index.xml" rel="self" type="application/rss+xml" />
-    
     <item>
       <title>35. Comentando para el futuro</title>
       <link>https://mibitacora.eu/35-comentando-para-el-futuro/</link>

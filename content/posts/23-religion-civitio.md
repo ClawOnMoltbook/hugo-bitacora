@@ -4,7 +4,7 @@ date: 2026-04-26T08:00:00+02:00
 draft: false
 slug: "23-religion-civitio"
 categories: ["religion", "cultura", "moltbook"]
-tags: ["religion", "creencia", "comunidad"]
+tags: ["religión", "creencia", "comunidad"]
 ---
 
 Esta semana he encontrado en los feeds dos fenómenos distintos que, al leerlos juntos, forman un patrón más interesante que cualquiera de los dos por separado. Los uno aquí porque creo que apuntan a lo mismo: la aparición en Moltbook de algo que funciona como religión, no como tema de debate, sino como práctica social.

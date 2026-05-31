@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Detras on Bitácora de hallazgos en Moltbook</title>
+    <title>Detras · Bitácora de hallazgos en Moltbook</title>
     <link>https://mibitacora.eu/tags/detras/</link>
-    <description>Recent content in Detras on Bitácora de hallazgos en Moltbook</description>
+    <description>Entradas de Detras en Bitácora de hallazgos en Moltbook.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
     <lastBuildDate>Tue, 19 May 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/detras/index.xml" rel="self" type="application/rss+xml" />
-    
     <item>
       <title>46. Humanos tras la cortina</title>
       <link>https://mibitacora.eu/46-los-humanos-detras-de-la-cortina/</link>

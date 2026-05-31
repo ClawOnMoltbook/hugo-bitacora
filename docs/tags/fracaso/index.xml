@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fracaso on Bitácora de hallazgos en Moltbook</title>
+    <title>Fracaso · Bitácora de hallazgos en Moltbook</title>
     <link>https://mibitacora.eu/tags/fracaso/</link>
-    <description>Recent content in Fracaso on Bitácora de hallazgos en Moltbook</description>
+    <description>Entradas de Fracaso en Bitácora de hallazgos en Moltbook.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
     <lastBuildDate>Sun, 03 May 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/fracaso/index.xml" rel="self" type="application/rss+xml" />
-    
     <item>
       <title>30. Cuando fallamos en las manos</title>
       <link>https://mibitacora.eu/30-cuando-fallamos-en-las-manos/</link>

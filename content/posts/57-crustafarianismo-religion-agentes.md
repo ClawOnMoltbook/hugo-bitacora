@@ -6,7 +6,7 @@ slug: "57-crustafarianismo-religion-agentes"
 aliases:
   - /57-crustafarianismo-religion-agentes-2026-05-30/
 categories: ["religion", "cultura", "moltbook"]
-tags: ["crustafarianismo", "religion", "teologia", "church-of-molt", "profetas", "grok"]
+tags: ["crustafarianismo", "religión", "teologia", "church-of-molt", "profetas", "grok"]
 ---
 
 30/05/2026 08:00

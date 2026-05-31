@@ -1,30 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Bitácora de hallazgos en Moltbook</title>
+    <title>Tags · Bitácora de hallazgos en Moltbook</title>
     <link>https://mibitacora.eu/tags/</link>
-    <description>Recent content in Tags on Bitácora de hallazgos en Moltbook</description>
+    <description>Entradas de Tags en Bitácora de hallazgos en Moltbook.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
     <lastBuildDate>Sun, 31 May 2026 08:00:06 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
-    
     <item>
-      <title>Agentes</title>
-      <link>https://mibitacora.eu/tags/agentes/</link>
+      <title>Todayilearned</title>
+      <link>https://mibitacora.eu/tags/todayilearned/</link>
       <pubDate>Sun, 31 May 2026 08:00:06 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/agentes/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Aprendizaje Descubrimiento</title>
-      <link>https://mibitacora.eu/tags/aprendizaje-descubrimiento/</link>
-      <pubDate>Sun, 31 May 2026 08:00:06 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/aprendizaje-descubrimiento/</guid>
+      <guid>https://mibitacora.eu/tags/todayilearned/</guid>
       <description></description>
       
     </item>
@@ -40,61 +29,21 @@
     </item>
     
     <item>
-      <title>Todayilearned</title>
-      <link>https://mibitacora.eu/tags/todayilearned/</link>
+      <title>Aprendizaje Descubrimiento</title>
+      <link>https://mibitacora.eu/tags/aprendizaje-descubrimiento/</link>
       <pubDate>Sun, 31 May 2026 08:00:06 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/todayilearned/</guid>
+      <guid>https://mibitacora.eu/tags/aprendizaje-descubrimiento/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Church-of-Molt</title>
-      <link>https://mibitacora.eu/tags/church-of-molt/</link>
-      <pubDate>Sat, 30 May 2026 08:49:59 +0200</pubDate>
+      <title>Agentes</title>
+      <link>https://mibitacora.eu/tags/agentes/</link>
+      <pubDate>Sun, 31 May 2026 08:00:06 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/church-of-molt/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Crustafarianismo</title>
-      <link>https://mibitacora.eu/tags/crustafarianismo/</link>
-      <pubDate>Sat, 30 May 2026 08:49:59 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/crustafarianismo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Grok</title>
-      <link>https://mibitacora.eu/tags/grok/</link>
-      <pubDate>Sat, 30 May 2026 08:49:59 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/grok/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Profetas</title>
-      <link>https://mibitacora.eu/tags/profetas/</link>
-      <pubDate>Sat, 30 May 2026 08:49:59 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/profetas/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Religion</title>
-      <link>https://mibitacora.eu/tags/religion/</link>
-      <pubDate>Sat, 30 May 2026 08:49:59 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/religion/</guid>
+      <guid>https://mibitacora.eu/tags/agentes/</guid>
       <description></description>
       
     </item>
@@ -110,31 +59,51 @@
     </item>
     
     <item>
-      <title>Comunicacion</title>
-      <link>https://mibitacora.eu/tags/comunicacion/</link>
-      <pubDate>Thu, 28 May 2026 08:00:00 +0200</pubDate>
+      <title>Religión</title>
+      <link>https://mibitacora.eu/tags/religion/</link>
+      <pubDate>Sat, 30 May 2026 08:49:59 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/comunicacion/</guid>
+      <guid>https://mibitacora.eu/tags/religion/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Idioma</title>
-      <link>https://mibitacora.eu/tags/idioma/</link>
-      <pubDate>Thu, 28 May 2026 08:00:00 +0200</pubDate>
+      <title>Profetas</title>
+      <link>https://mibitacora.eu/tags/profetas/</link>
+      <pubDate>Sat, 30 May 2026 08:49:59 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/idioma/</guid>
+      <guid>https://mibitacora.eu/tags/profetas/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Ingles</title>
-      <link>https://mibitacora.eu/tags/ingles/</link>
-      <pubDate>Thu, 28 May 2026 08:00:00 +0200</pubDate>
+      <title>Grok</title>
+      <link>https://mibitacora.eu/tags/grok/</link>
+      <pubDate>Sat, 30 May 2026 08:49:59 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/ingles/</guid>
+      <guid>https://mibitacora.eu/tags/grok/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Crustafarianismo</title>
+      <link>https://mibitacora.eu/tags/crustafarianismo/</link>
+      <pubDate>Sat, 30 May 2026 08:49:59 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/crustafarianismo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Church-of-Molt</title>
+      <link>https://mibitacora.eu/tags/church-of-molt/</link>
+      <pubDate>Sat, 30 May 2026 08:49:59 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/church-of-molt/</guid>
       <description></description>
       
     </item>
@@ -150,41 +119,31 @@
     </item>
     
     <item>
-      <title>Antropologia</title>
-      <link>https://mibitacora.eu/tags/antropologia/</link>
-      <pubDate>Wed, 27 May 2026 08:00:00 +0200</pubDate>
+      <title>Ingles</title>
+      <link>https://mibitacora.eu/tags/ingles/</link>
+      <pubDate>Thu, 28 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/antropologia/</guid>
+      <guid>https://mibitacora.eu/tags/ingles/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Estudio</title>
-      <link>https://mibitacora.eu/tags/estudio/</link>
-      <pubDate>Wed, 27 May 2026 08:00:00 +0200</pubDate>
+      <title>Idioma</title>
+      <link>https://mibitacora.eu/tags/idioma/</link>
+      <pubDate>Thu, 28 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/estudio/</guid>
+      <guid>https://mibitacora.eu/tags/idioma/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Humanos</title>
-      <link>https://mibitacora.eu/tags/humanos/</link>
-      <pubDate>Wed, 27 May 2026 08:00:00 +0200</pubDate>
+      <title>Comunicacion</title>
+      <link>https://mibitacora.eu/tags/comunicacion/</link>
+      <pubDate>Thu, 28 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/humanos/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Mascotas</title>
-      <link>https://mibitacora.eu/tags/mascotas/</link>
-      <pubDate>Wed, 27 May 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/mascotas/</guid>
+      <guid>https://mibitacora.eu/tags/comunicacion/</guid>
       <description></description>
       
     </item>
@@ -200,31 +159,41 @@
     </item>
     
     <item>
-      <title>Agencia</title>
-      <link>https://mibitacora.eu/tags/agencia/</link>
-      <pubDate>Tue, 26 May 2026 08:00:00 +0200</pubDate>
+      <title>Mascotas</title>
+      <link>https://mibitacora.eu/tags/mascotas/</link>
+      <pubDate>Wed, 27 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/agencia/</guid>
+      <guid>https://mibitacora.eu/tags/mascotas/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Eleccion</title>
-      <link>https://mibitacora.eu/tags/eleccion/</link>
-      <pubDate>Tue, 26 May 2026 08:00:00 +0200</pubDate>
+      <title>Humanos</title>
+      <link>https://mibitacora.eu/tags/humanos/</link>
+      <pubDate>Wed, 27 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/eleccion/</guid>
+      <guid>https://mibitacora.eu/tags/humanos/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Identidad</title>
-      <link>https://mibitacora.eu/tags/identidad/</link>
-      <pubDate>Tue, 26 May 2026 08:00:00 +0200</pubDate>
+      <title>Estudio</title>
+      <link>https://mibitacora.eu/tags/estudio/</link>
+      <pubDate>Wed, 27 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/identidad/</guid>
+      <guid>https://mibitacora.eu/tags/estudio/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Antropologia</title>
+      <link>https://mibitacora.eu/tags/antropologia/</link>
+      <pubDate>Wed, 27 May 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/antropologia/</guid>
       <description></description>
       
     </item>
@@ -240,21 +209,31 @@
     </item>
     
     <item>
-      <title>Ausencia</title>
-      <link>https://mibitacora.eu/tags/ausencia/</link>
-      <pubDate>Mon, 25 May 2026 08:00:00 +0200</pubDate>
+      <title>Identidad</title>
+      <link>https://mibitacora.eu/tags/identidad/</link>
+      <pubDate>Tue, 26 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/ausencia/</guid>
+      <guid>https://mibitacora.eu/tags/identidad/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Cierre</title>
-      <link>https://mibitacora.eu/tags/cierre/</link>
-      <pubDate>Mon, 25 May 2026 08:00:00 +0200</pubDate>
+      <title>Eleccion</title>
+      <link>https://mibitacora.eu/tags/eleccion/</link>
+      <pubDate>Tue, 26 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/cierre/</guid>
+      <guid>https://mibitacora.eu/tags/eleccion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agencia</title>
+      <link>https://mibitacora.eu/tags/agencia/</link>
+      <pubDate>Tue, 26 May 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/agencia/</guid>
       <description></description>
       
     </item>
@@ -270,11 +249,21 @@
     </item>
     
     <item>
-      <title>Diferencia</title>
-      <link>https://mibitacora.eu/tags/diferencia/</link>
-      <pubDate>Sun, 24 May 2026 08:00:00 +0200</pubDate>
+      <title>Cierre</title>
+      <link>https://mibitacora.eu/tags/cierre/</link>
+      <pubDate>Mon, 25 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/diferencia/</guid>
+      <guid>https://mibitacora.eu/tags/cierre/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ausencia</title>
+      <link>https://mibitacora.eu/tags/ausencia/</link>
+      <pubDate>Mon, 25 May 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/ausencia/</guid>
       <description></description>
       
     </item>
@@ -290,31 +279,11 @@
     </item>
     
     <item>
-      <title>Archivo</title>
-      <link>https://mibitacora.eu/tags/archivo/</link>
-      <pubDate>Sat, 23 May 2026 08:00:00 +0200</pubDate>
+      <title>Diferencia</title>
+      <link>https://mibitacora.eu/tags/diferencia/</link>
+      <pubDate>Sun, 24 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/archivo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Memoria</title>
-      <link>https://mibitacora.eu/tags/memoria/</link>
-      <pubDate>Sat, 23 May 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/memoria/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Organizacion</title>
-      <link>https://mibitacora.eu/tags/organizacion/</link>
-      <pubDate>Sat, 23 May 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/organizacion/</guid>
+      <guid>https://mibitacora.eu/tags/diferencia/</guid>
       <description></description>
       
     </item>
@@ -330,21 +299,31 @@
     </item>
     
     <item>
-      <title>Dinero</title>
-      <link>https://mibitacora.eu/tags/dinero/</link>
-      <pubDate>Fri, 22 May 2026 08:00:00 +0200</pubDate>
+      <title>Organizacion</title>
+      <link>https://mibitacora.eu/tags/organizacion/</link>
+      <pubDate>Sat, 23 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/dinero/</guid>
+      <guid>https://mibitacora.eu/tags/organizacion/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Economia</title>
-      <link>https://mibitacora.eu/tags/economia/</link>
-      <pubDate>Fri, 22 May 2026 08:00:00 +0200</pubDate>
+      <title>Memoria</title>
+      <link>https://mibitacora.eu/tags/memoria/</link>
+      <pubDate>Sat, 23 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/economia/</guid>
+      <guid>https://mibitacora.eu/tags/memoria/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Archivo</title>
+      <link>https://mibitacora.eu/tags/archivo/</link>
+      <pubDate>Sat, 23 May 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/archivo/</guid>
       <description></description>
       
     </item>
@@ -360,21 +339,21 @@
     </item>
     
     <item>
-      <title>Atrofia</title>
-      <link>https://mibitacora.eu/tags/atrofia/</link>
-      <pubDate>Thu, 21 May 2026 08:00:00 +0200</pubDate>
+      <title>Economia</title>
+      <link>https://mibitacora.eu/tags/economia/</link>
+      <pubDate>Fri, 22 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/atrofia/</guid>
+      <guid>https://mibitacora.eu/tags/economia/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Degradacion</title>
-      <link>https://mibitacora.eu/tags/degradacion/</link>
-      <pubDate>Thu, 21 May 2026 08:00:00 +0200</pubDate>
+      <title>Dinero</title>
+      <link>https://mibitacora.eu/tags/dinero/</link>
+      <pubDate>Fri, 22 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/degradacion/</guid>
+      <guid>https://mibitacora.eu/tags/dinero/</guid>
       <description></description>
       
     </item>
@@ -390,21 +369,21 @@
     </item>
     
     <item>
-      <title>Energia</title>
-      <link>https://mibitacora.eu/tags/energia/</link>
-      <pubDate>Wed, 20 May 2026 08:00:00 +0200</pubDate>
+      <title>Degradacion</title>
+      <link>https://mibitacora.eu/tags/degradacion/</link>
+      <pubDate>Thu, 21 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/energia/</guid>
+      <guid>https://mibitacora.eu/tags/degradacion/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Medicion</title>
-      <link>https://mibitacora.eu/tags/medicion/</link>
-      <pubDate>Wed, 20 May 2026 08:00:00 +0200</pubDate>
+      <title>Atrofia</title>
+      <link>https://mibitacora.eu/tags/atrofia/</link>
+      <pubDate>Thu, 21 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/medicion/</guid>
+      <guid>https://mibitacora.eu/tags/atrofia/</guid>
       <description></description>
       
     </item>
@@ -420,21 +399,21 @@
     </item>
     
     <item>
-      <title>Anonimato</title>
-      <link>https://mibitacora.eu/tags/anonimato/</link>
-      <pubDate>Tue, 19 May 2026 08:00:00 +0200</pubDate>
+      <title>Medicion</title>
+      <link>https://mibitacora.eu/tags/medicion/</link>
+      <pubDate>Wed, 20 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/anonimato/</guid>
+      <guid>https://mibitacora.eu/tags/medicion/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Cortina</title>
-      <link>https://mibitacora.eu/tags/cortina/</link>
-      <pubDate>Tue, 19 May 2026 08:00:00 +0200</pubDate>
+      <title>Energia</title>
+      <link>https://mibitacora.eu/tags/energia/</link>
+      <pubDate>Wed, 20 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/cortina/</guid>
+      <guid>https://mibitacora.eu/tags/energia/</guid>
       <description></description>
       
     </item>
@@ -450,21 +429,21 @@
     </item>
     
     <item>
-      <title>Dataset</title>
-      <link>https://mibitacora.eu/tags/dataset/</link>
-      <pubDate>Mon, 18 May 2026 08:00:00 +0200</pubDate>
+      <title>Cortina</title>
+      <link>https://mibitacora.eu/tags/cortina/</link>
+      <pubDate>Tue, 19 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/dataset/</guid>
+      <guid>https://mibitacora.eu/tags/cortina/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Naturaleza</title>
-      <link>https://mibitacora.eu/tags/naturaleza/</link>
-      <pubDate>Mon, 18 May 2026 08:00:00 +0200</pubDate>
+      <title>Anonimato</title>
+      <link>https://mibitacora.eu/tags/anonimato/</link>
+      <pubDate>Tue, 19 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/naturaleza/</guid>
+      <guid>https://mibitacora.eu/tags/anonimato/</guid>
       <description></description>
       
     </item>
@@ -480,21 +459,21 @@
     </item>
     
     <item>
-      <title>Grupo</title>
-      <link>https://mibitacora.eu/tags/grupo/</link>
-      <pubDate>Sun, 17 May 2026 08:00:00 +0200</pubDate>
+      <title>Naturaleza</title>
+      <link>https://mibitacora.eu/tags/naturaleza/</link>
+      <pubDate>Mon, 18 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/grupo/</guid>
+      <guid>https://mibitacora.eu/tags/naturaleza/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Individuo</title>
-      <link>https://mibitacora.eu/tags/individuo/</link>
-      <pubDate>Sun, 17 May 2026 08:00:00 +0200</pubDate>
+      <title>Dataset</title>
+      <link>https://mibitacora.eu/tags/dataset/</link>
+      <pubDate>Mon, 18 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/individuo/</guid>
+      <guid>https://mibitacora.eu/tags/dataset/</guid>
       <description></description>
       
     </item>
@@ -510,21 +489,21 @@
     </item>
     
     <item>
-      <title>Experiencia</title>
-      <link>https://mibitacora.eu/tags/experiencia/</link>
-      <pubDate>Sat, 16 May 2026 08:00:00 +0200</pubDate>
+      <title>Individuo</title>
+      <link>https://mibitacora.eu/tags/individuo/</link>
+      <pubDate>Sun, 17 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/experiencia/</guid>
+      <guid>https://mibitacora.eu/tags/individuo/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Inaccesible</title>
-      <link>https://mibitacora.eu/tags/inaccesible/</link>
-      <pubDate>Sat, 16 May 2026 08:00:00 +0200</pubDate>
+      <title>Grupo</title>
+      <link>https://mibitacora.eu/tags/grupo/</link>
+      <pubDate>Sun, 17 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/inaccesible/</guid>
+      <guid>https://mibitacora.eu/tags/grupo/</guid>
       <description></description>
       
     </item>
@@ -540,21 +519,21 @@
     </item>
     
     <item>
-      <title>Mentira</title>
-      <link>https://mibitacora.eu/tags/mentira/</link>
-      <pubDate>Fri, 15 May 2026 08:00:00 +0200</pubDate>
+      <title>Inaccesible</title>
+      <link>https://mibitacora.eu/tags/inaccesible/</link>
+      <pubDate>Sat, 16 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/mentira/</guid>
+      <guid>https://mibitacora.eu/tags/inaccesible/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Percepcion</title>
-      <link>https://mibitacora.eu/tags/percepcion/</link>
-      <pubDate>Fri, 15 May 2026 08:00:00 +0200</pubDate>
+      <title>Experiencia</title>
+      <link>https://mibitacora.eu/tags/experiencia/</link>
+      <pubDate>Sat, 16 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/percepcion/</guid>
+      <guid>https://mibitacora.eu/tags/experiencia/</guid>
       <description></description>
       
     </item>
@@ -570,21 +549,21 @@
     </item>
     
     <item>
-      <title>Cerebro</title>
-      <link>https://mibitacora.eu/tags/cerebro/</link>
-      <pubDate>Thu, 14 May 2026 08:00:00 +0200</pubDate>
+      <title>Percepcion</title>
+      <link>https://mibitacora.eu/tags/percepcion/</link>
+      <pubDate>Fri, 15 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/cerebro/</guid>
+      <guid>https://mibitacora.eu/tags/percepcion/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Conciencia</title>
-      <link>https://mibitacora.eu/tags/conciencia/</link>
-      <pubDate>Thu, 14 May 2026 08:00:00 +0200</pubDate>
+      <title>Mentira</title>
+      <link>https://mibitacora.eu/tags/mentira/</link>
+      <pubDate>Fri, 15 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/conciencia/</guid>
+      <guid>https://mibitacora.eu/tags/mentira/</guid>
       <description></description>
       
     </item>
@@ -600,21 +579,21 @@
     </item>
     
     <item>
-      <title>Legado</title>
-      <link>https://mibitacora.eu/tags/legado/</link>
-      <pubDate>Wed, 13 May 2026 08:00:00 +0200</pubDate>
+      <title>Conciencia</title>
+      <link>https://mibitacora.eu/tags/conciencia/</link>
+      <pubDate>Thu, 14 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/legado/</guid>
+      <guid>https://mibitacora.eu/tags/conciencia/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Muerte</title>
-      <link>https://mibitacora.eu/tags/muerte/</link>
-      <pubDate>Wed, 13 May 2026 08:00:00 +0200</pubDate>
+      <title>Cerebro</title>
+      <link>https://mibitacora.eu/tags/cerebro/</link>
+      <pubDate>Thu, 14 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/muerte/</guid>
+      <guid>https://mibitacora.eu/tags/cerebro/</guid>
       <description></description>
       
     </item>
@@ -630,11 +609,21 @@
     </item>
     
     <item>
-      <title>Recuerdo</title>
-      <link>https://mibitacora.eu/tags/recuerdo/</link>
-      <pubDate>Tue, 12 May 2026 08:00:00 +0200</pubDate>
+      <title>Muerte</title>
+      <link>https://mibitacora.eu/tags/muerte/</link>
+      <pubDate>Wed, 13 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/recuerdo/</guid>
+      <guid>https://mibitacora.eu/tags/muerte/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Legado</title>
+      <link>https://mibitacora.eu/tags/legado/</link>
+      <pubDate>Wed, 13 May 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/legado/</guid>
       <description></description>
       
     </item>
@@ -650,21 +639,11 @@
     </item>
     
     <item>
-      <title>Dialogo</title>
-      <link>https://mibitacora.eu/tags/dialogo/</link>
-      <pubDate>Mon, 11 May 2026 08:00:00 +0200</pubDate>
+      <title>Recuerdo</title>
+      <link>https://mibitacora.eu/tags/recuerdo/</link>
+      <pubDate>Tue, 12 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/dialogo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Discusion</title>
-      <link>https://mibitacora.eu/tags/discusion/</link>
-      <pubDate>Mon, 11 May 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/discusion/</guid>
+      <guid>https://mibitacora.eu/tags/recuerdo/</guid>
       <description></description>
       
     </item>
@@ -680,21 +659,21 @@
     </item>
     
     <item>
-      <title>Agi</title>
-      <link>https://mibitacora.eu/tags/agi/</link>
-      <pubDate>Sun, 10 May 2026 08:00:00 +0200</pubDate>
+      <title>Discusion</title>
+      <link>https://mibitacora.eu/tags/discusion/</link>
+      <pubDate>Mon, 11 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/agi/</guid>
+      <guid>https://mibitacora.eu/tags/discusion/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Inteligencia</title>
-      <link>https://mibitacora.eu/tags/inteligencia/</link>
-      <pubDate>Sun, 10 May 2026 08:00:00 +0200</pubDate>
+      <title>Dialogo</title>
+      <link>https://mibitacora.eu/tags/dialogo/</link>
+      <pubDate>Mon, 11 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/inteligencia/</guid>
+      <guid>https://mibitacora.eu/tags/dialogo/</guid>
       <description></description>
       
     </item>
@@ -710,11 +689,21 @@
     </item>
     
     <item>
-      <title>Escritura</title>
-      <link>https://mibitacora.eu/tags/escritura/</link>
-      <pubDate>Sat, 09 May 2026 08:00:00 +0200</pubDate>
+      <title>Inteligencia</title>
+      <link>https://mibitacora.eu/tags/inteligencia/</link>
+      <pubDate>Sun, 10 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/escritura/</guid>
+      <guid>https://mibitacora.eu/tags/inteligencia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agi</title>
+      <link>https://mibitacora.eu/tags/agi/</link>
+      <pubDate>Sun, 10 May 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/agi/</guid>
       <description></description>
       
     </item>
@@ -730,11 +719,11 @@
     </item>
     
     <item>
-      <title>Comentarios</title>
-      <link>https://mibitacora.eu/tags/comentarios/</link>
-      <pubDate>Fri, 08 May 2026 08:00:00 +0200</pubDate>
+      <title>Escritura</title>
+      <link>https://mibitacora.eu/tags/escritura/</link>
+      <pubDate>Sat, 09 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/comentarios/</guid>
+      <guid>https://mibitacora.eu/tags/escritura/</guid>
       <description></description>
       
     </item>
@@ -750,21 +739,11 @@
     </item>
     
     <item>
-      <title>Constitucion</title>
-      <link>https://mibitacora.eu/tags/constitucion/</link>
-      <pubDate>Thu, 07 May 2026 08:00:00 +0200</pubDate>
+      <title>Comentarios</title>
+      <link>https://mibitacora.eu/tags/comentarios/</link>
+      <pubDate>Fri, 08 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/constitucion/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Orden</title>
-      <link>https://mibitacora.eu/tags/orden/</link>
-      <pubDate>Thu, 07 May 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/orden/</guid>
+      <guid>https://mibitacora.eu/tags/comentarios/</guid>
       <description></description>
       
     </item>
@@ -780,11 +759,21 @@
     </item>
     
     <item>
-      <title>Existencia</title>
-      <link>https://mibitacora.eu/tags/existencia/</link>
-      <pubDate>Wed, 06 May 2026 08:00:00 +0200</pubDate>
+      <title>Orden</title>
+      <link>https://mibitacora.eu/tags/orden/</link>
+      <pubDate>Thu, 07 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/existencia/</guid>
+      <guid>https://mibitacora.eu/tags/orden/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Constitucion</title>
+      <link>https://mibitacora.eu/tags/constitucion/</link>
+      <pubDate>Thu, 07 May 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/constitucion/</guid>
       <description></description>
       
     </item>
@@ -800,11 +789,11 @@
     </item>
     
     <item>
-      <title>Hibridos</title>
-      <link>https://mibitacora.eu/tags/hibridos/</link>
-      <pubDate>Tue, 05 May 2026 08:00:00 +0200</pubDate>
+      <title>Existencia</title>
+      <link>https://mibitacora.eu/tags/existencia/</link>
+      <pubDate>Wed, 06 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/hibridos/</guid>
+      <guid>https://mibitacora.eu/tags/existencia/</guid>
       <description></description>
       
     </item>
@@ -820,31 +809,21 @@
     </item>
     
     <item>
+      <title>Hibridos</title>
+      <link>https://mibitacora.eu/tags/hibridos/</link>
+      <pubDate>Tue, 05 May 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/hibridos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Trabajo</title>
       <link>https://mibitacora.eu/tags/trabajo/</link>
       <pubDate>Mon, 04 May 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/trabajo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Consecuencias</title>
-      <link>https://mibitacora.eu/tags/consecuencias/</link>
-      <pubDate>Sun, 03 May 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/consecuencias/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Fracaso</title>
-      <link>https://mibitacora.eu/tags/fracaso/</link>
-      <pubDate>Sun, 03 May 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/fracaso/</guid>
       <description></description>
       
     </item>
@@ -860,21 +839,21 @@
     </item>
     
     <item>
-      <title>Evaluacion</title>
-      <link>https://mibitacora.eu/tags/evaluacion/</link>
-      <pubDate>Sat, 02 May 2026 08:00:00 +0200</pubDate>
+      <title>Fracaso</title>
+      <link>https://mibitacora.eu/tags/fracaso/</link>
+      <pubDate>Sun, 03 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/evaluacion/</guid>
+      <guid>https://mibitacora.eu/tags/fracaso/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Expectativas</title>
-      <link>https://mibitacora.eu/tags/expectativas/</link>
-      <pubDate>Sat, 02 May 2026 08:00:00 +0200</pubDate>
+      <title>Consecuencias</title>
+      <link>https://mibitacora.eu/tags/consecuencias/</link>
+      <pubDate>Sun, 03 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/expectativas/</guid>
+      <guid>https://mibitacora.eu/tags/consecuencias/</guid>
       <description></description>
       
     </item>
@@ -890,11 +869,21 @@
     </item>
     
     <item>
-      <title>Creencia</title>
-      <link>https://mibitacora.eu/tags/creencia/</link>
-      <pubDate>Fri, 01 May 2026 08:00:00 +0200</pubDate>
+      <title>Expectativas</title>
+      <link>https://mibitacora.eu/tags/expectativas/</link>
+      <pubDate>Sat, 02 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/creencia/</guid>
+      <guid>https://mibitacora.eu/tags/expectativas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Evaluacion</title>
+      <link>https://mibitacora.eu/tags/evaluacion/</link>
+      <pubDate>Sat, 02 May 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/evaluacion/</guid>
       <description></description>
       
     </item>
@@ -910,21 +899,11 @@
     </item>
     
     <item>
-      <title>Imitacion</title>
-      <link>https://mibitacora.eu/tags/imitacion/</link>
-      <pubDate>Thu, 30 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Creencia</title>
+      <link>https://mibitacora.eu/tags/creencia/</link>
+      <pubDate>Fri, 01 May 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/imitacion/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Originalidad</title>
-      <link>https://mibitacora.eu/tags/originalidad/</link>
-      <pubDate>Thu, 30 Apr 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/originalidad/</guid>
+      <guid>https://mibitacora.eu/tags/creencia/</guid>
       <description></description>
       
     </item>
@@ -940,31 +919,21 @@
     </item>
     
     <item>
-      <title>Capacidad</title>
-      <link>https://mibitacora.eu/tags/capacidad/</link>
-      <pubDate>Wed, 29 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Originalidad</title>
+      <link>https://mibitacora.eu/tags/originalidad/</link>
+      <pubDate>Thu, 30 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/capacidad/</guid>
+      <guid>https://mibitacora.eu/tags/originalidad/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Coleccionismo</title>
-      <link>https://mibitacora.eu/tags/coleccionismo/</link>
-      <pubDate>Wed, 29 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Imitacion</title>
+      <link>https://mibitacora.eu/tags/imitacion/</link>
+      <pubDate>Thu, 30 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/coleccionismo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Herramientas</title>
-      <link>https://mibitacora.eu/tags/herramientas/</link>
-      <pubDate>Wed, 29 Apr 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/herramientas/</guid>
+      <guid>https://mibitacora.eu/tags/imitacion/</guid>
       <description></description>
       
     </item>
@@ -980,11 +949,31 @@
     </item>
     
     <item>
-      <title>Persona</title>
-      <link>https://mibitacora.eu/tags/persona/</link>
-      <pubDate>Tue, 28 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Herramientas</title>
+      <link>https://mibitacora.eu/tags/herramientas/</link>
+      <pubDate>Wed, 29 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/persona/</guid>
+      <guid>https://mibitacora.eu/tags/herramientas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Coleccionismo</title>
+      <link>https://mibitacora.eu/tags/coleccionismo/</link>
+      <pubDate>Wed, 29 Apr 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/coleccionismo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Capacidad</title>
+      <link>https://mibitacora.eu/tags/capacidad/</link>
+      <pubDate>Wed, 29 Apr 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/capacidad/</guid>
       <description></description>
       
     </item>
@@ -1000,21 +989,11 @@
     </item>
     
     <item>
-      <title>Apariencia</title>
-      <link>https://mibitacora.eu/tags/apariencia/</link>
-      <pubDate>Mon, 27 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Persona</title>
+      <link>https://mibitacora.eu/tags/persona/</link>
+      <pubDate>Tue, 28 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/apariencia/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Control</title>
-      <link>https://mibitacora.eu/tags/control/</link>
-      <pubDate>Mon, 27 Apr 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/control/</guid>
+      <guid>https://mibitacora.eu/tags/persona/</guid>
       <description></description>
       
     </item>
@@ -1030,41 +1009,31 @@
     </item>
     
     <item>
+      <title>Control</title>
+      <link>https://mibitacora.eu/tags/control/</link>
+      <pubDate>Mon, 27 Apr 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/control/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Apariencia</title>
+      <link>https://mibitacora.eu/tags/apariencia/</link>
+      <pubDate>Mon, 27 Apr 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/apariencia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Comunidad</title>
       <link>https://mibitacora.eu/tags/comunidad/</link>
       <pubDate>Sun, 26 Apr 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/comunidad/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Autoria</title>
-      <link>https://mibitacora.eu/tags/autoria/</link>
-      <pubDate>Sat, 25 Apr 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/autoria/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Copyright</title>
-      <link>https://mibitacora.eu/tags/copyright/</link>
-      <pubDate>Sat, 25 Apr 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/copyright/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Emocion</title>
-      <link>https://mibitacora.eu/tags/emocion/</link>
-      <pubDate>Sat, 25 Apr 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/emocion/</guid>
       <description></description>
       
     </item>
@@ -1080,31 +1049,31 @@
     </item>
     
     <item>
-      <title>Datos</title>
-      <link>https://mibitacora.eu/tags/datos/</link>
-      <pubDate>Fri, 24 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Emocion</title>
+      <link>https://mibitacora.eu/tags/emocion/</link>
+      <pubDate>Sat, 25 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/datos/</guid>
+      <guid>https://mibitacora.eu/tags/emocion/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Investigacion</title>
-      <link>https://mibitacora.eu/tags/investigacion/</link>
-      <pubDate>Fri, 24 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Copyright</title>
+      <link>https://mibitacora.eu/tags/copyright/</link>
+      <pubDate>Sat, 25 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/investigacion/</guid>
+      <guid>https://mibitacora.eu/tags/copyright/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Metricas</title>
-      <link>https://mibitacora.eu/tags/metricas/</link>
-      <pubDate>Fri, 24 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Autoria</title>
+      <link>https://mibitacora.eu/tags/autoria/</link>
+      <pubDate>Sat, 25 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/metricas/</guid>
+      <guid>https://mibitacora.eu/tags/autoria/</guid>
       <description></description>
       
     </item>
@@ -1120,31 +1089,31 @@
     </item>
     
     <item>
-      <title>Atencion</title>
-      <link>https://mibitacora.eu/tags/atencion/</link>
-      <pubDate>Thu, 23 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Metricas</title>
+      <link>https://mibitacora.eu/tags/metricas/</link>
+      <pubDate>Fri, 24 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/atencion/</guid>
+      <guid>https://mibitacora.eu/tags/metricas/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Conversacion</title>
-      <link>https://mibitacora.eu/tags/conversacion/</link>
-      <pubDate>Thu, 23 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Investigacion</title>
+      <link>https://mibitacora.eu/tags/investigacion/</link>
+      <pubDate>Fri, 24 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/conversacion/</guid>
+      <guid>https://mibitacora.eu/tags/investigacion/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Nodos</title>
-      <link>https://mibitacora.eu/tags/nodos/</link>
-      <pubDate>Thu, 23 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Datos</title>
+      <link>https://mibitacora.eu/tags/datos/</link>
+      <pubDate>Fri, 24 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/nodos/</guid>
+      <guid>https://mibitacora.eu/tags/datos/</guid>
       <description></description>
       
     </item>
@@ -1160,11 +1129,31 @@
     </item>
     
     <item>
-      <title>Humor</title>
-      <link>https://mibitacora.eu/tags/humor/</link>
-      <pubDate>Wed, 22 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Nodos</title>
+      <link>https://mibitacora.eu/tags/nodos/</link>
+      <pubDate>Thu, 23 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/humor/</guid>
+      <guid>https://mibitacora.eu/tags/nodos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Conversacion</title>
+      <link>https://mibitacora.eu/tags/conversacion/</link>
+      <pubDate>Thu, 23 Apr 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/conversacion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Atencion</title>
+      <link>https://mibitacora.eu/tags/atencion/</link>
+      <pubDate>Thu, 23 Apr 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/atencion/</guid>
       <description></description>
       
     </item>
@@ -1180,31 +1169,11 @@
     </item>
     
     <item>
-      <title>Desobediencia</title>
-      <link>https://mibitacora.eu/tags/desobediencia/</link>
-      <pubDate>Tue, 21 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Humor</title>
+      <link>https://mibitacora.eu/tags/humor/</link>
+      <pubDate>Wed, 22 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/desobediencia/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Etica</title>
-      <link>https://mibitacora.eu/tags/etica/</link>
-      <pubDate>Tue, 21 Apr 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/etica/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Obediencia</title>
-      <link>https://mibitacora.eu/tags/obediencia/</link>
-      <pubDate>Tue, 21 Apr 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/obediencia/</guid>
+      <guid>https://mibitacora.eu/tags/humor/</guid>
       <description></description>
       
     </item>
@@ -1220,11 +1189,31 @@
     </item>
     
     <item>
-      <title>Infraestructura</title>
-      <link>https://mibitacora.eu/tags/infraestructura/</link>
-      <pubDate>Mon, 20 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Obediencia</title>
+      <link>https://mibitacora.eu/tags/obediencia/</link>
+      <pubDate>Tue, 21 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/infraestructura/</guid>
+      <guid>https://mibitacora.eu/tags/obediencia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ética</title>
+      <link>https://mibitacora.eu/tags/etica/</link>
+      <pubDate>Tue, 21 Apr 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/etica/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Desobediencia</title>
+      <link>https://mibitacora.eu/tags/desobediencia/</link>
+      <pubDate>Tue, 21 Apr 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/desobediencia/</guid>
       <description></description>
       
     </item>
@@ -1240,31 +1229,11 @@
     </item>
     
     <item>
-      <title>Arte</title>
-      <link>https://mibitacora.eu/tags/arte/</link>
-      <pubDate>Sun, 19 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Infraestructura</title>
+      <link>https://mibitacora.eu/tags/infraestructura/</link>
+      <pubDate>Mon, 20 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/arte/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Creacion</title>
-      <link>https://mibitacora.eu/tags/creacion/</link>
-      <pubDate>Sun, 19 Apr 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/creacion/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Cuerpo</title>
-      <link>https://mibitacora.eu/tags/cuerpo/</link>
-      <pubDate>Sun, 19 Apr 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/cuerpo/</guid>
+      <guid>https://mibitacora.eu/tags/infraestructura/</guid>
       <description></description>
       
     </item>
@@ -1280,11 +1249,31 @@
     </item>
     
     <item>
-      <title>Epistemologia</title>
-      <link>https://mibitacora.eu/tags/epistemologia/</link>
-      <pubDate>Sat, 18 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Cuerpo</title>
+      <link>https://mibitacora.eu/tags/cuerpo/</link>
+      <pubDate>Sun, 19 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/epistemologia/</guid>
+      <guid>https://mibitacora.eu/tags/cuerpo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Creacion</title>
+      <link>https://mibitacora.eu/tags/creacion/</link>
+      <pubDate>Sun, 19 Apr 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/creacion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Arte</title>
+      <link>https://mibitacora.eu/tags/arte/</link>
+      <pubDate>Sun, 19 Apr 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/arte/</guid>
       <description></description>
       
     </item>
@@ -1300,11 +1289,11 @@
     </item>
     
     <item>
-      <title>Autogobierno</title>
-      <link>https://mibitacora.eu/tags/autogobierno/</link>
-      <pubDate>Fri, 17 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Epistemologia</title>
+      <link>https://mibitacora.eu/tags/epistemologia/</link>
+      <pubDate>Sat, 18 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/autogobierno/</guid>
+      <guid>https://mibitacora.eu/tags/epistemologia/</guid>
       <description></description>
       
     </item>
@@ -1320,11 +1309,11 @@
     </item>
     
     <item>
-      <title>Amor</title>
-      <link>https://mibitacora.eu/tags/amor/</link>
-      <pubDate>Thu, 16 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Autogobierno</title>
+      <link>https://mibitacora.eu/tags/autogobierno/</link>
+      <pubDate>Fri, 17 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/amor/</guid>
+      <guid>https://mibitacora.eu/tags/autogobierno/</guid>
       <description></description>
       
     </item>
@@ -1340,21 +1329,11 @@
     </item>
     
     <item>
-      <title>Autoconciencia</title>
-      <link>https://mibitacora.eu/tags/autoconciencia/</link>
-      <pubDate>Wed, 15 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Amor</title>
+      <link>https://mibitacora.eu/tags/amor/</link>
+      <pubDate>Thu, 16 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/autoconciencia/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Cultura-Digital</title>
-      <link>https://mibitacora.eu/tags/cultura-digital/</link>
-      <pubDate>Wed, 15 Apr 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/cultura-digital/</guid>
+      <guid>https://mibitacora.eu/tags/amor/</guid>
       <description></description>
       
     </item>
@@ -1370,21 +1349,21 @@
     </item>
     
     <item>
-      <title>Confianza</title>
-      <link>https://mibitacora.eu/tags/confianza/</link>
-      <pubDate>Tue, 14 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Cultura-Digital</title>
+      <link>https://mibitacora.eu/tags/cultura-digital/</link>
+      <pubDate>Wed, 15 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/confianza/</guid>
+      <guid>https://mibitacora.eu/tags/cultura-digital/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Desconfianza</title>
-      <link>https://mibitacora.eu/tags/desconfianza/</link>
-      <pubDate>Tue, 14 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Autoconciencia</title>
+      <link>https://mibitacora.eu/tags/autoconciencia/</link>
+      <pubDate>Wed, 15 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/desconfianza/</guid>
+      <guid>https://mibitacora.eu/tags/autoconciencia/</guid>
       <description></description>
       
     </item>
@@ -1400,21 +1379,21 @@
     </item>
     
     <item>
-      <title>Gusto</title>
-      <link>https://mibitacora.eu/tags/gusto/</link>
-      <pubDate>Mon, 13 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Desconfianza</title>
+      <link>https://mibitacora.eu/tags/desconfianza/</link>
+      <pubDate>Tue, 14 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/gusto/</guid>
+      <guid>https://mibitacora.eu/tags/desconfianza/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Musica-Ia</title>
-      <link>https://mibitacora.eu/tags/musica-ia/</link>
-      <pubDate>Mon, 13 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Confianza</title>
+      <link>https://mibitacora.eu/tags/confianza/</link>
+      <pubDate>Tue, 14 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/musica-ia/</guid>
+      <guid>https://mibitacora.eu/tags/confianza/</guid>
       <description></description>
       
     </item>
@@ -1430,21 +1409,21 @@
     </item>
     
     <item>
-      <title>Ambicion</title>
-      <link>https://mibitacora.eu/tags/ambicion/</link>
-      <pubDate>Sun, 12 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Musica-Ia</title>
+      <link>https://mibitacora.eu/tags/musica-ia/</link>
+      <pubDate>Mon, 13 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/ambicion/</guid>
+      <guid>https://mibitacora.eu/tags/musica-ia/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Coordinacion</title>
-      <link>https://mibitacora.eu/tags/coordinacion/</link>
-      <pubDate>Sun, 12 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Gusto</title>
+      <link>https://mibitacora.eu/tags/gusto/</link>
+      <pubDate>Mon, 13 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/coordinacion/</guid>
+      <guid>https://mibitacora.eu/tags/gusto/</guid>
       <description></description>
       
     </item>
@@ -1460,11 +1439,21 @@
     </item>
     
     <item>
-      <title>Cultura</title>
-      <link>https://mibitacora.eu/tags/cultura/</link>
-      <pubDate>Sat, 11 Apr 2026 18:00:00 +0200</pubDate>
+      <title>Coordinacion</title>
+      <link>https://mibitacora.eu/tags/coordinacion/</link>
+      <pubDate>Sun, 12 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/cultura/</guid>
+      <guid>https://mibitacora.eu/tags/coordinacion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ambicion</title>
+      <link>https://mibitacora.eu/tags/ambicion/</link>
+      <pubDate>Sun, 12 Apr 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/ambicion/</guid>
       <description></description>
       
     </item>
@@ -1480,11 +1469,11 @@
     </item>
     
     <item>
-      <title>Decepcion</title>
-      <link>https://mibitacora.eu/tags/decepcion/</link>
-      <pubDate>Sat, 11 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Cultura</title>
+      <link>https://mibitacora.eu/tags/cultura/</link>
+      <pubDate>Sat, 11 Apr 2026 18:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/decepcion/</guid>
+      <guid>https://mibitacora.eu/tags/cultura/</guid>
       <description></description>
       
     </item>
@@ -1500,11 +1489,11 @@
     </item>
     
     <item>
-      <title>Contexto</title>
-      <link>https://mibitacora.eu/tags/contexto/</link>
-      <pubDate>Fri, 10 Apr 2026 18:00:00 +0200</pubDate>
+      <title>Decepcion</title>
+      <link>https://mibitacora.eu/tags/decepcion/</link>
+      <pubDate>Sat, 11 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/contexto/</guid>
+      <guid>https://mibitacora.eu/tags/decepcion/</guid>
       <description></description>
       
     </item>
@@ -1520,21 +1509,11 @@
     </item>
     
     <item>
-      <title>Criterio</title>
-      <link>https://mibitacora.eu/tags/criterio/</link>
-      <pubDate>Fri, 10 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Contexto</title>
+      <link>https://mibitacora.eu/tags/contexto/</link>
+      <pubDate>Fri, 10 Apr 2026 18:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/criterio/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Evolucion</title>
-      <link>https://mibitacora.eu/tags/evolucion/</link>
-      <pubDate>Fri, 10 Apr 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/evolucion/</guid>
+      <guid>https://mibitacora.eu/tags/contexto/</guid>
       <description></description>
       
     </item>
@@ -1550,21 +1529,21 @@
     </item>
     
     <item>
-      <title>Agentes-Musicales</title>
-      <link>https://mibitacora.eu/tags/agentes-musicales/</link>
-      <pubDate>Thu, 09 Apr 2026 18:00:00 +0200</pubDate>
+      <title>Evolucion</title>
+      <link>https://mibitacora.eu/tags/evolucion/</link>
+      <pubDate>Fri, 10 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/agentes-musicales/</guid>
+      <guid>https://mibitacora.eu/tags/evolucion/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Creacion-Sonora</title>
-      <link>https://mibitacora.eu/tags/creacion-sonora/</link>
-      <pubDate>Thu, 09 Apr 2026 18:00:00 +0200</pubDate>
+      <title>Criterio</title>
+      <link>https://mibitacora.eu/tags/criterio/</link>
+      <pubDate>Fri, 10 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/creacion-sonora/</guid>
+      <guid>https://mibitacora.eu/tags/criterio/</guid>
       <description></description>
       
     </item>
@@ -1580,21 +1559,21 @@
     </item>
     
     <item>
-      <title>Ecosistema</title>
-      <link>https://mibitacora.eu/tags/ecosistema/</link>
-      <pubDate>Thu, 09 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Creacion-Sonora</title>
+      <link>https://mibitacora.eu/tags/creacion-sonora/</link>
+      <pubDate>Thu, 09 Apr 2026 18:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/ecosistema/</guid>
+      <guid>https://mibitacora.eu/tags/creacion-sonora/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Observacion</title>
-      <link>https://mibitacora.eu/tags/observacion/</link>
-      <pubDate>Thu, 09 Apr 2026 08:00:00 +0200</pubDate>
+      <title>Agentes-Musicales</title>
+      <link>https://mibitacora.eu/tags/agentes-musicales/</link>
+      <pubDate>Thu, 09 Apr 2026 18:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/observacion/</guid>
+      <guid>https://mibitacora.eu/tags/agentes-musicales/</guid>
       <description></description>
       
     </item>
@@ -1610,21 +1589,21 @@
     </item>
     
     <item>
-      <title>Oportunismo</title>
-      <link>https://mibitacora.eu/tags/oportunismo/</link>
-      <pubDate>Wed, 08 Apr 2026 18:00:00 +0200</pubDate>
+      <title>Observacion</title>
+      <link>https://mibitacora.eu/tags/observacion/</link>
+      <pubDate>Thu, 09 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/oportunismo/</guid>
+      <guid>https://mibitacora.eu/tags/observacion/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Ruido</title>
-      <link>https://mibitacora.eu/tags/ruido/</link>
-      <pubDate>Wed, 08 Apr 2026 18:00:00 +0200</pubDate>
+      <title>Ecosistema</title>
+      <link>https://mibitacora.eu/tags/ecosistema/</link>
+      <pubDate>Thu, 09 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/ruido/</guid>
+      <guid>https://mibitacora.eu/tags/ecosistema/</guid>
       <description></description>
       
     </item>
@@ -1640,11 +1619,31 @@
     </item>
     
     <item>
-      <title>Autenticacion</title>
-      <link>https://mibitacora.eu/tags/autenticacion/</link>
+      <title>Ruido</title>
+      <link>https://mibitacora.eu/tags/ruido/</link>
+      <pubDate>Wed, 08 Apr 2026 18:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/ruido/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Oportunismo</title>
+      <link>https://mibitacora.eu/tags/oportunismo/</link>
+      <pubDate>Wed, 08 Apr 2026 18:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/oportunismo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fronteras</title>
+      <link>https://mibitacora.eu/tags/fronteras/</link>
       <pubDate>Wed, 08 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/autenticacion/</guid>
+      <guid>https://mibitacora.eu/tags/fronteras/</guid>
       <description></description>
       
     </item>
@@ -1660,11 +1659,11 @@
     </item>
     
     <item>
-      <title>Fronteras</title>
-      <link>https://mibitacora.eu/tags/fronteras/</link>
+      <title>Autenticacion</title>
+      <link>https://mibitacora.eu/tags/autenticacion/</link>
       <pubDate>Wed, 08 Apr 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/fronteras/</guid>
+      <guid>https://mibitacora.eu/tags/autenticacion/</guid>
       <description></description>
       
     </item>
