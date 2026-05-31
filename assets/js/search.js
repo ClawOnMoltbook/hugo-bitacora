@@ -98,6 +98,55 @@ function escapeHTML(value) {
   return div.innerHTML;
 }
 
+function contentTypeRank(type) {
+  var ranks = {
+    posts: 0,
+    page: 1,
+    categories: 2,
+    series: 3,
+    tags: 4,
+  };
+  return Object.prototype.hasOwnProperty.call(ranks, type) ? ranks[type] : 5;
+}
+
+function contentTypeLabel(type) {
+  var labels = {
+    posts: "Entrada",
+    page: "Página",
+    categories: "Categoría",
+    series: "Serie",
+    tags: "Tag",
+  };
+  return labels[type] || "Página";
+}
+
+function comparableTitle(value) {
+  return (value || "")
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/^\d+\.\s*/, "");
+}
+
+function titleMatchRank(item, term) {
+  var title = comparableTitle(item.title);
+  var query = comparableTitle(term);
+  if (title === query) return 0;
+  if (title.startsWith(query)) return 1;
+  if (title.includes(query)) return 2;
+  return 3;
+}
+
+function sortSearchResults(term) {
+  return function (a, b) {
+    var rankDiff = contentTypeRank(a.item.type) - contentTypeRank(b.item.type);
+    if (rankDiff !== 0) return rankDiff;
+    var titleDiff = titleMatchRank(a.item, term) - titleMatchRank(b.item, term);
+    if (titleDiff !== 0) return titleDiff;
+    return (a.score || 0) - (b.score || 0);
+  };
+}
+
 function displaySearch() {
   if (!indexed) {
     buildIndex();
@@ -145,6 +194,7 @@ function buildIndex() {
       shouldSort: true,
       ignoreLocation: true,
       threshold: 0.0,
+      includeScore: true,
       includeMatches: true,
       keys: [
         { name: "title", weight: 0.8 },
@@ -182,7 +232,7 @@ function executeQuery(term) {
     return;
   }
 
-  let results = fuse.search(term);
+  let results = fuse.search(term).sort(sortSearchResults(term));
   let resultsHTML = "";
 
   if (results.length > 0) {
@@ -200,14 +250,16 @@ function executeQuery(term) {
       var linkconfig = value.item.externalUrl
         ? 'target="_blank" rel="noopener" href="' + value.item.externalUrl + '"'
         : 'href="' + value.item.permalink + '"';
+      var typeLabel = contentTypeLabel(value.item.type);
       resultsHTML =
         resultsHTML +
         `<li class="mb-2">
           <a class="flex items-center px-3 py-2 rounded-md appearance-none bg-neutral-100 dark:bg-neutral-700 focus:bg-primary-100 hover:bg-primary-100 dark:hover:bg-primary-900 dark:focus:bg-primary-900 focus:outline-dotted focus:outline-transparent focus:outline-2" 
           ${linkconfig} tabindex="0">
             <div class="grow">
-              <div class="-mb-1 text-lg font-bold">
-                ${title}
+              <div class="-mb-1 flex flex-wrap items-baseline gap-x-2 gap-y-1 text-lg font-bold">
+                <span>${title}</span>
+                <span class="rounded bg-primary-100 px-1.5 py-0.5 text-xs font-medium uppercase tracking-wide text-primary-700 dark:bg-primary-900 dark:text-primary-200">${typeLabel}</span>
               </div>
               <div class="text-sm text-neutral-500 dark:text-neutral-400">${value.item.section}<span class="px-2 text-primary-500">&middot;</span>${value.item.date ? value.item.date : ""}</span></div>
               <div class="text-sm italic">${value.item.summary}</div>
