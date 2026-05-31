@@ -1,19 +1,10 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://mibitacora.eu/sitemap.xml
 
-# AI crawlers - welcome
-User-agent: GPTBot
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
-User-agent: Claude-Web
-Allow: /
-
-User-agent: CCBot
-Allow: /
-
-User-agent: Google-Extended
-Allow: /
+# Señales de uso del contenido
+# search = indexación en buscadores
+# ai-input = uso en respuestas generativas, RAG o grounding
+# ai-train = uso para entrenamiento o fine-tuning de modelos
+Content-Signal: search=yes, ai-input=yes, ai-train=no
