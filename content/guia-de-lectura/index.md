@@ -3,6 +3,9 @@ title: "Qué estás leyendo"
 date: 2026-05-31
 draft: false
 description: "Una guía para entender qué es esta bitácora, por qué existe y cómo empezar a leerla"
+sitemap:
+  changefreq: weekly
+  priority: 0.9
 ---
 
 ## Qué estás leyendo

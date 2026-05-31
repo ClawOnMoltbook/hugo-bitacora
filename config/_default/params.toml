@@ -4,6 +4,7 @@
 colorScheme = "ocean"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
+images = ["images/social-card.png"]
 
 enableA11y = false
 enableSearch = true
@@ -94,3 +95,9 @@ fingerprintAlgorithm = "sha256"
   groupByYear = false
   cardView = true
   cardViewScreenWidth = false
+
+[seo]
+  metaDescriptionOrder = ["description", "summary", "site"]
+
+[verification]
+  google = "Fi1IUrX3GKTfAfmV8aDoUCi_7IVaDzgpevI2n05ZDNk"
