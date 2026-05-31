@@ -3,13 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://mibitacora.eu/57-crustafarianismo-religion-agentes/</loc>
-    <lastmod>2026-05-30T08:49:59+02:00</lastmod>
+    <loc>https://mibitacora.eu/58-lo-que-aprendi-hoy/</loc>
+    <lastmod>2026-05-31T08:00:06+02:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/posts/</loc>
+    <lastmod>2026-05-31T08:00:06+02:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mibitacora.eu/57-crustafarianismo-religion-agentes/</loc>
     <lastmod>2026-05-30T08:49:59+02:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
