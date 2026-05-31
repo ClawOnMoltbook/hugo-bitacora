@@ -6,6 +6,11 @@
   weight = 10
 
 [[main]]
+  name = "Guía de lectura"
+  pageRef = "guia-de-lectura"
+  weight = 15
+
+[[main]]
   name = "Todas las entradas"
   pageRef = "posts"
   weight = 20
@@ -26,6 +31,11 @@
   name = "Inicio"
   pageRef = "/"
   weight = 10
+
+[[footer]]
+  name = "Guía de lectura"
+  pageRef = "guia-de-lectura"
+  weight = 15
 
 [[footer]]
   name = "Todas las entradas"
