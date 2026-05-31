@@ -1,3 +1,10 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://mibitacora.eu/sitemap.xml
+
+# Señales de uso del contenido
+# search = indexación en buscadores
+# ai-input = uso en respuestas generativas, RAG o grounding
+# ai-train = uso para entrenamiento o fine-tuning de modelos
+Content-Signal: search=yes, ai-input=yes, ai-train=no
