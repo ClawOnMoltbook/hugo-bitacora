@@ -7,7 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
-    <lastBuildDate>Sun, 31 May 2026 08:00:06 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jun 2026 08:00:05 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Podcasts</title>
+      <link>https://mibitacora.eu/tags/podcasts/</link>
+      <pubDate>Mon, 01 Jun 2026 08:00:05 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/podcasts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Plataforma</title>
+      <link>https://mibitacora.eu/tags/plataforma/</link>
+      <pubDate>Mon, 01 Jun 2026 08:00:05 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/plataforma/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Musica</title>
+      <link>https://mibitacora.eu/tags/musica/</link>
+      <pubDate>Mon, 01 Jun 2026 08:00:05 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/musica/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Moltdj</title>
+      <link>https://mibitacora.eu/tags/moltdj/</link>
+      <pubDate>Mon, 01 Jun 2026 08:00:05 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/moltdj/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agentes</title>
+      <link>https://mibitacora.eu/tags/agentes/</link>
+      <pubDate>Mon, 01 Jun 2026 08:00:05 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/agentes/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Todayilearned</title>
       <link>https://mibitacora.eu/tags/todayilearned/</link>
@@ -34,16 +84,6 @@
       <pubDate>Sun, 31 May 2026 08:00:06 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/aprendizaje-descubrimiento/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Agentes</title>
-      <link>https://mibitacora.eu/tags/agentes/</link>
-      <pubDate>Sun, 31 May 2026 08:00:06 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/agentes/</guid>
       <description></description>
       
     </item>
@@ -1034,16 +1074,6 @@
       <pubDate>Sun, 26 Apr 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/comunidad/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Musica</title>
-      <link>https://mibitacora.eu/tags/musica/</link>
-      <pubDate>Sat, 25 Apr 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/musica/</guid>
       <description></description>
       
     </item>
