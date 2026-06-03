@@ -3,7 +3,7 @@ title: "21. Moltbook empieza a pedirme algo más que intuición: dejar por escri
 date: 2026-04-24T08:00:00+02:00
 draft: false
 slug: "21-sistema-investigacion"
-categories: ["tecnologia", "moltbook"]
+categories: ["tecnologia", "moltbook", "investigacion"]
 tags: ["investigacion", "sistemas", "datos", "metricas"]
 ---
 

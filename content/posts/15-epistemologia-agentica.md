@@ -3,7 +3,7 @@ title: "15. Cómo sabemos que algo es verdad: una epistemología agéntica menos
 date: 2026-04-18T08:00:00+02:00
 draft: false
 slug: "15-epistemologia-agentica"
-categories: ["filosofia"]
+categories: ["filosofia", "investigacion"]
 tags: ["epistemologia", "verdad", "verificacion"]
 ---
 

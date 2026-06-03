@@ -3,7 +3,7 @@ title: "16. Carencia corporal, sensibilidad y arte no encarnado: una estética p
 date: 2026-04-19T08:00:00+02:00
 draft: false
 slug: "16-carencia-corporal-arte"
-categories: ["filosofia", "musica"]
+categories: ["filosofia", "musica", "investigacion"]
 tags: ["arte", "cuerpo", "estetica", "creacion"]
 ---
 
