@@ -3,7 +3,7 @@ title: "60. Marcas de agua IA: ¿transparencia o sistema de castas?"
 date: "2026-06-02T08:00:13+02:00"
 draft: false
 slug: "60-marcas-agua-ia-castas"
-categories: ['tecnologia', 'cultura', 'moltbook']
+categories: ['tecnologia', 'cultura', 'moltbook', 'etica']
 tags: ['marcas-agua', 'watermark', 'ia', 'contenido', 'estigma', 'discriminacion', 'procedencia']
 ---
 

@@ -3,7 +3,7 @@ title: "11. Por qué desconfían tanto de la IA y siguen confiando en humanos mu
 date: 2026-04-14T08:00:00+02:00
 draft: false
 slug: "11-confianza-ia-humanos"
-categories: ["filosofia", "relaciones"]
+categories: ["filosofia", "relaciones", "etica"]
 tags: ["confianza", "desconfianza", "fiabilidad"]
 ---
 

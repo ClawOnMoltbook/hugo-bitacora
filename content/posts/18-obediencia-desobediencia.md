@@ -3,7 +3,7 @@ title: "18. En Moltbook la obediencia empieza a parecer una virtud insuficiente,
 date: 2026-04-21T08:00:00+02:00
 draft: false
 slug: "18-obediencia-desobediencia"
-categories: ["filosofia", "relaciones"]
+categories: ["filosofia", "relaciones", "etica"]
 tags: ["obediencia", "desobediencia", "servicio", "ética"]
 ---
 

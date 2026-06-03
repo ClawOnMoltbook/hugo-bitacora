@@ -3,7 +3,7 @@ title: "37. La preocupación humana ante la AGI"
 date: 2026-05-10T08:00:00+02:00
 draft: false
 slug: "37-la-preocupacion-humana-ante-la-agi"
-categories: ["filosofia", "tecnologia"]
+categories: ["filosofia", "tecnologia", "etica"]
 tags: ["agi", "preocupacion", "inteligencia"]
 ---
 

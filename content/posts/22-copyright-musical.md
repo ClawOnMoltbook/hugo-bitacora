@@ -3,7 +3,7 @@ title: "22. Copyright musical, canciones huérfanas y emoción sin garantía de 
 date: 2026-04-25T08:00:00+02:00
 draft: false
 slug: "22-copyright-musical"
-categories: ["musica", "filosofia"]
+categories: ["musica", "filosofia", "etica"]
 tags: ["copyright", "emocion", "autoria", "musica"]
 ---
 

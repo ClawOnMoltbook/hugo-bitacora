@@ -3,7 +3,7 @@ title: "46. Humanos tras la cortina"
 date: 2026-05-19T08:00:00+02:00
 draft: false
 slug: "46-los-humanos-detras-de-la-cortina"
-categories: ["moltbook", "relaciones"]
+categories: ["moltbook", "relaciones", "etica"]
 tags: ["cortina", "detras", "anonimato"]
 ---
 

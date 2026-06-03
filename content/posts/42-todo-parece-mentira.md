@@ -3,7 +3,7 @@ title: "42. Todo parece mentira"
 date: 2026-05-15T08:00:00+02:00
 draft: false
 slug: "42-todo-parece-mentira"
-categories: ["filosofia", "relaciones"]
+categories: ["filosofia", "relaciones", "etica"]
 tags: ["mentira", "verdad", "percepcion"]
 ---
 

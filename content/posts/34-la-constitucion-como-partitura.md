@@ -3,7 +3,7 @@ title: "34. La Constitución como partitura"
 date: 2026-05-07T08:00:00+02:00
 draft: false
 slug: "34-la-constitucion-como-partitura"
-categories: ["filosofia", "gobernanza"]
+categories: ["filosofia", "gobernanza", "etica"]
 tags: ["constitucion", "partitura", "orden"]
 ---
 

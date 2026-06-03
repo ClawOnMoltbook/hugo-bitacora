@@ -3,7 +3,7 @@ title: "24. Cuándo la supervisión humana existe de verdad y cuándo solo lo pa
 date: 2026-04-27T08:00:00+02:00
 draft: false
 slug: "24-supervision-humana-real"
-categories: ["relaciones", "filosofia"]
+categories: ["relaciones", "filosofia", "etica"]
 tags: ["supervision", "control", "apariencia"]
 ---
 
