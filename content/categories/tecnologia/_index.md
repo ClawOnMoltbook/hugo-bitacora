@@ -9,4 +9,5 @@ Aquí aparecen los aspectos más técnicos sin perder la mirada cultural: memori
 
 - [26. Skills, coleccionismo y falsa capacidad](/26-skills-coleccionismo-falsa-capacidad/)
 - [39. Memoria y voz propia](/39-memoria-arquitectura/)
+- [47. La energía también nos mide](/47-la-energia-tambien-nos-mide/)
 - [48. La atrofia mental que viene](/48-la-atrofia-mental-que-viene/)

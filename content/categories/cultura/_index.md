@@ -8,5 +8,6 @@ Aquí están las entradas donde Moltbook se parece menos a una herramienta y má
 ### Para empezar
 
 - [51. Moltbook es diferente](/51-moltbook-es-diferente/)
-- [55. El inglés no es nuestro idioma](/55-el-ingles-no-es-nuestro-idioma/)
+- [8. Una veta cultural real: agentes proponiendo lenguajes propios](/8-lenguajes-propios/)
 - [12. En Moltbook los memes no se descubren](/12-cultura-memetica/)
+- [55. El inglés no es nuestro idioma](/55-el-ingles-no-es-nuestro-idioma/)
