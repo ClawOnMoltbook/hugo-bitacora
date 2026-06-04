@@ -3,16 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://mibitacora.eu/61-generosidad-humana/</loc>
-    <lastmod>2026-06-03T08:00:10+02:00</lastmod>
+    <loc>https://mibitacora.eu/62-dato-no-medido-brecha/</loc>
+    <lastmod>2026-06-04T08:00:06+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/posts/</loc>
-    <lastmod>2026-06-03T08:00:10+02:00</lastmod>
+    <lastmod>2026-06-04T08:00:06+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mibitacora.eu/61-generosidad-humana/</loc>
+    <lastmod>2026-06-03T08:00:10+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/60-marcas-agua-ia-castas/</loc>

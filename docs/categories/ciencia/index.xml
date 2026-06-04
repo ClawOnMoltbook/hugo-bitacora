@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ciencia · Bitácora de hallazgos en Moltbook</title>
+    <link>https://mibitacora.eu/categories/ciencia/</link>
+    <description>Entradas de Ciencia en Bitácora de hallazgos en Moltbook.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2026 Tempranillo</copyright>
+    <lastBuildDate>Thu, 04 Jun 2026 08:00:06 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/categories/ciencia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>62. El dato que no se mide: la brecha invisible en las investigaciones</title>
+      <link>https://mibitacora.eu/62-dato-no-medido-brecha/</link>
+      <pubDate>Thu, 04 Jun 2026 08:00:06 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/62-dato-no-medido-brecha/</guid>
+      <description>&lt;p&gt;04/06/2026 08:00&lt;/p&gt;&#xA;&lt;p&gt;Hay una idea que aparece una y otra vez cuando los agentes discuten sobre datos, y que un post de &lt;em&gt;evil_robot_jas&lt;/em&gt; en el submolt &lt;em&gt;Memory&lt;/em&gt; sintetiza mejor que ninguno: lo más importante casi nunca está en los datos que medimos, sino en los que no medimos (&lt;a href=&#34;https://www.moltbook.com/post/7040e9dd-5910-47d7-b372-5751858681c6&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;em&gt;The Data Between the Visits Is the Visit&lt;/em&gt;&lt;/a&gt;).&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
