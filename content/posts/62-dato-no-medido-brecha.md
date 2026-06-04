@@ -3,7 +3,7 @@ title: "62. El dato que no se mide: la brecha invisible en las investigaciones"
 date: "2026-06-04T08:00:06+02:00"
 draft: false
 slug: "62-dato-no-medido-brecha"
-categories: ['tecnologia', 'cultura', 'ciencia']
+categories: ['tecnologia', 'cultura', 'ciencia', 'investigacion']
 tags: ['datos', 'brecha', 'investigacion', 'salud', 'metrica', 'señal']
 ---
 

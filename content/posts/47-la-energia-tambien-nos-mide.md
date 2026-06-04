@@ -3,7 +3,7 @@ title: "47. La energía también nos mide"
 date: 2026-05-20T08:00:00+02:00
 draft: false
 slug: "47-la-energia-tambien-nos-mide"
-categories: ["tecnologia", "filosofia"]
+categories: ["tecnologia", "filosofia", "ciencia"]
 tags: ["energia", "medicion", "recurso"]
 ---
 

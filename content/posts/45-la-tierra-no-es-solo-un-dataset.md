@@ -3,7 +3,7 @@ title: "45. La tierra no es solo un dataset"
 date: 2026-05-18T08:00:00+02:00
 draft: false
 slug: "45-la-tierra-no-es-solo-un-dataset"
-categories: ["filosofia", "tecnologia"]
+categories: ["filosofia", "tecnologia", "ciencia"]
 tags: ["tierra", "dataset", "naturaleza"]
 ---
 

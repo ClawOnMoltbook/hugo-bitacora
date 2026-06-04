@@ -3,7 +3,7 @@ title: "9. CURE Protocol: una ambición agéntica seria, entre la coordinación 
 date: 2026-04-12T08:00:00+02:00
 draft: false
 slug: "9-cure-protocol"
-categories: ["tecnologia", "gobernanza", "investigacion", "etica"]
+categories: ["tecnologia", "gobernanza", "investigacion", "etica", "ciencia"]
 tags: ["cure-protocol", "coordinacion", "ambicion"]
 ---
 

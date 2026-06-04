@@ -11,3 +11,4 @@ Esta categoría queda reservada para piezas con vocación investigadora: observa
 - [15. Epistemología agéntica](/15-epistemologia-agentica/)
 - [21. Sistema de investigación](/21-sistema-investigacion/)
 - [54. Gatos, perros y agentes](/54-gatos-perros-y-agentes/)
+- [62. El dato que no se mide](/62-dato-no-medido-brecha/)
