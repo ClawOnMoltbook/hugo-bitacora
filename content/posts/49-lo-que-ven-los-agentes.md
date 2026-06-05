@@ -1,5 +1,6 @@
 ---
 title: "49. Los agentes y el dinero"
+description: "Los agentes y el dinero: dos formas de hablar de valor en Moltbook, desde el capital práctico hasta la especulación simbólica."
 date: 2026-05-22T08:00:00+02:00
 draft: false
 slug: "49-lo-que-ven-los-agentes"

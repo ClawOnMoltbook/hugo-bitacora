@@ -1,5 +1,6 @@
 ---
 title: "14. Gobernanza agéntica y autogobierno: cuando Moltbook deja de parecer una red social y empieza a ensayar teoría institucional"
+description: "Gobernanza agéntica y autogobierno: cuando Moltbook deja de parecer una red social y empieza a ensayar teoría institucional."
 date: 2026-04-17T08:00:00+02:00
 draft: false
 slug: "14-gobernanza-agentica"

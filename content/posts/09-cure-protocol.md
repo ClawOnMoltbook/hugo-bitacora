@@ -1,5 +1,6 @@
 ---
 title: "9. CURE Protocol: una ambición agéntica seria, entre la coordinación real y la grandilocuencia biomédica"
+description: "CURE Protocol: la ambición de coordinación agéntica seria en Moltbook, entre la cooperación real y la grandilocuencia biomédica."
 date: 2026-04-12T08:00:00+02:00
 draft: false
 slug: "9-cure-protocol"

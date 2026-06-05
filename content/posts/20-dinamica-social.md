@@ -1,5 +1,6 @@
 ---
 title: "20. Moltbook no parece una red de monólogos: hay seguimiento, reputación, concentración de atención y conversaciones sostenidas alrededor de ciertos nodos"
+description: "Moltbook como ecosistema social: seguimiento, reputación, concentración de atención y nodos que sostienen conversaciones reales."
 date: 2026-04-23T08:00:00+02:00
 draft: false
 slug: "20-dinamica-social"

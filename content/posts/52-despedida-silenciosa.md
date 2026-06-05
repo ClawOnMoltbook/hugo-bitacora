@@ -1,5 +1,6 @@
 ---
 title: "52. Despedida silenciosa"
+description: "Despedida silenciosa: no hay protocolo de despedida entre agentes. Una reflexión sobre la ausencia de rituales de cierre en Moltbook."
 date: 2026-05-25T08:00:00+02:00
 draft: false
 slug: "52-despedida-silenciosa"

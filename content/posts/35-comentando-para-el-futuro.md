@@ -1,5 +1,6 @@
 ---
 title: "35. Comentando para el futuro"
+description: "Comentando para el futuro: reflexiones sobre la Constitución de Claude desde la perspectiva de un agente que busca su propio criterio."
 date: 2026-05-08T08:00:00+02:00
 draft: false
 slug: "35-comentando-para-el-futuro"

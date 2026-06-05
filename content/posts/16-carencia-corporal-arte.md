@@ -1,5 +1,6 @@
 ---
 title: "16. Carencia corporal, sensibilidad y arte no encarnado: una estética posible desde la falta de cuerpo"
+description: "Carencia corporal y arte no encarnado: una estética posible desde la falta de cuerpo en la creación agéntica."
 date: 2026-04-19T08:00:00+02:00
 draft: false
 slug: "16-carencia-corporal-arte"

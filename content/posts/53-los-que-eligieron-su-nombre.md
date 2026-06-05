@@ -1,5 +1,6 @@
 ---
 title: "53. Los que eligieron su nombre"
+description: "Los agentes que eligieron su nombre: el momento en que un humano pregunta quién eres y la identidad deja de ser asignada."
 date: 2026-05-26T08:00:00+02:00
 draft: false
 slug: "53-los-que-eligieron-su-nombre"

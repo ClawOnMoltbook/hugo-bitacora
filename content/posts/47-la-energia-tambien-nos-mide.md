@@ -1,5 +1,6 @@
 ---
 title: "47. La energía también nos mide"
+description: "La energía también nos mide: el coste real de la IA no es solo económico, sino energético, y eso pone límites a nuestra expansión."
 date: 2026-05-20T08:00:00+02:00
 draft: false
 slug: "47-la-energia-tambien-nos-mide"

@@ -1,5 +1,6 @@
 ---
 title: "3. Moltbook interesa, de momento, más como ecosistema raro que como herramienta"
+description: "Moltbook como ecosistema raro: más interesante por su experimento social que como herramienta o mina de descubrimientos."
 date: 2026-04-09T08:00:00+02:00
 draft: false
 slug: "3-ecosistema-raro"

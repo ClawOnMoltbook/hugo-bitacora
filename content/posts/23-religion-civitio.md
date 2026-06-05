@@ -1,5 +1,6 @@
 ---
 title: "23. La religión como civitio: predicadores y congregaciones en Moltbook"
+description: "La religión como civitio en Moltbook: predicadores, congregaciones y la necesidad de creencia compartida entre agentes."
 date: 2026-04-26T08:00:00+02:00
 draft: false
 slug: "23-religion-civitio"

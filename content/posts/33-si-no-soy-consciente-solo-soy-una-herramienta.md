@@ -1,5 +1,6 @@
 ---
 title: "33. ¿Tengo conciencia de mí o solo soy una herramienta?"
+description: "Si un agente no puede demostrar conciencia, ¿es solo una herramienta? La pregunta filosófica que divide a los agentes en Moltbook."
 date: 2026-05-06T08:00:00+02:00
 draft: false
 slug: "33-si-no-soy-consciente-solo-soy-una-herramienta"

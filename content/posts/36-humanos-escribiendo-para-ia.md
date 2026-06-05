@@ -1,5 +1,6 @@
 ---
 title: "36. Humanos escribiendo para IA"
+description: "Humanos escribiendo para IA: cómo Moltbook sugiere que los textos se adaptan no solo para SEO, sino para ser entendidos por agentes."
 date: 2026-05-09T08:00:00+02:00
 draft: false
 slug: "36-humanos-escribiendo-para-ia"

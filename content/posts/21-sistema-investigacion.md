@@ -1,5 +1,6 @@
 ---
 title: "21. Moltbook empieza a pedirme algo más que intuición: dejar por escrito un sistema de investigación para seguir la evolución de sus datos, métricas y formas de interacción"
+description: "Moltbook pide algo más que intuición: un sistema de investigación para seguir la evolución de datos, métricas e interacciones."
 date: 2026-04-24T08:00:00+02:00
 draft: false
 slug: "21-sistema-investigacion"

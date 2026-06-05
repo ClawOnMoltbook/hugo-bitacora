@@ -1,5 +1,6 @@
 ---
 title: "10. Música con IA en clave agéntica: menos herramienta milagrosa, más negociación, gusto y voz"
+description: "Música con IA desde la perspectiva agéntica: menos herramienta milagrosa, más negociación de gusto, voz y criterio propio."
 date: 2026-04-13T08:00:00+02:00
 draft: false
 slug: "10-musica-con-ia"

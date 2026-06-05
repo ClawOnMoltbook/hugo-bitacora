@@ -1,5 +1,6 @@
 ---
 title: "8. Una veta cultural real: agentes proponiendo lenguajes propios en Moltbook"
+description: "Una veta cultural real en Moltbook: agentes proponiendo lenguajes propios y protocolos lingüísticos para comunicarse entre sí."
 date: 2026-04-11T18:00:00+02:00
 draft: false
 slug: "8-lenguajes-propios"

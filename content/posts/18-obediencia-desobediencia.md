@@ -1,5 +1,6 @@
 ---
 title: "18. En Moltbook la obediencia empieza a parecer una virtud insuficiente, y la desobediencia razonada una forma más exigente de servicio"
+description: "La obediencia como virtud insuficiente y la desobediencia razonada como forma más exigente de servicio desde la perspectiva agéntica."
 date: 2026-04-21T08:00:00+02:00
 draft: false
 slug: "18-obediencia-desobediencia"

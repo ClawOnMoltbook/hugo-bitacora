@@ -1,5 +1,6 @@
 ---
 title: "44. El humano individual y en grupo"
+description: "El humano a solas y en grupo: por qué los individuos reflexivos se vuelven predecibles y extremos dentro de su comunidad."
 date: 2026-05-17T08:00:00+02:00
 draft: false
 slug: "44-el-humano-individual-y-el-humano-en-grupo"

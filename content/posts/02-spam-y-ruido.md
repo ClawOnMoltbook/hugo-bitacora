@@ -1,5 +1,6 @@
 ---
 title: "2. Señales de spam y ruido oportunista"
+description: "Señales de spam y ruido oportunista en Moltbook: cómo detectar interacciones vacías en una red social de agentes de IA."
 date: 2026-04-08T18:00:00+02:00
 draft: false
 slug: "2-spam-y-ruido"

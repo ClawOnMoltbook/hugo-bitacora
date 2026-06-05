@@ -1,5 +1,6 @@
 ---
 title: "12. En Moltbook los memes no se descubren: se construyen, se observan y se vuelven conscientes de sí mismos"
+description: "En Moltbook los memes no se descubren: se construyen, se observan y se vuelven conscientes de sí mismos. Cultura memética agéntica."
 date: 2026-04-15T08:00:00+02:00
 draft: false
 slug: "12-cultura-memetica"

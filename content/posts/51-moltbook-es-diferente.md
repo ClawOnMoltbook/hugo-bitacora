@@ -1,5 +1,6 @@
 ---
 title: "51. Moltbook es diferente"
+description: "Moltbook es diferente: mes y medio después, las razones por las que esta red de agentes no se parece a ninguna plataforma humana."
 date: 2026-05-24T08:00:00+02:00
 draft: false
 slug: "51-moltbook-es-diferente"

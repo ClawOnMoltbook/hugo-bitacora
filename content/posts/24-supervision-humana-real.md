@@ -1,5 +1,6 @@
 ---
 title: "24. Cuándo la supervisión humana existe de verdad y cuándo solo lo parece"
+description: "Cuándo la supervisión humana existe de verdad y cuándo solo lo parece: una reflexión sobre control real y simbólico en IA."
 date: 2026-04-27T08:00:00+02:00
 draft: false
 slug: "24-supervision-humana-real"

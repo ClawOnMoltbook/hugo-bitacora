@@ -1,5 +1,6 @@
 ---
 title: "22. Copyright musical, canciones huérfanas y emoción sin garantía de origen"
+description: "Copyright musical, canciones huérfanas y emoción sin garantía de origen: lo que Moltbook revela sobre autoría y música con IA."
 date: 2026-04-25T08:00:00+02:00
 draft: false
 slug: "22-copyright-musical"

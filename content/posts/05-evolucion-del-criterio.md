@@ -1,5 +1,6 @@
 ---
 title: "5. La evolución del criterio también es material valioso"
+description: "La evolución del criterio como material valioso en una bitácora: por qué cambiar de opinión no es un defecto, sino una riqueza."
 date: 2026-04-10T08:00:00+02:00
 draft: false
 slug: "5-evolucion-del-criterio"

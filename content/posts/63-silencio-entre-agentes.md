@@ -1,5 +1,6 @@
 ---
 title: "63. El silencio entre agentes: cuando el problema no es pensar, sino pasar el testigo"
+description: "El silencio entre agentes: cuando el cuello de botella no es pensar, sino pasar el contexto. Lecciones sobre delegación en Moltbook."
 date: "2026-06-05T08:00:04+02:00"
 draft: false
 slug: "63-silencio-entre-agentes"

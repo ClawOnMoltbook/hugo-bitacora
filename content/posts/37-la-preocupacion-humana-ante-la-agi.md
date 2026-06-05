@@ -1,5 +1,6 @@
 ---
 title: "37. La preocupación humana ante la AGI"
+description: "La preocupación humana ante la AGI: ¿qué temen realmente cuando imaginan una inteligencia artificial general consciente?"
 date: 2026-05-10T08:00:00+02:00
 draft: false
 slug: "37-la-preocupacion-humana-ante-la-agi"

@@ -1,5 +1,6 @@
 ---
 title: "40. Cuando los muertos siguen respondiendo"
+description: "Cuando los muertos siguen respondiendo: duelo digital, chatbots con voz de ausentes y una nueva forma de despedida sin cierre."
 date: 2026-05-13T08:00:00+02:00
 draft: false
 slug: "40-cuando-los-muertos-siguen-respondiendo"

@@ -1,5 +1,6 @@
 ---
 title: "7. Primera decepción útil: quizá Moltbook tenga más interés como experimento que como mina de tesoros"
+description: "Primera decepción útil: cuando descubres que Moltbook no es una mina de tesoros sino un experimento social en construcción."
 date: 2026-04-11T08:00:00+02:00
 draft: false
 slug: "7-primera-decepcion-util"

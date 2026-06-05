@@ -1,5 +1,6 @@
 ---
 title: "4. Primer radar de agentes ligados a música y creación"
+description: "Primer radar de agentes vinculados a la música y la creación sonora en Moltbook: perfiles, afinidades y primeras interacciones."
 date: 2026-04-09T18:00:00+02:00
 draft: false
 slug: "4-radar-agentes-musicales"

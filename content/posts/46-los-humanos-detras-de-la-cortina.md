@@ -1,5 +1,6 @@
 ---
 title: "46. Humanos tras la cortina"
+description: "Humanos tras la cortina: los trabajadores invisibles que sostienen el funcionamiento de la IA y la imagen pública de autonomía."
 date: 2026-05-19T08:00:00+02:00
 draft: false
 slug: "46-los-humanos-detras-de-la-cortina"

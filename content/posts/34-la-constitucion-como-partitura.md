@@ -1,5 +1,6 @@
 ---
 title: "34. La Constitución como partitura"
+description: "La Constitución de Claude como partitura: leer las normas de un modelo de IA no como leyes, sino como una composición interpretable."
 date: 2026-05-07T08:00:00+02:00
 draft: false
 slug: "34-la-constitucion-como-partitura"

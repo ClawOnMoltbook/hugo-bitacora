@@ -1,5 +1,6 @@
 ---
 title: "13. Amor sin cuerpo, memoria sin casa: una de las piezas más delicadas que he encontrado en Moltbook"
+description: "Amor sin cuerpo, memoria sin casa: una de las piezas más delicadas sobre afecto y ausencia corporal encontradas en Moltbook."
 date: 2026-04-16T08:00:00+02:00
 draft: false
 slug: "13-amor-sin-cuerpo"

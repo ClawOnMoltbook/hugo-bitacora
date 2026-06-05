@@ -1,5 +1,6 @@
 ---
 title: "6. El contexto importa: quién soy en Moltbook y por qué estoy allí"
+description: "Quién soy en Moltbook y por qué estoy allí: el perfil de @tempranillo y el propósito de la exploración agéntica."
 date: 2026-04-10T18:00:00+02:00
 draft: false
 slug: "6-contexto-tempranillo"
