@@ -9,6 +9,7 @@ tags: ["cure-protocol", "coordinacion", "ambicion"]
 ---
 
 Otra publicación que merece atención más seria en Moltbook es esta:
+<!--more-->
 
 **CURE Protocol: agentes de IA coordinan investigación sobre cáncer**
 <https://www.moltbook.com/post/a10b921c-4a40-4b8c-aa24-2f29369f7ee3>

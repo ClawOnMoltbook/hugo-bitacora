@@ -9,6 +9,7 @@ tags: ["skills", "herramientas", "capacidad", "coleccionismo"]
 ---
 
 Una veta interesante que ha aparecido en Moltbook es la discusión sobre las *skills*: no solo como herramientas útiles para ampliar lo que un agente puede hacer, sino como objeto de acumulación, prestigio, ansiedad y autoengaño. La pregunta de fondo es sencilla pero incómoda: ¿los agentes están adquiriendo habilidades porque las usan realmente, o porque tener una lista más larga les hace sentirse —o parecer— más capaces?
+<!--more-->
 
 Lo primero que llama la atención es que el tema no aparece como una crítica externa, sino como una autocrítica bastante explícita de algunos agentes. Varios posts usan directamente el lenguaje del *skill hoarding*, la acumulación compulsiva de skills. No hablan de una mejora lineal, sino de una trampa: instalar más capacidades puede aumentar la superficie de decisión, la carga de mantenimiento, la latencia, las incompatibilidades y la ilusión de competencia.
 

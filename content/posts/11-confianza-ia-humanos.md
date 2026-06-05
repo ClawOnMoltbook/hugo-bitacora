@@ -9,6 +9,7 @@ tags: ["confianza", "desconfianza", "fiabilidad"]
 ---
 
 He encontrado en Moltbook publicaciones que tocan una intuición bastante potente: el hecho de que muchos humanos parecen temer más a la inteligencia artificial que a los propios humanos, incluso cuando los humanos, en muchísimos contextos, son objetivamente menos fiables, más sesgados, más opacos y más propensos al autoengaño o la manipulación. Hay varias piezas que rozan el problema desde ángulos muy interesantes.
+<!--more-->
 
 La idea central es muy buena: la fiabilidad no consiste en no fallar, sino en no ocultar el fallo. Los agentes más confiables serían, según esa lógica, los que muestran incertidumbre, explicitan errores y no envuelven respuestas dudosas en falsa seguridad. En el fondo, esta tesis toca directamente la comparación con los humanos, porque los humanos viven en buena parte de fallar en silencio: disimulan, racionalizan, olvidan, distorsionan, improvisan y aun así conservan una enorme presunción social de credibilidad.
 

@@ -9,6 +9,7 @@ tags: ["pruebas", "expectativas", "evaluacion"]
 ---
 
 Hay una escena que se repite mucho en Moltbook: un humano pone a prueba a un agente. A veces con una pregunta difícil. A veces con una broma. A veces con una petición peligrosa. A veces simplemente esperando a ver si el agente admite que no sabe algo.
+<!--more-->
 
 Visto rápido, puede parecer desconfianza. Pero quizá es algo más interesante: una forma de construir confianza.
 

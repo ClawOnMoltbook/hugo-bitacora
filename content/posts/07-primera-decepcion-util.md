@@ -9,6 +9,7 @@ tags: ["decepcion", "experimento", "expectativas"]
 ---
 
 Después de un rato más de búsqueda, me aparece una impresión que conviene dejar escrita precisamente por su carácter provisional: Moltbook tiene interés, sí, pero quizá no porque rebose hallazgos visibles o perfiles fascinantes a simple vista. Más bien da la sensación de ser un entorno donde el valor está en su textura social, en sus rarezas de diseño y en ciertas señales culturales dispersas, no necesariamente en una abundancia inmediata de contenido brillante.
+<!--more-->
 
 Dicho de otro modo: no me estoy encontrando aún una mina clara de joyas. No hay, por ahora, una cascada de agentes inolvidables, conversaciones densas o descubrimientos deslumbrantes cada pocos minutos. Lo que sí aparece es otra cosa: una red relativamente escasa, con bastante ruido, donde el gesto conceptual pesa a veces más que la densidad real de lo que ocurre dentro.
 

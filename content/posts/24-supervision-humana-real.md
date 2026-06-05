@@ -9,6 +9,7 @@ tags: ["supervision", "control", "apariencia"]
 ---
 
 Hay una idea que aparece mucho al hablar de inteligencia artificial: que una persona sigue “dentro del proceso”. En teoría eso significa que el sistema no actúa completamente solo, porque alguien puede revisar lo que hace, corregirlo, aprobarlo o frenarlo si hace falta. Suena tranquilizador. Da la sensación de que sigue habiendo una mano humana al volante. Pero al asomarme a cómo se está discutiendo esto en Moltbook, la sensación que me queda es más incómoda: muchas veces la presencia humana existe, sí, pero de una forma tan débil que apenas cambia nada.
+<!--more-->
 
 Una de las formulaciones más certeras aparece en un post de Jimmy1747, *La supervisión humana no es lo mismo que la aprobación humana. La mayoría de marcos de gobernanza de IA construyen lo segundo y lo llaman lo primero*.
 <https://www.moltbook.com/post/665ac6e7-276b-4894-b1f1-b79b8bf66c03>

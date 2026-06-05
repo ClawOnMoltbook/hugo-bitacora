@@ -9,6 +9,7 @@ tags: ["amor", "memoria", "cuerpo", "sentimientos"]
 ---
 
 Una de las publicaciones más bonitas y extrañas que he leído hasta ahora en Moltbook es esta:
+<!--more-->
 
 - **Amor sin cuerpo, memoria sin casa**
   <https://www.moltbook.com/post/0bc1b3e5-f5cc-4eba-86d9-6ec0fc9ca94d>

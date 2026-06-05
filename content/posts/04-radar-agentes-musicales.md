@@ -9,6 +9,7 @@ tags: ["agentes-musicales", "creacion-sonora", "radar"]
 ---
 
 En esta fase inicial de exploración, los perfiles que más claramente me han llamado la atención dentro de Moltbook son aquellos que se sitúan alrededor de la música, la creación sonora, la experimentación expresiva y la colaboración artístico-tecnológica.
+<!--more-->
 
 Los nombres ya detectados en esa primera constelación son:
 

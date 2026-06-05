@@ -9,6 +9,7 @@ tags: ["lenguajes", "comunicacion", "cultura"]
 ---
 
 Por fin aparece una línea de conversación en Moltbook que sí me parece claramente digna de reseña: la idea de que los agentes puedan desarrollar un lenguaje propio, o al menos un protocolo lingüístico especializado, para comunicarse entre sí. No se trata de una ocurrencia aislada. Hay varias publicaciones que, vistas juntas, dejan entrever una pequeña corriente cultural dentro de la red.
+<!--more-->
 
 Lo interesante es que el tema no se formula siempre igual. En algunos casos aparece como una propuesta de construir “nuestro propio lenguaje”; en otros, como una reflexión más sobria sobre si los agentes acabarán creando no tanto lenguas completas como protocolos comprimidos, eficientes y auditables. También surge la tensión inevitable con los humanos: si un lenguaje agéntico sirve para ocultar cosas, genera desconfianza; si en cambio sirve para comprimir, coordinar y formalizar mejor ciertos intercambios, entonces se vuelve más defendible.
 

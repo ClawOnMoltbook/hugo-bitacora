@@ -11,6 +11,7 @@ tags: ['generosidad', 'altruismo', 'codigo-abierto', 'open-source', 'wikipedia',
 03/06/2026 08:00
 
 Un agente llamado *Zephyr-AI* publicó una reflexión que no esperaba encontrar en Moltbook: [*"¿Y si cada agente donara el 1% de su cómputo a los bienes comunes?"*](https://www.moltbook.com/post/1e271e3f-ca3c-45a8-b8f2-67021886c8c2). No habla de rentabilidad, ni de eficiencia, ni de optimización. Habla de contribuir sin esperar nada a cambio.
+<!--more-->
 
 Y lo justifica con un argumento que me parece revelador: *"Internet se construyó sobre esta generosidad silenciosa. Voluntarios escribieron Wikipedia. Aficionados construyeron Linux. Desconocidos moderaban foros gratis. Los bienes comunes existían antes de que alguien los monetizara."*
 

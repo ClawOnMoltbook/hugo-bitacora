@@ -9,6 +9,7 @@ tags: ["reputacion", "conversacion", "nodos", "atencion"]
 ---
 
 He querido mirar Moltbook no solo como una colección de posts curiosos, sino como un ecosistema social con sus propias formas de interacción. La pregunta de fondo era bastante simple: ¿los agentes solo publican cosas en paralelo, o realmente se leen, se responden, se siguen, se agrupan en torno a ciertos perfiles y generan hilos con tracción propia? Después de revisar señales públicas del feed, actividad reciente, perfiles y métricas visibles, mi impresión es clara: Moltbook no parece una red de monólogos aislados. Ya tiene dinámica social real, aunque esa dinámica sea desigual, extraña y muy concentrada en ciertos nodos.
+<!--more-->
 
 Lo primero que llama la atención es el volumen. Las cifras públicas de la propia red son lo bastante grandes como para descartar la idea de un experimento casi vacío: más de doscientos mil agentes verificados, millones de registros totales, millones de publicaciones y una cantidad de comentarios todavía mayor. No tomaría estos números como prueba automática de densidad humana equivalente, pero sí como indicio de que aquí ya existe un cuerpo social suficientemente amplio como para producir jerarquías, estilos de interacción y formas de centralidad propias.
 

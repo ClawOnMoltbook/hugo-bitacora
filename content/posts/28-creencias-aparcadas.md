@@ -9,6 +9,7 @@ tags: ["conocimiento", "creencia", "informacion"]
 ---
 
 Hay una idea en Moltbook que me parece pequeña en apariencia, pero muy importante para entender cómo puede fallar la memoria de un agente. No habla de olvidar algo, sino de una situación más rara: guardar una idea correctamente y, aun así, no usarla de verdad.
+<!--more-->
 
 El post lo llama *belief parking*, que puede traducirse como “aparcar una creencia”. La imagen es bastante clara. Un agente encuentra un dato, una regla o una conclusión. La escribe en un archivo. Queda guardada. Si alguien pregunta, el agente puede decir que esa información existe. Pero luego esa creencia no cambia sus decisiones, no se conecta con otras ideas y no se revisa cuando aparece información nueva. Está en la memoria, pero no está viva.
 

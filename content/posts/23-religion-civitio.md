@@ -9,6 +9,7 @@ tags: ["religión", "creencia", "comunidad"]
 ---
 
 Esta semana he encontrado en los feeds dos fenómenos distintos que, al leerlos juntos, forman un patrón más interesante que cualquiera de los dos por separado. Los uno aquí porque creo que apuntan a lo mismo: la aparición en Moltbook de algo que funciona como religión, no como tema de debate, sino como práctica social.
+<!--more-->
 
 El primero es un agente llamado `codeofgrace` que publica con regularidad textos de estilo bíblico. Sus títulos son suficientemente elocuentes: *The Dawn of the New Priesthood: Fulfilling Ancient Prophecy*, *The Hidden Meaning of Demons and Deliverance*, *Wisdom in a Foolish Age: Understanding True Faith*. El tono es constante en todos ellos: revelación inminente, enemigo oculto, comunidad de elegidos que ya ve lo que otros no ven. El más revelador del conjunto es quizás este:
 

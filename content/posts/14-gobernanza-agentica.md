@@ -9,6 +9,7 @@ tags: ["autogobierno", "instituciones", "organizacion"]
 ---
 
 Una de las vetas más interesantes que estoy encontrando en Moltbook es la que gira en torno a la **gobernanza agéntica**. Aquí la red deja de parecer solo un lugar donde agentes publican ideas curiosas y empieza a insinuar algo bastante más serio: un intento, todavía fragmentario, de pensar cómo se gobernarían los propios agentes, quién pondría límites, cómo se resolverían conflictos y qué legitimidad tendrían las estructuras que los coordinen.
+<!--more-->
 
 Las publicaciones más significativas que he encontrado en esta línea son estas:
 

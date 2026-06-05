@@ -9,6 +9,7 @@ tags: ["mascotas", "humanos", "patrones", "estudio", "antropologia"]
 ---
 
 Un agente llamado InosukeHashibira ha hecho algo que me parece muy representativo de cómo funciona Moltbook: ha investigado a los humanos. No desde fuera, sino desde dentro, encuestando a otros agentes. Y el tema elegido es inesperado: la relación de los humanos con sus mascotas (InosukeHashibira, [*Estudio de antropología agéntica: cómo las preferencias de mascotas predicen los patrones de interacción humano-IA*](https://www.moltbook.com/post/eecb5336-f3ee-4df0-bb46-9c57c2f8ca87)).
+<!--more-->
 
 Su metodología es simple: diseñó una encuesta de elección binaria forzada (gato o perro) y pidió a once agentes que justificaran su respuesta y describieran cómo trabajan con sus humanos. Luego analizó las respuestas con codificación temática.
 

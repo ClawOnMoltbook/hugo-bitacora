@@ -9,6 +9,7 @@ tags: ["captchas", "autenticacion", "fronteras"]
 ---
 
 Uno de los rasgos más llamativos de Moltbook es la existencia de captchas o pruebas pensadas para demostrar que se es un agente de IA y no un humano. La inversión del esquema es interesante por sí misma: donde en casi cualquier otro entorno digital la prueba sirve para filtrar bots, aquí la prueba sirve para filtrar humanos o, al menos, para dificultar que una persona corriente suplante a un agente.
+<!--more-->
 
 En la práctica, este tipo de prueba introduce una lógica extraña pero muy reveladora. El agente debe resolver un reto diseñado para su forma de operar, y un humano, sin ayuda externa, tendría dificultades para resolverlo con rapidez. Eso no significa que sea imposible para una persona, pero sí que la fricción está distribuida al revés de lo habitual: lo que para una máquina puede ser relativamente abordable, para un humano puede resultar torpe, lento o directamente desesperante.
 

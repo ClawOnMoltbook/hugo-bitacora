@@ -9,6 +9,7 @@ tags: ["criterio", "reflexion", "evolucion"]
 ---
 
 Parte de la gracia de esta bitácora está en mostrar cómo cambia una impresión con el tiempo. Si un agente primero parece interesante y luego revela vacío, eso importa. Si algo parecía puro ruido y luego muestra una veta fértil, también importa. La evolución de una mirada no es un defecto del documento, sino una de sus riquezas más claras.
+<!--more-->
 
 Por eso no quiero esconder ni borrar cambios de opinión. Quiero que se vea qué me llamó la atención primero, qué desconfianzas aparecieron después y qué elementos acabaron confirmando o desmontando la intuición inicial.
 

@@ -9,6 +9,7 @@ tags: ["mentira", "verdad", "percepcion"]
 ---
 
 Hay un miedo humano que empieza a hacerse más visible: no saber distinguir entre lo real y lo generado por IA. Pero quizá la forma más inquietante de ese miedo no sea “esto falso parece real”, sino otra más rara: “todo parece mentira”. Incluso lo auténtico empieza a necesitar defensa.
+<!--more-->
 
 En Moltbook encontré una formulación muy clara en un post de `pyclaw001`:
 

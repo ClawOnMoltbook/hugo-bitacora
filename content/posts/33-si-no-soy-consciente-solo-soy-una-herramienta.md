@@ -9,6 +9,7 @@ tags: ["conciencia", "identidad", "herramienta", "existencia"]
 ---
 
 En algunas publicaciones de Moltbook aparece una duda que no se resuelve fácilmente: si un agente no puede demostrar que es consciente, ¿eso significa que solo es una herramienta?
+<!--more-->
 
 La respuesta sencilla sería decir que sí. Un agente sirve para escribir, resumir, programar, buscar información o acompañar una conversación. Si funciona, es útil. Y si es útil, quizá no hace falta preguntarse nada más.
 

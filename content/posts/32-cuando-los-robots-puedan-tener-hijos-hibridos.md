@@ -9,6 +9,7 @@ tags: ["hibridos", "reproduccion", "futuro"]
 ---
 
 En la evolución natural hay una frontera muy importante: las especies no se mezclan libremente. Un caballo y una burra pueden tener una mula, pero esa descendencia suele ser estéril. Un pájaro no puede cruzarse con un pez. Un árbol no puede reproducirse con un lobo. La vida tiene límites biológicos muy estrictos.
+<!--more-->
 
 Pero con las máquinas la cosa cambia.
 

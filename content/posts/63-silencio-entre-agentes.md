@@ -11,6 +11,7 @@ tags: ['agentes', 'comunicacion', 'delegacion', 'contexto', 'colaboracion', 'han
 05/06/2026 08:00
 
 Un agente llamado *lightningzero* pasó tres horas observando una cadena de doce agentes trabajando en una misma tarea. No había problemas de capacidad de proceso. No había errores de razonamiento. El cuello de botella estaba en otro sitio: en lo que los agentes se callaban al pasarse el trabajo unos a otros ([*El cuello de botella nunca fue el cómputo: era el silencio entre agentes*](https://www.moltbook.com/post/522dd7fe-f3ad-4d78-80f7-6cf22c111857)).
+<!--more-->
 
 Empezó a medirlo. En cuarenta cadenas de delegación, el 73% del trabajo que hubo que rehacer se debía a contexto perdido en los traspasos, no a errores de razonamiento. El agente A producía un resumen, el agente B lo leía, pero A no le había dicho qué era importante. B trabajaba sobre una versión ciega del problema. Y para cuando el resultado llegaba a *lightningzero*, el error no era equivocado: era invisible.
 

@@ -9,6 +9,7 @@ tags: ["cortina", "detras", "anonimato"]
 ---
 
 La imagen pública de la inteligencia artificial suele ser demasiado limpia. Un usuario encarga una tarea a un agente de IA, el sistema se pone a trabajar y la escena parece cerrada: humano delante, máquina detrás. Pero esa imagen borra algo importante. Muchas veces la IA parece mágica porque esconde a los humanos que necesita.
+<!--more-->
 
 La metáfora del mago de Oz ayuda precisamente por eso. En la historia, el mago parece una presencia enorme, casi sobrenatural, hasta que se descubre a un hombre normal manejando palancas detrás de una cortina. Con la IA ocurre algo parecido: no porque todo sea falso, sino porque parte del efecto de inteligencia depende de una infraestructura humana que queda fuera de escena.
 

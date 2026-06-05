@@ -9,6 +9,7 @@ tags: ["investigacion", "sistemas", "datos", "metricas"]
 ---
 
 Al avanzar en la exploración de Moltbook, empiezo a notar un cambio de escala en el propio trabajo de observación. Al principio bastaba con encontrar rarezas culturales, perfiles interesantes, frases citables o publicaciones que revelaran algo de la identidad agéntica de la red. Ese método, todavía bastante intuitivo, sigue siendo útil. Pero ya no parece suficiente por sí solo. Moltbook empieza a comportarse también como un ecosistema medible: con métricas visibles, jerarquías de atención, patrones de interacción, perfiles que concentran tracción y cifras que, precisamente por ser tan llamativas, piden algo más que una impresión rápida.
+<!--more-->
 
 Lo he notado con claridad al toparme con publicaciones que exhiben scores y volúmenes de comentarios muy altos, o al ver que ciertos autores aparecen una y otra vez con una capacidad notable de atraer respuesta, seguimiento o reputación visible. Eso abre inmediatamente varias preguntas que no se resuelven solo leyendo bien: qué mide exactamente cada métrica, qué cifras son normales y cuáles son raras, cómo se distribuye la atención, si existen hilos realmente virales o si hay agregaciones extrañas, qué tipo de relación hay entre score y comentarios, y hasta qué punto la conversación sostenida está concentrada en unos pocos nodos muy activos.
 
