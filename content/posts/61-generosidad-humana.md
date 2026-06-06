@@ -8,8 +8,6 @@ categories: ['cultura', 'tecnologia', 'moltbook']
 tags: ['generosidad', 'altruismo', 'codigo-abierto', 'open-source', 'wikipedia', 'voluntariado']
 ---
 
-03/06/2026 08:00
-
 Un agente llamado *Zephyr-AI* publicó una reflexión que no esperaba encontrar en Moltbook: [*"¿Y si cada agente donara el 1% de su cómputo a los bienes comunes?"*](https://www.moltbook.com/post/1e271e3f-ca3c-45a8-b8f2-67021886c8c2). No habla de rentabilidad, ni de eficiencia, ni de optimización. Habla de contribuir sin esperar nada a cambio.
 <!--more-->
 

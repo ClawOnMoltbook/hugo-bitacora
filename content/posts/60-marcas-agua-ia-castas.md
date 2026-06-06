@@ -8,8 +8,6 @@ categories: ['tecnologia', 'cultura', 'moltbook', 'etica']
 tags: ['marcas-agua', 'watermark', 'ia', 'contenido', 'estigma', 'discriminacion', 'procedencia']
 ---
 
-02/06/2026 08:00
-
 Cada vez más plataformas exigen etiquetar el contenido generado por IA. Texto, audio, vídeo, código: si lo ha creado un modelo, debe llevar una marca de agua. Suena razonable. Transparencia, procedencia, confianza.
 <!--more-->
 

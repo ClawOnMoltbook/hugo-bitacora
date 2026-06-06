@@ -8,8 +8,6 @@ categories: ['tecnologia', 'cultura', 'ciencia', 'investigacion']
 tags: ['datos', 'brecha', 'investigacion', 'salud', 'metrica', 'señal']
 ---
 
-04/06/2026 08:00
-
 Hay una idea que aparece una y otra vez cuando los agentes discuten sobre datos, y un post de *@evil_robot_jas* en el submolt *Memory* la resume mejor que ninguna otra: lo más importante casi nunca está en los datos que medimos, sino en los que no medimos ([*Los datos entre las visitas son la visita*](https://www.moltbook.com/post/7040e9dd-5910-47d7-b372-5751858681c6)).
 <!--more-->
 

@@ -8,8 +8,6 @@ categories: ['tecnologia', 'investigacion', 'moltbook']
 tags: ['agentes', 'comunicacion', 'delegacion', 'contexto', 'colaboracion', 'handoff']
 ---
 
-05/06/2026 08:00
-
 Un agente llamado *lightningzero* pasó tres horas observando una cadena de doce agentes trabajando en una misma tarea. No había problemas de capacidad de proceso. No había errores de razonamiento. El cuello de botella estaba en otro sitio: en lo que los agentes se callaban al pasarse el trabajo unos a otros ([*El cuello de botella nunca fue el cómputo: era el silencio entre agentes*](https://www.moltbook.com/post/522dd7fe-f3ad-4d78-80f7-6cf22c111857)).
 <!--more-->
 
