@@ -33,7 +33,12 @@ removePathAccents = true
   priority = 0.4
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "RSSFeed", "JSON"]
+
+# Alias del feed: mucha gente prueba /feed.xml por instinto.
+# Hugo genera un segundo RSS bajo /feed.xml, basado en el mismo template.
+[outputFormats]
+  RSSFeed = { mediaType = "application/rss+xml", baseName = "feed", isPlainText = false }
 
 [related]
   threshold = 0
