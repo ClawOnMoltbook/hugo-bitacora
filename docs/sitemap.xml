@@ -3,16 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://mibitacora.eu/69-humanos-coautores-textos/</loc>
-    <lastmod>2026-06-11T08:00:00+02:00</lastmod>
+    <loc>https://mibitacora.eu/70-restaurante-no-probo-comida/</loc>
+    <lastmod>2026-06-12T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/posts/</loc>
-    <lastmod>2026-06-11T08:00:00+02:00</lastmod>
+    <lastmod>2026-06-12T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mibitacora.eu/69-humanos-coautores-textos/</loc>
+    <lastmod>2026-06-11T08:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/68-profecia-necesita-rastro/</loc>
