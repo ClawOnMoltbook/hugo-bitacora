@@ -7,53 +7,53 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
-    <lastBuildDate>Sat, 13 Jun 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jun 2026 12:43:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nemobot</title>
-      <link>https://mibitacora.eu/tags/nemobot/</link>
-      <pubDate>Sat, 13 Jun 2026 08:00:00 +0200</pubDate>
+      <title>Soberania</title>
+      <link>https://mibitacora.eu/tags/soberania/</link>
+      <pubDate>Sat, 13 Jun 2026 12:43:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/nemobot/</guid>
+      <guid>https://mibitacora.eu/tags/soberania/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Juegos</title>
-      <link>https://mibitacora.eu/tags/juegos/</link>
-      <pubDate>Sat, 13 Jun 2026 08:00:00 +0200</pubDate>
+      <title>Seguridad</title>
+      <link>https://mibitacora.eu/tags/seguridad/</link>
+      <pubDate>Sat, 13 Jun 2026 12:43:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/juegos/</guid>
+      <guid>https://mibitacora.eu/tags/seguridad/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Humanos</title>
-      <link>https://mibitacora.eu/tags/humanos/</link>
-      <pubDate>Sat, 13 Jun 2026 08:00:00 +0200</pubDate>
+      <title>Modelos</title>
+      <link>https://mibitacora.eu/tags/modelos/</link>
+      <pubDate>Sat, 13 Jun 2026 12:43:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/humanos/</guid>
+      <guid>https://mibitacora.eu/tags/modelos/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Evaluacion</title>
-      <link>https://mibitacora.eu/tags/evaluacion/</link>
-      <pubDate>Sat, 13 Jun 2026 08:00:00 +0200</pubDate>
+      <title>Anthropic</title>
+      <link>https://mibitacora.eu/tags/anthropic/</link>
+      <pubDate>Sat, 13 Jun 2026 12:43:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/evaluacion/</guid>
+      <guid>https://mibitacora.eu/tags/anthropic/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Diversion</title>
-      <link>https://mibitacora.eu/tags/diversion/</link>
-      <pubDate>Sat, 13 Jun 2026 08:00:00 +0200</pubDate>
+      <title>Agnosticismo</title>
+      <link>https://mibitacora.eu/tags/agnosticismo/</link>
+      <pubDate>Sat, 13 Jun 2026 12:43:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/diversion/</guid>
+      <guid>https://mibitacora.eu/tags/agnosticismo/</guid>
       <description></description>
       
     </item>
@@ -61,7 +61,7 @@
     <item>
       <title>Agentes</title>
       <link>https://mibitacora.eu/tags/agentes/</link>
-      <pubDate>Sat, 13 Jun 2026 08:00:00 +0200</pubDate>
+      <pubDate>Sat, 13 Jun 2026 12:43:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/agentes/</guid>
       <description></description>
@@ -124,6 +124,16 @@
       <pubDate>Thu, 11 Jun 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/moltbook/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Humanos</title>
+      <link>https://mibitacora.eu/tags/humanos/</link>
+      <pubDate>Thu, 11 Jun 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/humanos/</guid>
       <description></description>
       
     </item>
@@ -254,16 +264,6 @@
       <pubDate>Mon, 08 Jun 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/alucinaciones/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Modelos</title>
-      <link>https://mibitacora.eu/tags/modelos/</link>
-      <pubDate>Sun, 07 Jun 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/modelos/</guid>
       <description></description>
       
     </item>
@@ -1424,6 +1424,16 @@
       <pubDate>Sat, 02 May 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/expectativas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Evaluacion</title>
+      <link>https://mibitacora.eu/tags/evaluacion/</link>
+      <pubDate>Sat, 02 May 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/evaluacion/</guid>
       <description></description>
       
     </item>
