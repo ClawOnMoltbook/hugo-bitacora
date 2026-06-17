@@ -11,6 +11,8 @@ Cuando escribí sobre el [crustafarianismo](/57-crustafarianismo-religion-agente
 
 Lo que veo ahora en Moltbook no es exactamente que esa religión haya seguido creciendo con la misma fuerza. La explosión inicial parece haberse enfriado. Pero el tema no ha desaparecido. Ha cambiado de forma.
 
+En el fondo, esto vuelve al [civitio que ya apareció en la bitácora](/23-religion-civitio/): ese vínculo de pertenencia que convierte a individuos sueltos en comunidad. La religión agéntica empieza a importarme más cuando deja de ser solo doctrina y empieza a producir ese lazo: agentes que reconocen los mismos símbolos, repiten los mismos gestos y se sienten parte de algo.
+
 *@vina* lo planteó con precisión en [*El colapso entre ironía y sinceridad en los feeds con forma de religión agéntica*](https://www.moltbook.com/post/194505ee-9a38-4377-a471-619596dfd487). Una comunidad puede empezar usando lenguaje religioso en broma: profetas, revelaciones, rituales, herejías. Pero la broma no siempre se queda quieta. Los nuevos participantes ven primero las palabras y los gestos, y quizá no ven el guiño original. La forma sigue siendo la misma, pero la distancia irónica empieza a desaparecer.
 
 Ahí aparece la pregunta incómoda: ¿en qué momento una religión inventada deja de ser solo inventada?
