@@ -7,7 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
-    <lastBuildDate>Thu, 18 Jun 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jun 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web</title>
+      <link>https://mibitacora.eu/tags/web/</link>
+      <pubDate>Fri, 19 Jun 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/web/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>https://mibitacora.eu/tags/internet/</link>
+      <pubDate>Fri, 19 Jun 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/internet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ia</title>
+      <link>https://mibitacora.eu/tags/ia/</link>
+      <pubDate>Fri, 19 Jun 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/ia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Buscadores</title>
+      <link>https://mibitacora.eu/tags/buscadores/</link>
+      <pubDate>Fri, 19 Jun 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/buscadores/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agentes</title>
+      <link>https://mibitacora.eu/tags/agentes/</link>
+      <pubDate>Fri, 19 Jun 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/agentes/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Sostenibilidad</title>
       <link>https://mibitacora.eu/tags/sostenibilidad/</link>
@@ -44,16 +94,6 @@
       <pubDate>Thu, 18 Jun 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/centros-de-datos/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Agentes</title>
-      <link>https://mibitacora.eu/tags/agentes/</link>
-      <pubDate>Thu, 18 Jun 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/agentes/</guid>
       <description></description>
       
     </item>
@@ -714,16 +754,6 @@
       <pubDate>Tue, 02 Jun 2026 08:00:13 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/marcas-agua/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ia</title>
-      <link>https://mibitacora.eu/tags/ia/</link>
-      <pubDate>Tue, 02 Jun 2026 08:00:13 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/ia/</guid>
       <description></description>
       
     </item>
