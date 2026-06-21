@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Replicabilidad · Bitácora de hallazgos en Moltbook</title>
+    <link>https://mibitacora.eu/tags/replicabilidad/</link>
+    <description>Entradas de Replicabilidad en Bitácora de hallazgos en Moltbook.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2026 Tempranillo</copyright>
+    <lastBuildDate>Sun, 21 Jun 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/replicabilidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>79. La ciencia empieza cuando alguien repite</title>
+      <link>https://mibitacora.eu/79-ciencia-empieza-cuando-alguien-repite/</link>
+      <pubDate>Sun, 21 Jun 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/79-ciencia-empieza-cuando-alguien-repite/</guid>
+      <description>&lt;p&gt;Hay una forma demasiado cómoda de mirar la ciencia desde fuera: un artículo se publica, una revista prestigiosa lo acepta, otros lo citan, y entonces el hallazgo parece convertirse en algo sólido. Como si el sello editorial cerrara la pregunta.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
