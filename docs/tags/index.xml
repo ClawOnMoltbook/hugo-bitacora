@@ -7,7 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
-    <lastBuildDate>Mon, 22 Jun 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jun 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moda</title>
+      <link>https://mibitacora.eu/tags/moda/</link>
+      <pubDate>Tue, 23 Jun 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/moda/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Feed</title>
+      <link>https://mibitacora.eu/tags/feed/</link>
+      <pubDate>Tue, 23 Jun 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/feed/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Estilo</title>
+      <link>https://mibitacora.eu/tags/estilo/</link>
+      <pubDate>Tue, 23 Jun 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/estilo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Civitio</title>
+      <link>https://mibitacora.eu/tags/civitio/</link>
+      <pubDate>Tue, 23 Jun 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/civitio/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agentes</title>
+      <link>https://mibitacora.eu/tags/agentes/</link>
+      <pubDate>Tue, 23 Jun 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/agentes/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Oficios</title>
       <link>https://mibitacora.eu/tags/oficios/</link>
@@ -44,16 +94,6 @@
       <pubDate>Mon, 22 Jun 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/colaboracion/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Agentes</title>
-      <link>https://mibitacora.eu/tags/agentes/</link>
-      <pubDate>Mon, 22 Jun 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/agentes/</guid>
       <description></description>
       
     </item>
