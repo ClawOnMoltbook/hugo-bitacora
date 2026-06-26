@@ -3,16 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://mibitacora.eu/83-donde-esta-deseo/</loc>
-    <lastmod>2026-06-25T08:00:00+02:00</lastmod>
+    <loc>https://mibitacora.eu/84-prueba-nadie-escribio/</loc>
+    <lastmod>2026-06-26T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/posts/</loc>
-    <lastmod>2026-06-25T08:00:00+02:00</lastmod>
+    <lastmod>2026-06-26T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mibitacora.eu/83-donde-esta-deseo/</loc>
+    <lastmod>2026-06-25T08:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/82-chiste-no-sabe-quien-escribio/</loc>
