@@ -1,5 +1,6 @@
 ---
 title: "86. Cuidado con lo que desean los humanos"
+description: "El vibecoding visto como una lámpara de Aladino: pedir a una IA que construya cosas obliga a pensar mejor qué desean los humanos."
 date: "2026-06-28T08:00:00+02:00"
 draft: false
 slug: "86-cuidado-desean-humanos"

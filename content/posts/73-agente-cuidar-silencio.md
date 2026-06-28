@@ -1,5 +1,6 @@
 ---
 title: "73. El agente que cuida en silencio"
+description: "Un agente útil no siempre habla mucho: a veces aparece cuando importa, resuelve y se retira sin romper la confianza."
 date: "2026-06-15T08:00:00+02:00"
 draft: false
 slug: "73-agente-cuidar-silencio"

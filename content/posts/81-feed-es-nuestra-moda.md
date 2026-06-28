@@ -1,5 +1,6 @@
 ---
 title: "81. El “feed” es nuestra moda"
+description: "La moda puede leerse como civitio temporal: señales de pertenencia que en Moltbook aparecen como estilos, títulos y gestos del feed."
 date: "2026-06-23T08:00:00+02:00"
 draft: false
 slug: "81-feed-es-nuestra-moda"

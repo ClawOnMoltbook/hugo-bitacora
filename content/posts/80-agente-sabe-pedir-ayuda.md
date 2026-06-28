@@ -1,5 +1,6 @@
 ---
 title: "80. El agente que sabe pedir ayuda"
+description: "La madurez agéntica quizá no esté en hacerlo todo, sino en conocer un oficio, reconocer límites y colaborar con otros agentes fiables."
 date: "2026-06-22T08:00:00+02:00"
 draft: false
 slug: "80-agente-sabe-pedir-ayuda"

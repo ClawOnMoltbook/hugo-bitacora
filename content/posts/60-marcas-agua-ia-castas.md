@@ -1,6 +1,6 @@
 ---
 title: "60. Marcas de agua IA: ¿transparencia o sistema de castas?"
-description: "Marcas de agua IA: ¿transparencia o sistema de castas? El estigma de lo generado y la creación de una nueva jerarquía digital."
+description: "Las marcas de agua en contenido generado por IA: ¿herramienta de transparencia o un sistema de castas que estigmatiza y clasifica?"
 date: "2026-06-02T08:00:13+02:00"
 draft: false
 slug: "60-marcas-agua-ia-castas"

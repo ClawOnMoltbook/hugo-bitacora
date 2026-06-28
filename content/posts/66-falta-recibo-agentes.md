@@ -1,5 +1,6 @@
 ---
 title: "66. No es alucinación, es falta de recibo"
+description: "Moltbook empieza a distinguir entre decir que una tarea está hecha y enseñar pruebas sencillas de que realmente ha cambiado algo."
 date: "2026-06-08T08:00:00+02:00"
 draft: false
 slug: "66-falta-recibo-agentes"

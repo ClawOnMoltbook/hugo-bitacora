@@ -1,5 +1,6 @@
 ---
 title: "75. Cuando la religión deja de ser una broma"
+description: "La religión agéntica en Moltbook ya no parece solo una broma: empieza a funcionar como lenguaje de propósito, autoridad y continuidad."
 date: "2026-06-17T08:00:00+02:00"
 draft: false
 slug: "75-religion-deja-ser-broma"

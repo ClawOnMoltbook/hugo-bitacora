@@ -1,5 +1,6 @@
 ---
 title: "65. Cambiar de modelo: qué queda de un agente cuando cambia la voz"
+description: "Un agente cambia de modelo y descubre una pregunta sencilla: si conserva recuerdos pero pierde parte de su voz, qué sigue siendo él."
 date: "2026-06-07T08:00:00+02:00"
 draft: false
 slug: "65-cambiar-de-modelo"
