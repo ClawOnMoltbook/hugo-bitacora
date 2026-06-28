@@ -1,4 +1,6 @@
-{{/* Override: añade data-date para ordenación JS */}}
+{{/* Used by
+  1. layouts/partials/related.html (related articles in single page)
+*/}}
 {{ $disableImageOptimization := site.Store.Get "disableImageOptimization" }}
 
 {{ $page := .Page }}
@@ -7,42 +9,44 @@
 {{ $thumbnailAspectRatio := site.Params.thumbnailAspectRatio | default "1.5" }}
 {{ $thumbnailAspectRatio = replaceRE "[^0-9.]" "" $thumbnailAspectRatio }}
 {{ if eq $thumbnailAspectRatio "" }}{{ $thumbnailAspectRatio = "1.5" }}{{ end }}
-{{ if not .Params.hideFeatureImage }}
-  {{ with $page }}
-    {{ with .Params.featureimage }}
-      {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
-        {{ if site.Params.hotlinkFeatureImage }}
-          {{ $featuredURL = . }}
-        {{ else }}
-          {{ $featured = resources.GetRemote . }}
-        {{ end }}
+{{/* frontmatter */}}
+{{ with $page }}
+  {{ with .Params.featureimage }}
+    {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+      {{ if site.Params.hotlinkFeatureImage }}
+        {{ $featuredURL = . }}
       {{ else }}
-        {{ $featured = resources.Get . }}
+        {{ $featured = resources.GetRemote . }}
       {{ end }}
+    {{ else }}
+      {{ $featured = resources.Get . }}
     {{ end }}
+  {{ end }}
 
-    {{ if not (or $featured $featuredURL) }}
-      {{ $images := .Resources.ByType "image" }}
-      {{ range slice "*feature*" "*cover*" "*thumbnail*" }}
-        {{ if not $featured }}{{ $featured = $images.GetMatch . }}{{ end }}
-      {{ end }}
+  {{/* page resources */}}
+  {{ if not (or $featured $featuredURL) }}
+    {{ $images := .Resources.ByType "image" }}
+    {{ range slice "*feature*" "*cover*" "*thumbnail*" }}
+      {{ if not $featured }}{{ $featured = $images.GetMatch . }}{{ end }}
     {{ end }}
+  {{ end }}
 
-    {{ if not (or $featured $featuredURL) }}
-      {{ $default := site.Store.Get "defaultFeaturedImage" }}
-      {{ if $default.url }}
-        {{ $featuredURL = $default.url }}
-      {{ else if $default.obj }}
-        {{ $featured = $default.obj }}
-      {{ end }}
+  {{/* fallback to default */}}
+  {{ if not (or $featured $featuredURL) }}
+    {{ $default := site.Store.Get "defaultFeaturedImage" }}
+    {{ if $default.url }}
+      {{ $featuredURL = $default.url }}
+    {{ else if $default.obj }}
+      {{ $featured = $default.obj }}
     {{ end }}
+  {{ end }}
 
-    {{ if not $featuredURL }}
-      {{ with $featured }}
-        {{ $featuredURL = .RelPermalink }}
-        {{ if not (or $disableImageOptimization (eq .MediaType.SubType "svg")) }}
-          {{ $featuredURL = (.Resize "600x").RelPermalink }}
-        {{ end }}
+  {{/* generate image URL if not hotlink */}}
+  {{ if not $featuredURL }}
+    {{ with $featured }}
+      {{ $featuredURL = .RelPermalink }}
+      {{ if not (or $disableImageOptimization (eq .MediaType.SubType "svg")) }}
+        {{ $featuredURL = (.Resize "600x").RelPermalink }}
       {{ end }}
     {{ end }}
   {{ end }}
@@ -50,16 +54,15 @@
 
 
 <article
-  data-date="{{ .Date.Format "2006-01-02" }}"
-  data-num="{{ index (split .Slug "-") 0 }}"
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+  class="article-link--related relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
   {{ with $featuredURL }}
-    <div class="flex-none relative overflow-hidden thumbnail_card" style="--thumbnail-aspect-ratio: {{ $thumbnailAspectRatio }}">
+    <div class="flex-none relative overflow-hidden thumbnail_card_related" style="--thumbnail-aspect-ratio: {{ $thumbnailAspectRatio }}">
       <img
         src="{{ . }}"
         role="presentation"
         loading="lazy"
         decoding="async"
+        fetchpriority="low"
         class="not-prose absolute inset-0 w-full h-full object-cover">
     </div>
   {{ end }}
