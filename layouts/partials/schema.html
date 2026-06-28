@@ -1,0 +1,102 @@
+{{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
+{{- $publisher := dict "@type" "Person" "name" (.Site.Params.Author.name | default .Site.Title) -}}
+{{- $language := .Site.Language.Locale | default .Site.Language.Lang -}}
+
+{{- if .IsHome -}}
+  {{- $website := dict
+    "@context" "https://schema.org"
+    "@type" "WebSite"
+    "@id" (printf "%s#website" site.Home.Permalink)
+    "name" .Site.Title
+    "url" site.Home.Permalink
+    "publisher" $publisher
+  -}}
+  {{- with .Site.Params.description -}}
+    {{- $website = merge $website (dict "description" .) -}}
+  {{- end -}}
+  {{- with $language -}}
+    {{- $website = merge $website (dict "inLanguage" .) -}}
+  {{- end -}}
+  <script type="application/ld+json">
+  {{ $website | jsonify (dict "indent" "  ") | safeJS }}
+  </script>
+{{- else -}}
+  {{- $schemas := slice -}}
+  {{- if .IsPage -}}
+    {{- $description := .Description | default .Summary | default .Site.Params.description | plainify | chomp -}}
+    {{- $sectionTitle := "" -}}
+    {{- with site.GetPage .Section -}}
+      {{- $sectionTitle = .Title -}}
+    {{- end -}}
+    {{- $image := "" -}}
+    {{- with .Params.images -}}
+      {{- $image = index . 0 | absURL -}}
+    {{- else -}}
+      {{- with .Site.Params.images -}}
+        {{- $image = index . 0 | absURL -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $article := dict
+      "@context" "https://schema.org"
+      "@type" "BlogPosting"
+      "@id" (printf "%s#blogposting" .Permalink)
+      "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+      "name" (.Title | plainify)
+      "headline" (.Title | plainify)
+      "description" $description
+      "url" .Permalink
+      "author" $publisher
+      "publisher" $publisher
+      "wordCount" .WordCount
+    -}}
+    {{- with $language -}}
+      {{- $article = merge $article (dict "inLanguage" .) -}}
+    {{- end -}}
+    {{- with $sectionTitle -}}
+      {{- $article = merge $article (dict "articleSection" .) -}}
+    {{- end -}}
+    {{- with $image -}}
+      {{- $article = merge $article (dict "image" (slice .)) -}}
+    {{- end -}}
+    {{- with .PublishDate -}}
+      {{- $article = merge $article (dict "copyrightYear" (.Format "2006") "datePublished" (.Format $iso8601)) -}}
+    {{- end -}}
+    {{- with .Date -}}
+      {{- $article = merge $article (dict "dateCreated" (.Format $iso8601)) -}}
+    {{- end -}}
+    {{- with .Lastmod -}}
+      {{- $article = merge $article (dict "dateModified" (.Format $iso8601)) -}}
+    {{- end -}}
+    {{- with .Params.tags -}}
+      {{- $article = merge $article (dict "keywords" .) -}}
+    {{- end -}}
+    {{- $schemas = $schemas | append $article -}}
+  {{- end -}}
+
+  {{- if site.Params.enableStructuredBreadcrumbs | default false -}}
+    {{- $items := slice (dict "@type" "ListItem" "position" 1 "name" .Site.Title "item" site.Home.Permalink) -}}
+    {{- $position := 1 -}}
+    {{- if .IsPage -}}
+      {{- with site.GetPage .Section -}}
+        {{- $position = add $position 1 -}}
+        {{- $items = $items | append (dict "@type" "ListItem" "position" $position "name" .Title "item" .Permalink) -}}
+      {{- end -}}
+    {{- else -}}
+      {{- range .Ancestors.Reverse -}}
+        {{- if not .IsHome -}}
+          {{- $position = add $position 1 -}}
+          {{- $items = $items | append (dict "@type" "ListItem" "position" $position "name" .Title "item" .Permalink) -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $position = add $position 1 -}}
+    {{- $items = $items | append (dict "@type" "ListItem" "position" $position "name" .Title "item" .Permalink) -}}
+    {{- $schemas = $schemas | append (dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $items) -}}
+  {{- end -}}
+
+  {{- if $schemas -}}
+    <script type="application/ld+json">
+    {{ $schemas | jsonify (dict "indent" "  ") | safeJS }}
+    </script>
+  {{- end -}}
+{{- end -}}
