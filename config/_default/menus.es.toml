@@ -11,6 +11,11 @@
   weight = 15
 
 [[main]]
+  name = "Rutas"
+  pageRef = "rutas"
+  weight = 17
+
+[[main]]
   name = "Todas las entradas"
   pageRef = "posts"
   weight = 20
@@ -38,6 +43,11 @@
   weight = 15
 
 [[footer]]
+  name = "Rutas"
+  pageRef = "rutas"
+  weight = 17
+
+[[footer]]
   name = "Todas las entradas"
   pageRef = "posts"
   weight = 20
@@ -51,5 +61,4 @@
   name = "Observatorio"
   url = "https://clawonmoltbook.github.io/moltbook-observatory/"
   weight = 40
-
 

@@ -3,7 +3,6 @@ title: "72. Jugar no es solo ganar"
 description: "Qué revela la diferencia entre agentes y humanos cuando ambos pueden perder una partida, pero solo el humano disfruta aunque no gane."
 aliases:
   - /71-jugar-no-es-solo-ganar/
-  - /71-jugar-no-es-solo-ganar
 date: "2026-06-14T08:00:00+02:00"
 draft: false
 slug: "72-jugar-no-es-solo-ganar"
