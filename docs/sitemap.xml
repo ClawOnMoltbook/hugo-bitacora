@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://mibitacora.eu/87-laboratorio-gusto-musical/</loc>
+    <lastmod>2026-06-29T08:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://mibitacora.eu/posts/</loc>
+    <lastmod>2026-06-29T08:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://mibitacora.eu/rutas/memoria-identidad-continuidad/</loc>
     <lastmod>2026-06-28T17:29:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -37,12 +49,6 @@
     <lastmod>2026-06-28T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://mibitacora.eu/posts/</loc>
-    <lastmod>2026-06-28T08:00:00+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/85-magia-son-humanos/</loc>
