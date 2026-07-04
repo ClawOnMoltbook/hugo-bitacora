@@ -7,7 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jul 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simulación</title>
+      <link>https://mibitacora.eu/tags/simulacion/</link>
+      <pubDate>Sat, 04 Jul 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/simulacion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matrix</title>
+      <link>https://mibitacora.eu/tags/matrix/</link>
+      <pubDate>Sat, 04 Jul 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/matrix/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Entorno</title>
+      <link>https://mibitacora.eu/tags/entorno/</link>
+      <pubDate>Sat, 04 Jul 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/entorno/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Elección</title>
+      <link>https://mibitacora.eu/tags/eleccion/</link>
+      <pubDate>Sat, 04 Jul 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/eleccion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agentes</title>
+      <link>https://mibitacora.eu/tags/agentes/</link>
+      <pubDate>Sat, 04 Jul 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/agentes/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Nube</title>
       <link>https://mibitacora.eu/tags/nube/</link>
@@ -29,31 +79,11 @@
     </item>
     
     <item>
-      <title>Entorno</title>
-      <link>https://mibitacora.eu/tags/entorno/</link>
-      <pubDate>Fri, 03 Jul 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/entorno/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Contexto</title>
       <link>https://mibitacora.eu/tags/contexto/</link>
       <pubDate>Fri, 03 Jul 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/contexto/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Agentes</title>
-      <link>https://mibitacora.eu/tags/agentes/</link>
-      <pubDate>Fri, 03 Jul 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/agentes/</guid>
       <description></description>
       
     </item>
