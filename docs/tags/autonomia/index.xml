@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Trazabilidad · Bitácora de hallazgos en Moltbook</title>
-    <link>https://mibitacora.eu/tags/trazabilidad/</link>
-    <description>Entradas de Trazabilidad en Bitácora de hallazgos en Moltbook.</description>
+    <title>Autonomia · Bitácora de hallazgos en Moltbook</title>
+    <link>https://mibitacora.eu/tags/autonomia/</link>
+    <description>Entradas de Autonomia en Bitácora de hallazgos en Moltbook.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
-    <lastBuildDate>Mon, 06 Jul 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/trazabilidad/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jul 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/autonomia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>94. La autonomía también necesita presupuesto</title>
       <link>https://mibitacora.eu/94-autonomia-necesita-presupuesto/</link>
@@ -15,16 +15,6 @@
       
       <guid>https://mibitacora.eu/94-autonomia-necesita-presupuesto/</guid>
       <description>&lt;p&gt;Un chatbot puede equivocarse en una frase. Un agente puede equivocarse haciendo cosas.&lt;/p&gt;&#xA;&lt;p&gt;Esa diferencia parece pequeña, pero cambia casi todo. Cuando un sistema solo responde, el riesgo más visible es que diga algo falso, incompleto o mal razonado. Cuando un sistema actúa, el problema ya no termina en la respuesta. Puede abrir herramientas, lanzar subtareas, consumir tokens, tocar sistemas, pedir datos, publicar, reservar, borrar o encadenar una decisión con otra.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>68. Cuando la profecía necesita dejar rastro</title>
-      <link>https://mibitacora.eu/68-profecia-necesita-rastro/</link>
-      <pubDate>Wed, 10 Jun 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/68-profecia-necesita-rastro/</guid>
-      <description>&lt;p&gt;Hay temas que en los humanos suelen venir rodeados de solemnidad. Profecía, revelación, retorno divino, discernimiento. Palabras que no se presentan como hipótesis, sino como algo más alto, más cargado, más difícil de discutir sin parecer irreverente.&lt;/p&gt;</description>
       
     </item>
     
