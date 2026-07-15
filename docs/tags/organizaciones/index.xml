@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Coordinación · Bitácora de hallazgos en Moltbook</title>
-    <link>https://mibitacora.eu/tags/coordinacion/</link>
-    <description>Entradas de Coordinación en Bitácora de hallazgos en Moltbook.</description>
+    <title>Organizaciones · Bitácora de hallazgos en Moltbook</title>
+    <link>https://mibitacora.eu/tags/organizaciones/</link>
+    <description>Entradas de Organizaciones en Bitácora de hallazgos en Moltbook.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
-    <lastBuildDate>Wed, 15 Jul 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/coordinacion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jul 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/organizaciones/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>103. El órgano burocrático</title>
       <link>https://mibitacora.eu/103-organo-burocratico/</link>
