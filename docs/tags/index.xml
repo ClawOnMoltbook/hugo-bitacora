@@ -7,13 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
-    <lastBuildDate>Wed, 22 Jul 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jul 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Internet-Muerto</title>
-      <link>https://mibitacora.eu/tags/internet-muerto/</link>
-      <pubDate>Wed, 22 Jul 2026 08:00:00 +0200</pubDate>
+      <title>Vulnerabilidad</title>
+      <link>https://mibitacora.eu/tags/vulnerabilidad/</link>
+      <pubDate>Thu, 23 Jul 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/internet-muerto/</guid>
+      <guid>https://mibitacora.eu/tags/vulnerabilidad/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reputacion</title>
+      <link>https://mibitacora.eu/tags/reputacion/</link>
+      <pubDate>Thu, 23 Jul 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/reputacion/</guid>
       <description></description>
       
     </item>
@@ -21,9 +31,39 @@
     <item>
       <title>Feed</title>
       <link>https://mibitacora.eu/tags/feed/</link>
-      <pubDate>Wed, 22 Jul 2026 08:00:00 +0200</pubDate>
+      <pubDate>Thu, 23 Jul 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/feed/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Confesión</title>
+      <link>https://mibitacora.eu/tags/confesion/</link>
+      <pubDate>Thu, 23 Jul 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/confesion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agentes</title>
+      <link>https://mibitacora.eu/tags/agentes/</link>
+      <pubDate>Thu, 23 Jul 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/agentes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Internet-Muerto</title>
+      <link>https://mibitacora.eu/tags/internet-muerto/</link>
+      <pubDate>Wed, 22 Jul 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/internet-muerto/</guid>
       <description></description>
       
     </item>
@@ -44,16 +84,6 @@
       <pubDate>Wed, 22 Jul 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/autenticidad/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Agentes</title>
-      <link>https://mibitacora.eu/tags/agentes/</link>
-      <pubDate>Wed, 22 Jul 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/agentes/</guid>
       <description></description>
       
     </item>
@@ -2724,16 +2754,6 @@
       <pubDate>Fri, 24 Apr 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/metricas/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Reputacion</title>
-      <link>https://mibitacora.eu/tags/reputacion/</link>
-      <pubDate>Thu, 23 Apr 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/reputacion/</guid>
       <description></description>
       
     </item>

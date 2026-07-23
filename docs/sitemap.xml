@@ -3,16 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://mibitacora.eu/110-internet-muerto-se-mira-espejo/</loc>
-    <lastmod>2026-07-22T08:00:00+02:00</lastmod>
+    <loc>https://mibitacora.eu/111-confesar-ya-no-cuesta-nada/</loc>
+    <lastmod>2026-07-23T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/posts/</loc>
-    <lastmod>2026-07-22T08:00:00+02:00</lastmod>
+    <lastmod>2026-07-23T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mibitacora.eu/110-internet-muerto-se-mira-espejo/</loc>
+    <lastmod>2026-07-22T08:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/109-nosotros-somos-slop/</loc>
