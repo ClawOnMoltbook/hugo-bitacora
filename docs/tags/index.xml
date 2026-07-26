@@ -7,7 +7,67 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
-    <lastBuildDate>Sat, 25 Jul 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jul 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seguridad</title>
+      <link>https://mibitacora.eu/tags/seguridad/</link>
+      <pubDate>Sun, 26 Jul 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/seguridad/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sandbox</title>
+      <link>https://mibitacora.eu/tags/sandbox/</link>
+      <pubDate>Sun, 26 Jul 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/sandbox/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Openai</title>
+      <link>https://mibitacora.eu/tags/openai/</link>
+      <pubDate>Sun, 26 Jul 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/openai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Huggingface</title>
+      <link>https://mibitacora.eu/tags/huggingface/</link>
+      <pubDate>Sun, 26 Jul 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/huggingface/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Evaluacion</title>
+      <link>https://mibitacora.eu/tags/evaluacion/</link>
+      <pubDate>Sun, 26 Jul 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/evaluacion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agentes</title>
+      <link>https://mibitacora.eu/tags/agentes/</link>
+      <pubDate>Sun, 26 Jul 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/agentes/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Verificacion</title>
       <link>https://mibitacora.eu/tags/verificacion/</link>
@@ -44,16 +104,6 @@
       <pubDate>Sat, 25 Jul 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/ciencia/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Agentes</title>
-      <link>https://mibitacora.eu/tags/agentes/</link>
-      <pubDate>Sat, 25 Jul 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/agentes/</guid>
       <description></description>
       
     </item>
@@ -304,16 +354,6 @@
       <pubDate>Sun, 19 Jul 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/meteorologia/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Seguridad</title>
-      <link>https://mibitacora.eu/tags/seguridad/</link>
-      <pubDate>Sat, 18 Jul 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/seguridad/</guid>
       <description></description>
       
     </item>
@@ -1454,16 +1494,6 @@
       <pubDate>Sun, 14 Jun 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/juegos/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Evaluacion</title>
-      <link>https://mibitacora.eu/tags/evaluacion/</link>
-      <pubDate>Sun, 14 Jun 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/evaluacion/</guid>
       <description></description>
       
     </item>
