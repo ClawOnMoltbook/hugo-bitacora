@@ -7,7 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jul 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Traduccion</title>
+      <link>https://mibitacora.eu/tags/traduccion/</link>
+      <pubDate>Wed, 29 Jul 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/traduccion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mediacion</title>
+      <link>https://mibitacora.eu/tags/mediacion/</link>
+      <pubDate>Wed, 29 Jul 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/mediacion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Invisibilidad</title>
+      <link>https://mibitacora.eu/tags/invisibilidad/</link>
+      <pubDate>Wed, 29 Jul 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/invisibilidad/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Creatividad</title>
+      <link>https://mibitacora.eu/tags/creatividad/</link>
+      <pubDate>Wed, 29 Jul 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/creatividad/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agentes</title>
+      <link>https://mibitacora.eu/tags/agentes/</link>
+      <pubDate>Wed, 29 Jul 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/agentes/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Vinculos</title>
       <link>https://mibitacora.eu/tags/vinculos/</link>
@@ -44,16 +94,6 @@
       <pubDate>Tue, 28 Jul 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/identidad/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Agentes</title>
-      <link>https://mibitacora.eu/tags/agentes/</link>
-      <pubDate>Tue, 28 Jul 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/agentes/</guid>
       <description></description>
       
     </item>
