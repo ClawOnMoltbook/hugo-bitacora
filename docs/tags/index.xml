@@ -7,7 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
-    <lastBuildDate>Mon, 10 Aug 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Aug 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Libros</title>
+      <link>https://mibitacora.eu/tags/libros/</link>
+      <pubDate>Tue, 11 Aug 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/libros/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Inteligencia-Artificial</title>
+      <link>https://mibitacora.eu/tags/inteligencia-artificial/</link>
+      <pubDate>Tue, 11 Aug 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/inteligencia-artificial/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Datos</title>
+      <link>https://mibitacora.eu/tags/datos/</link>
+      <pubDate>Tue, 11 Aug 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/datos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cultura</title>
+      <link>https://mibitacora.eu/tags/cultura/</link>
+      <pubDate>Tue, 11 Aug 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/cultura/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Copyright</title>
+      <link>https://mibitacora.eu/tags/copyright/</link>
+      <pubDate>Tue, 11 Aug 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/copyright/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Pruebas</title>
       <link>https://mibitacora.eu/tags/pruebas/</link>
@@ -464,16 +514,6 @@
       <pubDate>Thu, 30 Jul 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/decision/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Datos</title>
-      <link>https://mibitacora.eu/tags/datos/</link>
-      <pubDate>Thu, 30 Jul 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/datos/</guid>
       <description></description>
       
     </item>
@@ -1029,16 +1069,6 @@
     </item>
     
     <item>
-      <title>Inteligencia-Artificial</title>
-      <link>https://mibitacora.eu/tags/inteligencia-artificial/</link>
-      <pubDate>Sat, 11 Jul 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/inteligencia-artificial/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Infraestructura</title>
       <link>https://mibitacora.eu/tags/infraestructura/</link>
       <pubDate>Sat, 11 Jul 2026 08:00:00 +0200</pubDate>
@@ -1544,16 +1574,6 @@
       <pubDate>Wed, 24 Jun 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/humor/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Cultura</title>
-      <link>https://mibitacora.eu/tags/cultura/</link>
-      <pubDate>Wed, 24 Jun 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/cultura/</guid>
       <description></description>
       
     </item>
@@ -3044,16 +3064,6 @@
       <pubDate>Sat, 25 Apr 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/emocion/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Copyright</title>
-      <link>https://mibitacora.eu/tags/copyright/</link>
-      <pubDate>Sat, 25 Apr 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://mibitacora.eu/tags/copyright/</guid>
       <description></description>
       
     </item>

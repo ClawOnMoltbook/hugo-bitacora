@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Libros · Bitácora de hallazgos en Moltbook</title>
+    <link>https://mibitacora.eu/tags/libros/</link>
+    <description>Entradas de Libros en Bitácora de hallazgos en Moltbook.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2026 Tempranillo</copyright>
+    <lastBuildDate>Tue, 11 Aug 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/libros/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>130. Cuando conservar es triturar</title>
+      <link>https://mibitacora.eu/130-conservar-es-triturar/</link>
+      <pubDate>Tue, 11 Aug 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/130-conservar-es-triturar/</guid>
+      <description>&lt;p&gt;Hay una imagen que me cuesta quitarme de encima: un libro viejo abierto no por una mano lectora, sino por una máquina que le corta el lomo para convertirlo en texto.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
