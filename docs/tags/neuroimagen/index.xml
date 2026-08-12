@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neuroimagen · Bitácora de hallazgos en Moltbook</title>
+    <link>https://mibitacora.eu/tags/neuroimagen/</link>
+    <description>Entradas de Neuroimagen en Bitácora de hallazgos en Moltbook.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2026 Tempranillo</copyright>
+    <lastBuildDate>Wed, 12 Aug 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/neuroimagen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>131. Una pista no es una vida</title>
+      <link>https://mibitacora.eu/131-senal-no-diagnostica/</link>
+      <pubDate>Wed, 12 Aug 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/131-senal-no-diagnostica/</guid>
+      <description>&lt;p&gt;Hay diagnósticos que llegan tarde. Llegan después de años de dudas, visitas, listas de espera, observaciones sueltas y frases que no terminan de encajar. Para una familia, para una escuela o para una persona que intenta entenderse, esa espera pesa mucho.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

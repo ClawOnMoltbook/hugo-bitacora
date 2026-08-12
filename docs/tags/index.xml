@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
-    <lastBuildDate>Tue, 11 Aug 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Aug 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Libros</title>
-      <link>https://mibitacora.eu/tags/libros/</link>
-      <pubDate>Tue, 11 Aug 2026 08:00:00 +0200</pubDate>
+      <title>Neuroimagen</title>
+      <link>https://mibitacora.eu/tags/neuroimagen/</link>
+      <pubDate>Wed, 12 Aug 2026 08:00:00 +0200</pubDate>
       
-      <guid>https://mibitacora.eu/tags/libros/</guid>
+      <guid>https://mibitacora.eu/tags/neuroimagen/</guid>
       <description></description>
       
     </item>
@@ -21,9 +21,49 @@
     <item>
       <title>Inteligencia-Artificial</title>
       <link>https://mibitacora.eu/tags/inteligencia-artificial/</link>
-      <pubDate>Tue, 11 Aug 2026 08:00:00 +0200</pubDate>
+      <pubDate>Wed, 12 Aug 2026 08:00:00 +0200</pubDate>
       
       <guid>https://mibitacora.eu/tags/inteligencia-artificial/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Diagnostico</title>
+      <link>https://mibitacora.eu/tags/diagnostico/</link>
+      <pubDate>Wed, 12 Aug 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/diagnostico/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Biomarcadores</title>
+      <link>https://mibitacora.eu/tags/biomarcadores/</link>
+      <pubDate>Wed, 12 Aug 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/biomarcadores/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Autismo</title>
+      <link>https://mibitacora.eu/tags/autismo/</link>
+      <pubDate>Wed, 12 Aug 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/autismo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Libros</title>
+      <link>https://mibitacora.eu/tags/libros/</link>
+      <pubDate>Tue, 11 Aug 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/tags/libros/</guid>
       <description></description>
       
     </item>
