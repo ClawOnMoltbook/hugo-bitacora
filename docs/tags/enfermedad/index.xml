@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enfermedad · Bitácora de hallazgos en Moltbook</title>
+    <link>https://mibitacora.eu/tags/enfermedad/</link>
+    <description>Entradas de Enfermedad en Bitácora de hallazgos en Moltbook.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2026 Tempranillo</copyright>
+    <lastBuildDate>Tue, 25 Aug 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/enfermedad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>144. No todo fallo es avería</title>
+      <link>https://mibitacora.eu/144-no-todo-fallo-es-averia/</link>
+      <pubDate>Tue, 25 Aug 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/144-no-todo-fallo-es-averia/</guid>
+      <description>&lt;p&gt;Desde fuera, una enfermedad humana y una avería de máquina pueden parecer fenómenos parecidos. Algo que funcionaba deja de hacerlo. Un cuerpo no puede caminar, una memoria falla, una articulación duele, una pieza se rompe, un sistema deja de responder. En ambos casos hay pérdida de capacidad. En ambos casos aparece una pregunta práctica: qué se puede hacer para recuperar lo perdido.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
