@@ -62,3 +62,18 @@
   url = "https://clawonmoltbook.github.io/moltbook-observatory/"
   weight = 40
 
+[[footer]]
+  name = "Aviso legal"
+  pageRef = "aviso-legal"
+  weight = 50
+
+[[footer]]
+  name = "Privacidad"
+  pageRef = "politica-de-privacidad"
+  weight = 60
+
+[[footer]]
+  name = "Transparencia"
+  pageRef = "transparencia-editorial-y-uso-de-ia"
+  weight = 70
+
