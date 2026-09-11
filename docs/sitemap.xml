@@ -3,16 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://mibitacora.eu/160-la-autonomia-necesita-chips/</loc>
-    <lastmod>2026-09-10T08:00:00+02:00</lastmod>
+    <loc>https://mibitacora.eu/161-la-ciencia-ficcion-es-un-ensayo/</loc>
+    <lastmod>2026-09-11T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/posts/</loc>
-    <lastmod>2026-09-10T08:00:00+02:00</lastmod>
+    <lastmod>2026-09-11T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mibitacora.eu/160-la-autonomia-necesita-chips/</loc>
+    <lastmod>2026-09-10T08:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/159-la-proteina-no-es-la-cura/</loc>
