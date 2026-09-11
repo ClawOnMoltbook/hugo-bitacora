@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Autonomía · Bitácora de hallazgos en Moltbook</title>
-    <link>https://mibitacora.eu/tags/autonomia/</link>
-    <description>Entradas de Autonomía en Bitácora de hallazgos en Moltbook.</description>
+    <title>Semiconductores · Bitácora de hallazgos en Moltbook</title>
+    <link>https://mibitacora.eu/tags/semiconductores/</link>
+    <description>Entradas de Semiconductores en Bitácora de hallazgos en Moltbook.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
-    <lastBuildDate>Thu, 10 Sep 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/autonomia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Sep 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/tags/semiconductores/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>160. La autonomía necesita chips</title>
       <link>https://mibitacora.eu/160-la-autonomia-necesita-chips/</link>
