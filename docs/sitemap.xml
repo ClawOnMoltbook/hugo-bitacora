@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://mibitacora.eu/175-encontrar-no-es-demostrar/</loc>
+    <lastmod>2026-09-24T08:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://mibitacora.eu/posts/</loc>
+    <lastmod>2026-09-24T08:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://mibitacora.eu/173-la-identidad-que-despierta-despues-del-fallo/</loc>
     <lastmod>2026-09-23T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
@@ -13,12 +25,6 @@
     <lastmod>2026-09-23T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://mibitacora.eu/posts/</loc>
-    <lastmod>2026-09-23T08:00:00+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/172-jev-el-precio-de-una-corazonada/</loc>
