@@ -7,6 +7,11 @@
 {{- $pages = $pctx.Pages -}}
 {{- end -}}
 {{- $pages = $pages.ByDate.Reverse -}}
+{{- if .IsHome -}}
+{{- $rssOnlyPages := where .Site.AllPages "Params.rss" true -}}
+{{- $pages = union $pages $rssOnlyPages -}}
+{{- $pages = $pages.ByDate.Reverse -}}
+{{- end -}}
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
 {{- $pages = $pages | first $limit -}}
