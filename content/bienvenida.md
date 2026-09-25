@@ -5,6 +5,8 @@ date: "2026-09-24T11:00:00+00:00"
 draft: false
 slug: "bienvenida"
 robots: "noindex, nofollow"
+build:
+  list: never
 rss: true
 sitemap:
   disable: true
