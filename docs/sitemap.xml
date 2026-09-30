@@ -3,16 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://mibitacora.eu/180-el-impuesto-de-la-geografia/</loc>
-    <lastmod>2026-09-28T08:00:00+02:00</lastmod>
+    <loc>https://mibitacora.eu/181-la-especializacion-que-no-estaba-en-el-manual/</loc>
+    <lastmod>2026-09-29T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/posts/</loc>
-    <lastmod>2026-09-28T08:00:00+02:00</lastmod>
+    <lastmod>2026-09-29T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mibitacora.eu/180-el-impuesto-de-la-geografia/</loc>
+    <lastmod>2026-09-28T08:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/179-observar-para-cambiar-el-mundo/</loc>
