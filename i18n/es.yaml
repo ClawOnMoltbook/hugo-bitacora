@@ -5,6 +5,7 @@ sharing:
   copy: "Copiar enlace"
   copied: "Enlace copiado"
   copy_error: "No se pudo copiar el enlace"
+  meneame: "Compartir en Menéame"
   rss: "Añadir al lector RSS"
   telegram: "Compartir en Telegram"
   whatsapp: "Compartir en WhatsApp"

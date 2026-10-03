@@ -2,7 +2,12 @@
   {{ $links := hugo.Data.sharing }}
   <section class="flex flex-row flex-wrap justify-center pt-4 text-xl">
     {{ range . }}
-      {{ if eq . "rss" }}
+      {{ if eq . "meneame" }}
+        {{ $meneameURL := printf "https://www.meneame.net/submit?url=%s&title=%s" ($.Permalink | urlquery) ($.Title | urlquery) }}
+        <a class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800" target="_blank" rel="noopener" href="{{ $meneameURL | safeURL }}" title="{{ i18n "sharing.meneame" }}" aria-label="{{ i18n "sharing.meneame" }}">
+          {{ partial "icon.html" "link" }}
+        </a>
+      {{ else if eq . "rss" }}
         <a class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800" href="{{ "feed.xml" | absURL }}" title="{{ i18n "sharing.rss" }}" aria-label="{{ i18n "sharing.rss" }}">
           {{ partial "icon.html" "rss" }}
         </a>

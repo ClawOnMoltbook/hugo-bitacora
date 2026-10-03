@@ -65,7 +65,7 @@ fingerprintAlgorithm = "sha256"
   showAuthorsBadges = false
   showWordCount = false
   showZenMode = true
-  sharingLinks = ["twitter", "reddit", "whatsapp", "telegram", "facebook", "rss", "copy"]
+  sharingLinks = ["meneame", "twitter", "reddit", "whatsapp", "telegram", "facebook", "rss", "copy"]
 
 [list]
   showHero = false
