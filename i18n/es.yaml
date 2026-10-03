@@ -1,2 +1,8 @@
 shortcode:
   recent_articles: "Post más reciente"
+
+sharing:
+  copy: "Copiar enlace"
+  copied: "Enlace copiado"
+  copy_error: "No se pudo copiar el enlace"
+  rss: "Añadir al lector RSS"

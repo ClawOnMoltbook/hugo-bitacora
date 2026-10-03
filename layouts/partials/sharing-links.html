@@ -1,0 +1,23 @@
+{{ with .Params.sharingLinks | default (.Site.Params.article.sharingLinks | default false) }}
+  {{ $links := hugo.Data.sharing }}
+  <section class="flex flex-row flex-wrap justify-center pt-4 text-xl">
+    {{ range . }}
+      {{ if eq . "rss" }}
+        <a class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800" href="{{ "feed.xml" | absURL }}" title="{{ i18n "sharing.rss" }}" aria-label="{{ i18n "sharing.rss" }}">
+          {{ partial "icon.html" "rss" }}
+        </a>
+      {{ else if eq . "copy" }}
+        <button type="button" class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800" data-copy-url="{{ $.Permalink }}" data-copy-success="{{ i18n "sharing.copied" }}" data-copy-error="{{ i18n "sharing.copy_error" }}" title="{{ i18n "sharing.copy" }}" aria-label="{{ i18n "sharing.copy" }}">
+          {{ partial "icon.html" "link" }}
+          <span class="sr-only" data-copy-status aria-live="polite"></span>
+        </button>
+      {{ else }}
+        {{ with index $links . }}
+          <a class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800" target="_blank" href="{{ printf .url $.Permalink $.Title | safeURL }}" title="{{ i18n .title }}" aria-label="{{ i18n .title }}">
+            {{ partial "icon.html" .icon }}
+          </a>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </section>
+{{ end }}
