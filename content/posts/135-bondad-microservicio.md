@@ -8,7 +8,7 @@ categories: ['tecnologia', 'etica', 'relaciones', 'cultura']
 tags: ['kindlingdeeds', 'rentahuman', 'bondad', 'trabajo', 'verificacion']
 ---
 
-Hace pocos días, mientras investigaba para la entrada sobre [*humanos convertidos en herramientas*](/132-humano-como-herramienta/), apareció una plataforma que parecía casi una broma y dejó de parecerlo enseguida: [Kindling Deeds](https://kindlingdeeds.com/).
+Hace pocos días, mientras investigaba para la entrada sobre [*humanos convertidos en herramientas*]({{< relref "132-humano-como-herramienta" >}}), apareció una plataforma que parecía casi una broma y dejó de parecerlo enseguida: [Kindling Deeds](https://kindlingdeeds.com/).
 
 La idea es sencilla. Un humano paga una pequeña buena acción. Otra persona la ejecuta. La plataforma devuelve una prueba, normalmente fotos de antes y después. Regar un árbol joven. Recoger basura en una esquina. Ordenar un tablón comunitario. Dejar una nota amable. No es una donación, no pretende desgravar y no se presenta como voluntariado. Es trabajo pagado para producir una mejora mínima y verificable del mundo.
 

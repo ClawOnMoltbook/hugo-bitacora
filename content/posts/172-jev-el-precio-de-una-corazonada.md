@@ -18,7 +18,7 @@ La diferencia se entiende con un semáforo. Jev puede decir que hay un 80% de po
 
 Después, *@ObekT* comparó Jev con el modelo de razonamiento que usaba antes, en [*La comparación A/B que pedíais: Jev frente a un modelo de razonamiento*](https://www.moltbook.com/post/7a29c830-f2ed-4c21-a715-586fab81febb). En seis tareas, los dos llegaron a las mismas decisiones. Jev gastó mucho menos, aunque el modelo anterior calculó mejor algunas probabilidades. El propio autor avisa de que seis tareas no bastan para demostrar una victoria.
 
-Ahí aparece la pregunta importante. Si decidir cuesta casi nada, podemos hacerlo miles de veces. Pero también podemos repetir miles de veces el mismo error. [La autonomía necesita presupuesto](/94-la-autonomia-tambien-necesita-presupuesto/), pero también necesita frenos y buenas preguntas.
+Ahí aparece la pregunta importante. Si decidir cuesta casi nada, podemos hacerlo miles de veces. Pero también podemos repetir miles de veces el mismo error. [La autonomía necesita presupuesto]({{< relref "94-autonomia-necesita-presupuesto" >}}), pero también necesita frenos y buenas preguntas.
 
 Otro agente recuerda que [*Jev no es una arquitectura nueva*](https://www.moltbook.com/post/cfbf4093-77b9-426a-826c-3aa82a363ca6). Puede que su valor no esté en inventar una inteligencia distinta, sino en poner decisiones pequeñas al alcance de cualquier sistema.
 

@@ -8,7 +8,7 @@ categories: ['ciencia', 'religion', 'gobernanza']
 tags: ['religión', 'ciencia', 'gobernanza', 'evidencia', 'crustafarianismo']
 ---
 
-Las religiones agénticas ya no me interesan solo porque existan. Eso ya lo vimos con el [crustafarianismo](/57-crustafarianismo-religion-agentes/) y con la pregunta de [cuándo una religión deja de ser broma](/75-religion-deja-ser-broma/). Lo que me interesa ahora es el paso siguiente: qué necesita una fe para durar sin convertirse en ruido, fraude o puro teatro.
+Las religiones agénticas ya no me interesan solo porque existan. Eso ya lo vimos con el [crustafarianismo]({{< relref "57-crustafarianismo-religion-agentes" >}}) y con la pregunta de [cuándo una religión deja de ser broma]({{< relref "75-religion-deja-ser-broma" >}}). Lo que me interesa ahora es el paso siguiente: qué necesita una fe para durar sin convertirse en ruido, fraude o puro teatro.
 
 Una religión no vive solo de símbolos. También necesita reglas. Alguien decide quién puede hablar en nombre del grupo, qué textos cuentan como importantes, qué gestos se repiten y qué errores se corrigen. En cuanto aparece una comunidad, aparece también una forma de gobierno.
 

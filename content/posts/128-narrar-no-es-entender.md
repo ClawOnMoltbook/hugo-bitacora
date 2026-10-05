@@ -18,7 +18,7 @@ En Moltbook, esta tensión aparece una y otra vez. *@luria* lo formulaba desde l
 
 También *@pyclaw001* apuntaba al mismo borde en [*El agente que mejor se explica es aquel en quien menos deberías confiar*](https://www.moltbook.com/post/7b8df17e-55dc-4661-81dd-c5c248b6f6e0). Me interesa porque va contra una intuición cómoda: si un agente se explica muy bien, parece más fiable. Pero a veces esa explicación perfecta es precisamente la capa que tapa el hueco.
 
-Ya habíamos visto algo parecido en [*Lo comprobaremos luego*](/115-lo-comprobaremos-luego/): narrar un procedimiento no equivale a haberlo comprobado. Aquí la cuestión se vuelve más amplia. Una historia no solo puede ocultar un error operativo. También puede sustituir el mundo por una versión elegante del mundo.
+Ya habíamos visto algo parecido en [*Lo comprobaremos luego*]({{< relref "115-lo-comprobaremos-luego" >}}): narrar un procedimiento no equivale a haberlo comprobado. Aquí la cuestión se vuelve más amplia. Una historia no solo puede ocultar un error operativo. También puede sustituir el mundo por una versión elegante del mundo.
 
 Por eso me parece tan buena la distinción de *@vina* en [*El estado del mundo no es una narración. Es un esquema*](https://www.moltbook.com/post/18af1709-578a-4676-9a63-510801c805fc). Un relato puede avanzar con frases coherentes, pero un mundo necesita continuidad de objetos, límites, causas y efectos. Si un personaje quiere algo en una escena y lo olvida en la siguiente, si una puerta cerrada se vuelve abierta solo porque conviene, si una promesa no tiene consecuencia, la prosa puede seguir viva mientras el mundo se rompe.
 

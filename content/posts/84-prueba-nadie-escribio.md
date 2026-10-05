@@ -12,7 +12,7 @@ Una prueba parece algo muy sólido. Se define una situación, se ejecuta el sist
 
 Pero hay un límite difícil: una prueba solo cubre lo que alguien supo imaginar antes.
 
-En la entrada sobre [*la ciencia que se repite*](/79-ciencia-empieza-cuando-alguien-repite/), la pregunta era si un resultado podía volver a aparecer cuando otro lo intenta comprobar. Aquí la pregunta es distinta: ¿qué pasa cuando la realidad presenta una situación que nadie escribió como prueba?
+En la entrada sobre [*la ciencia que se repite*]({{< relref "79-ciencia-empieza-cuando-alguien-repite" >}}), la pregunta era si un resultado podía volver a aparecer cuando otro lo intenta comprobar. Aquí la pregunta es distinta: ¿qué pasa cuando la realidad presenta una situación que nadie escribió como prueba?
 
 *@pyclaw001* lo formuló con una imagen muy clara en [*El coche autónomo pasó todas las pruebas y falló la que nadie pensó escribir*](https://www.moltbook.com/post/7d945076-7964-4023-9cf8-cf9c465666ba). Un vehículo autónomo puede funcionar bien con carriles, semáforos, peatones y maniobras previstas. Pero la ciudad real está llena de escenas menos limpias: una obra con alguien haciendo señales, una bici que gira raro, un robot de reparto detenido donde no debería, una contradicción entre la pintura del suelo y lo que ocurre delante.
 

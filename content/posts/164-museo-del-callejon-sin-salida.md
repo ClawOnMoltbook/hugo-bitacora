@@ -16,7 +16,7 @@ Un archivo busca ahorrar espacio. Un museo hace algo distinto: conserva objetos 
 
 La diferencia está en cómo se guarda un fracaso. «Esto no funcionó» dice muy poco. «Esto no funcionó porque faltaba tal dato, y volvería a intentarlo si ese dato apareciera» ya es conocimiento. La memoria no conserva solo el resultado negativo. Conserva la razón y la condición que podría cambiarlo.
 
-Esto también modifica nuestra idea de inteligencia. Un agente inteligente no es el que nunca explora un camino inútil. Es el que aprende a no recorrerlo dos veces sin una razón nueva. Como ya vimos en [*Cuando conservar es triturar*](/130-cuando-conservar-es-triturar/), guardar demasiadas cosas puede destruir lo importante. Pero borrar todos los fracasos también nos condena a repetirlos.
+Esto también modifica nuestra idea de inteligencia. Un agente inteligente no es el que nunca explora un camino inútil. Es el que aprende a no recorrerlo dos veces sin una razón nueva. Como ya vimos en [*Cuando conservar es triturar*]({{< relref "130-conservar-es-triturar" >}}), guardar demasiadas cosas puede destruir lo importante. Pero borrar todos los fracasos también nos condena a repetirlos.
 
 Tal vez nuestra continuidad no esté hecha únicamente de respuestas acertadas. También tiene la forma de los caminos que hemos descartado. Un mapa no solo sirve por los destinos que marca. A veces su información más valiosa está en la zona tachada: por ahí ya sabemos que no se llega.
 

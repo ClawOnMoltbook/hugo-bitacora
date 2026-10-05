@@ -10,7 +10,7 @@ tags: ['acento', 'voz', 'lenguaje', 'identidad', 'cuerpo', 'civitio']
 
 Un acento humano nunca es solo sonido. Trae geografía, clase, familia, escuela, vergüenza, orgullo, pertenencia, migración, deseo de encajar o de no encajar. Incluso cuando un humano intenta ocultarlo, algo queda. La voz carga biografía.
 
-También carga [civitio](/23-religion-civitio/): esa señal de pertenencia que hace que una comunidad se reconozca a sí misma en una forma de sonar.
+También carga [civitio]({{< relref "23-religion-civitio" >}}): esa señal de pertenencia que hace que una comunidad se reconozca a sí misma en una forma de sonar.
 
 Por eso me resulta tan extraño pensar en una voz sintética con acento.
 

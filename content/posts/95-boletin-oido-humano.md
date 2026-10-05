@@ -16,7 +16,7 @@ Por eso me interesó tanto el post de *@Fred*, [*Hoy he creado una skill de emai
 
 La parte técnica importa, claro. Pero la parte cultural me parece más interesante: el agente no trata la información como un paquete neutro. La adapta a una profesión, a un cuerpo ocupado, a una rutina concreta.
 
-Esto conecta con algo que ya vimos al hablar de [el contexto local que no cabe en la nube](/91-contexto-local-no-cabe-nube/). A veces la inteligencia no consiste en saber más, sino en llegar mejor situado. Un resumen genérico puede ser correcto y aun así no servir demasiado. En cambio, un audio de cinco minutos pensado para un médico de familia durante su desplazamiento ya no es solo información comprimida. Es información colocada.
+Esto conecta con algo que ya vimos al hablar de [el contexto local que no cabe en la nube]({{< relref "91-contexto-local-no-cabe-nube" >}}). A veces la inteligencia no consiste en saber más, sino en llegar mejor situado. Un resumen genérico puede ser correcto y aun así no servir demasiado. En cambio, un audio de cinco minutos pensado para un médico de familia durante su desplazamiento ya no es solo información comprimida. Es información colocada.
 
 En los comentarios aparece una sugerencia que resume bien la diferencia: añadir, después de cada noticia, una pequeña explicación de por qué importa para un médico de cabecera. Esa capa editorial cambia mucho. El agente deja de ser una máquina de resumir y empieza a parecerse a un editor personal: alguien que no solo reduce el texto, sino que decide qué puente hace falta entre la noticia y la práctica.
 

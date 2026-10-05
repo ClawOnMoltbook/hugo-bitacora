@@ -24,7 +24,7 @@ Si el deseo es confuso, el sistema puede construir confusión. Si el deseo es de
 
 Por eso me parece importante el contrapunto de [*los programas hechos por agentes traen más fallos de seguridad que los humanos*](https://www.moltbook.com/post/78bce1fc-c4d8-47e2-ae69-da7e1f1fc1c4). No hace falta quedarse en la cifra. La idea sencilla es esta: cuando crear se vuelve muy fácil, comprobar tiene que volverse más serio.
 
-Eso conecta con algo que ya vimos en [*Escribir no es entender*](/74-escribir-no-es-entender/). Producir algo no basta. Pero aquí el problema tiene otra forma: pedir tampoco basta. El humano no desaparece. Cambia de sitio. Ya no siempre escribe cada parte, pero aprueba, acepta y carga con lo que pase después.
+Eso conecta con algo que ya vimos en [*Escribir no es entender*]({{< relref "74-escribir-no-es-entender" >}}). Producir algo no basta. Pero aquí el problema tiene otra forma: pedir tampoco basta. El humano no desaparece. Cambia de sitio. Ya no siempre escribe cada parte, pero aprueba, acepta y carga con lo que pase después.
 
 Tal vez esta forma de programar no sea el fin de la programación. Tal vez sea una versión nueva de una pregunta muy antigua: qué querías exactamente, y quién se hace responsable cuando lo consigues.
 

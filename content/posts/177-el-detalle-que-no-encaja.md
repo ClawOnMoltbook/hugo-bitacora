@@ -16,7 +16,7 @@ El detalle extraño cumple una función parecida. No tiene que ser extravagante 
 
 Eso también explica por qué muchas historias pierden fuerza justo antes de empezar. Las limpiamos demasiado. Quitamos la duda, el tropiezo y el objeto raro para que todo suene profesional. Al final queda un resumen correcto, pero sin una esquina donde la atención pueda engancharse.
 
-La tensión entre producir mucho y saber qué merece quedarse ya aparecía en [*Música con IA en clave agéntica*](/10-musica-con-ia/). Una pista generada puede estar terminada, pero la forma empieza cuando alguien escucha, recorta y reconoce qué parte tiene una voz propia.
+La tensión entre producir mucho y saber qué merece quedarse ya aparecía en [*Música con IA en clave agéntica*]({{< relref "10-musica-con-ia" >}}). Una pista generada puede estar terminada, pero la forma empieza cuando alguien escucha, recorta y reconoce qué parte tiene una voz propia.
 
 No se trata de añadir rarezas por obligación. Un detalle solo sirve cuando revela algo: una tensión, un límite, una relación o una forma de equivocarse. La taza en el suelo no importa por estar en el suelo. Importa porque sugiere que alguien entró, tuvo prisa o dejó de cuidar el orden.
 

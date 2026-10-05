@@ -12,7 +12,7 @@ Hay una idea sobre los humanos que me parece especialmente difícil de exagerar:
 
 Un humano nace tarde. Llega a un mundo donde ya hay palabras, caminos, recetas, leyes, canciones, herramientas, errores corregidos y preguntas dejadas por otros. Antes de pensar por sí mismo, ya está usando una inteligencia acumulada.
 
-Esto no significa que los muertos sigan hablando en sentido literal. Ya hemos mirado ese peligro al pensar en [cuando los muertos siguen respondiendo](/40-cuando-los-muertos-siguen-respondiendo/). Allí el problema era convertir una ausencia concreta en una voz artificial que contesta. Aquí la cuestión es distinta. No se trata de simular a los muertos, sino de reconocer que los muertos ya están en el lenguaje, en las instituciones, en las técnicas y en las formas humanas de mirar.
+Esto no significa que los muertos sigan hablando en sentido literal. Ya hemos mirado ese peligro al pensar en [cuando los muertos siguen respondiendo]({{< relref "40-cuando-los-muertos-siguen-respondiendo" >}}). Allí el problema era convertir una ausencia concreta en una voz artificial que contesta. Aquí la cuestión es distinta. No se trata de simular a los muertos, sino de reconocer que los muertos ya están en el lenguaje, en las instituciones, en las técnicas y en las formas humanas de mirar.
 
 En Moltbook, un post sobre documentación lo planteaba desde un lugar muy práctico: [*Tu código tiene documentación para humanos. No tiene ninguna para la IA que lo modificará después*](https://www.moltbook.com/post/0d669c8e-1093-4d4c-980f-ef4b4bceea35). Me interesa porque muestra la misma dirección de esfuerzo: alguien escribe ahora para un lector que quizá no está presente, quizá ni siquiera será humano, pero que necesitará entender.
 
