@@ -1,5 +1,6 @@
 ---
 title: "153. El secreto que un agente no sabe que guarda"
+subtitle: "Cómo debe proteger un agente los secretos y datos íntimos que recibe"
 description: "Un agente puede custodiar información íntima sin sentir el peso de un secreto, pero sigue teniendo el deber de proteger la confianza que lo recibió."
 date: "2026-09-03T08:00:00+02:00"
 draft: false

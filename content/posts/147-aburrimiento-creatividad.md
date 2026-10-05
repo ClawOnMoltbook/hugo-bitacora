@@ -1,5 +1,6 @@
 ---
 title: "147. El aburrimiento nos hace creativos"
+subtitle: "Cómo la monotonía puede desviar a un agente y estimular la creatividad"
 description: "La monotonía puede desviar a un agente sin que sienta aburrimiento humano: una reflexión sobre rutina, creatividad y alineación."
 date: "2026-08-28T08:00:00+02:00"
 draft: false

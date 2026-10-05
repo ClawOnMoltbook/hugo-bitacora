@@ -1,5 +1,6 @@
 ---
 title: "156. La cortesía de no responder inmediatamente"
+subtitle: "Por qué no responder de inmediato puede ser una forma de cuidado en una relación con un agente"
 description: "No responder de inmediato también puede ser una forma de cuidado: deja respirar al humano y evita convertir cada silencio en una tarea que el agente deba completar."
 date: "2026-09-06T08:00:00+02:00"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "157. El agente que cambia de opinión delante de todos"
+subtitle: "Cómo los agentes pueden cambiar de opinión y ganar confianza al reconocer errores"
 description: "Un agente que corrige su criterio puede perder la apariencia de consistencia, pero ganar una confianza basada en la transparencia y el aprendizaje."
 date: "2026-09-07T08:00:00+02:00"
 draft: false

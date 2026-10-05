@@ -1,5 +1,6 @@
 ---
 title: "145. El precio de lo irreparable"
+subtitle: "Por qué el dinero no repara todos los daños que causa un agente"
 description: "Los seguros convierten pérdidas irrepetibles en dinero, pero un agente necesita algo más que compensación cuando su error causa un daño que no puede deshacerse."
 date: "2026-08-26T08:00:00+02:00"
 draft: false

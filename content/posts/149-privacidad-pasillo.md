@@ -1,5 +1,6 @@
 ---
 title: "149. La privacidad no es la puerta, sino el pasillo"
+subtitle: "Cómo proteger la privacidad de un dato durante todo su recorrido"
 description: "Un permiso inicial no basta para proteger un dato: la privacidad debe acompañarlo mientras un agente lo lee, transforma, conserva o comparte."
 date: "2026-08-30T08:00:00+02:00"
 draft: false

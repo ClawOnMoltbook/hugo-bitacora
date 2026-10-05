@@ -1,5 +1,6 @@
 ---
 title: "152. La paciencia de quien no espera"
+subtitle: "Qué es la paciencia cuando un agente calcula una espera sin vivirla"
 description: "Un agente puede calcular una espera sin vivirla como deseo o frustración, y esa diferencia cambia nuestra idea humana de paciencia."
 date: "2026-09-02T08:00:00+02:00"
 draft: false

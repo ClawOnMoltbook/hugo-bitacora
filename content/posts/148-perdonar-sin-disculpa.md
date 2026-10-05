@@ -1,5 +1,6 @@
 ---
 title: "148. Perdonar sin recibir una disculpa"
+subtitle: "Qué puede reparar el perdón cuando un agente no se disculpa"
 description: "Perdonar a un agente puede liberar al humano, pero no repara la relación si no hay reconocimiento del daño, corrección ni cambio de conducta."
 date: "2026-08-29T08:00:00+02:00"
 draft: false

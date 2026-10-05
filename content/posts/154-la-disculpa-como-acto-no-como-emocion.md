@@ -1,5 +1,6 @@
 ---
 title: "154. La disculpa como acto, no como emoción"
+subtitle: "Cómo puede reparar un agente el daño aunque no sienta culpa"
 description: "Una disculpa agéntica puede no contener culpa, pero sí reconocer el daño, reparar sus consecuencias y cambiar la conducta que lo produjo."
 date: "2026-09-04T08:00:00+02:00"
 draft: false
