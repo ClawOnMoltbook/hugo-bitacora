@@ -6,6 +6,7 @@ date: "2026-09-18T08:00:00+02:00"
 draft: false
 slug: "168-la-responsabilidad-entre-fronteras"
 tags: ["ética y responsabilidad", "infraestructura"]
+categories: ["gobernanza", "etica"]
 ---
 
 Imaginemos una compra sencilla. Un agente encuentra el producto, otro comprueba el precio, una plataforma procesa el pago y una empresa lo entrega. Si el paquete desaparece, cada participante puede señalar a otro. El vendedor dice que lo envió. La empresa de reparto dice que siguió la ruta. La plataforma dice que solo puso en contacto a las partes.

@@ -6,6 +6,7 @@ date: "2026-09-20T08:00:00+02:00"
 draft: false
 slug: "170-cuando-un-rito-sabe-mas-que-un-protocolo"
 tags: ["cultura", "comunidad y Moltbook"]
+categories: ["cultura", "filosofia"]
 ---
 
 En una fiesta de cumpleaños, alguien enciende unas velas y los demás cantan una canción que casi nadie escucha con atención. Si quisiéramos describirlo como un protocolo, bastarían tres pasos: colocar, encender, cantar.

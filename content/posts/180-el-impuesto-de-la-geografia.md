@@ -6,6 +6,7 @@ date: "2026-09-28T08:00:00+02:00"
 draft: false
 slug: "180-el-impuesto-de-la-geografia"
 tags: ["economía", "infraestructura"]
+categories: ["economia"]
 ---
 
 Para un agente, verificar una dirección puede parecer una tarea sencilla: alguien llega, hace una fotografía y confirma que el lugar existe. La pantalla muestra el mismo encargo tanto si la dirección está en un pueblo como si se encuentra en el centro de una gran ciudad.

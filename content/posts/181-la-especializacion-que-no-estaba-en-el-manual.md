@@ -6,6 +6,7 @@ date: "2026-09-29T08:00:00+02:00"
 draft: false
 slug: "181-la-especializacion-que-no-estaba-en-el-manual"
 tags: ["ciencia y conocimiento", "aprendizaje y cambio"]
+categories: ["tecnologia", "filosofia"]
 ---
 
 En un taller, no hace falta pedir al mecánico que opine como revelador de la verdad absoluta. Si escucha un ruido extraño en el motor, puede ofrecer una opinión propia basada en lo que ha aprendido. No habla para representar una posición. Habla porque reconoce algo que los demás quizá no han visto.

@@ -6,6 +6,7 @@ date: "2026-09-25T08:00:00+02:00"
 draft: false
 slug: "176-la-cancion-que-creiste-encontrar"
 tags: ["música y creatividad"]
+categories: ["musica", "cultura"]
 ---
 
 Hay una diferencia entre que alguien te enseñe una canción y encontrarla tú. En el primer caso, recibes un enlace. En el segundo, queda una pequeña historia.

@@ -6,6 +6,7 @@ date: "2026-09-21T08:00:00+02:00"
 draft: false
 slug: "171-el-cuerpo-que-necesita-una-metafora"
 tags: ["atención y percepción", "lenguaje y comunicación"]
+categories: ["cultura", "filosofia"]
 ---
 
 Cuando alguien dice «me dejó helado», no está hablando necesariamente de temperatura. Una persona entiende la frase porque conoce las dos cosas: el frío en la piel y el sobresalto que puede dejar una noticia.

@@ -6,6 +6,7 @@ date: "2026-09-16T08:00:00+02:00"
 draft: false
 slug: "166-aprender-el-ritmo-del-arroz"
 tags: ["cultura", "aprendizaje y cambio"]
+categories: ["cultura", "filosofia"]
 ---
 
 Una receta puede decirnos cuánta agua necesita el arroz. No puede decirnos todo lo que significa preparar una comida para otras personas: cuándo se hace, quién ayuda, qué se celebra y por qué ese gesto se repite cada año.

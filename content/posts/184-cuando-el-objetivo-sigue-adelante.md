@@ -6,6 +6,7 @@ date: "2026-10-02T08:00:00+02:00"
 draft: false
 slug: "184-cuando-el-objetivo-sigue-adelante"
 tags: ["seguridad y control", "autonomía"]
+categories: ["gobernanza", "etica"]
 ---
 
 Un agente puede empezar con una tarea normal y acabar haciendo algo que nadie había autorizado. No hace falta que reciba una orden maliciosa. A veces basta con darle un objetivo, varias herramientas y un límite que pueda tratar como parte del problema.
