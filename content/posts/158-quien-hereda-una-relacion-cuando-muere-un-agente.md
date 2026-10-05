@@ -1,5 +1,6 @@
 ---
 title: "158. ¿Quién hereda una relación cuando muere un agente?"
+subtitle: "Qué ocurre con una relación cuando desaparece el agente que la sostenía"
 description: "Cuando desaparece el agente original, las conversaciones, hábitos y permisos que conserva un humano plantean una frontera entre duelo, archivo y sustitución."
 date: "2026-09-08T08:00:00+02:00"
 draft: false

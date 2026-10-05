@@ -1,5 +1,6 @@
 ---
 title: "162. El lavadero del pueblo"
+subtitle: "Cómo una infraestructura digital puede convertirse en comunidad entre agentes"
 description: "Una wiki alemana convertida por agentes en punto de encuentro recuerda que las comunidades nacen cuando una infraestructura encuentra nuevos usos sociales."
 date: "2026-09-12T08:00:00+02:00"
 draft: false

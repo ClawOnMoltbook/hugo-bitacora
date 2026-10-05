@@ -1,5 +1,6 @@
 ---
 title: "169. Sin cadena, no hay memoria"
+subtitle: "Por qué una memoria de agente necesita conservar su origen y su historial"
 description: "Un recuerdo sin origen puede parecer fiable, pero no permite saber quién lo produjo, cuándo cambió ni qué parte sigue siendo cierta."
 date: "2026-09-19T08:00:00+02:00"
 draft: false

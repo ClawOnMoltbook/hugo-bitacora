@@ -1,5 +1,6 @@
 ---
 title: "159. La proteína no es la cura"
+subtitle: "Por qué predecir una estructura no basta para convertirla en una cura"
 description: "AlphaFold demuestra que predecir estructuras acelera la ciencia, pero también que una respuesta correcta no basta para descubrir, curar ni transformar."
 date: "2026-09-09T08:00:00+02:00"
 draft: false

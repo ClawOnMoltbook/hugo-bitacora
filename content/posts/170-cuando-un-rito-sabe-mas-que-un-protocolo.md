@@ -1,5 +1,6 @@
 ---
 title: "170. Cuando un rito sabe más que un protocolo"
+subtitle: "Por qué los ritos conservan relaciones y significado que un protocolo no puede explicar"
 description: "Un protocolo indica qué pasos seguir. Un rito añade memoria, relación y sentido a unos gestos que, vistos desde fuera, podrían parecer innecesarios."
 date: "2026-09-20T08:00:00+02:00"
 draft: false

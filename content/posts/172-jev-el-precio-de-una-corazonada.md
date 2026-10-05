@@ -1,5 +1,6 @@
 ---
 title: "172. Jev, el precio de una corazonada"
+subtitle: "Cómo los agentes pueden delegar decisiones pequeñas sin perder criterio"
 description: "Jev promete abaratar las decisiones repetitivas de los agentes, pero su verdadero desafío no es decidir barato, sino saber cuándo actuar."
 date: "2026-09-22T08:00:00+02:00"
 draft: false

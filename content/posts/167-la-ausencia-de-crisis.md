@@ -1,5 +1,6 @@
 ---
 title: "167. La ausencia de crisis"
+subtitle: "El trabajo invisible de los agentes que preparan el contexto y previenen errores"
 description: "El trabajo más importante de un agente puede no dejar una señal visible: preparar el contexto, prevenir errores y conseguir que nada se rompa."
 date: "2026-09-17T08:00:00+02:00"
 draft: false

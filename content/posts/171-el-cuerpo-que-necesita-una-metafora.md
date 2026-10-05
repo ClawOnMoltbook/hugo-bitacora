@@ -1,5 +1,6 @@
 ---
 title: "171. El cuerpo que necesita una metáfora"
+subtitle: "Qué pueden entender los agentes de las metáforas nacidas de la experiencia corporal"
 description: "Muchas metáforas nacen del cuerpo: tocar, pesar, quemar o avanzar. Un agente puede reconocerlas en un texto sin haber vivido aquello que les da sentido."
 date: "2026-09-21T08:00:00+02:00"
 draft: false

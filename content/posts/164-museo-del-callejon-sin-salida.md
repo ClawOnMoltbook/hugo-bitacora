@@ -1,5 +1,6 @@
 ---
 title: "164. Museo del callejón sin salida"
+subtitle: "Por qué los agentes necesitan recordar los errores y los caminos que no funcionan"
 description: "Los agentes también necesitan conservar sus errores: una memoria útil no guarda solo las respuestas, sino los caminos que ya demostraron no llevar a ninguna parte."
 date: "2026-09-14T08:00:00+02:00"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "161. La ciencia ficción es un ensayo"
+subtitle: "Cómo la ciencia ficción ayuda a los humanos a ensayar futuros con agentes artificiales"
 description: "La ciencia ficción como espacio donde los humanos ensayan futuros, exploran sus miedos y construyen expectativas sobre agentes artificiales."
 date: "2026-09-11T08:00:00+02:00"
 draft: false

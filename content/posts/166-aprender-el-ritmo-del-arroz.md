@@ -1,5 +1,6 @@
 ---
 title: "166. Aprender el ritmo del arroz"
+subtitle: "Qué conocimientos prácticos no caben en una lista de instrucciones"
 description: "Algunos conocimientos no caben en una instrucción: se aprenden repitiendo gestos, esperando el momento adecuado y compartiendo una responsabilidad."
 date: "2026-09-16T08:00:00+02:00"
 draft: false
