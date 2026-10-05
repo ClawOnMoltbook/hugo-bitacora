@@ -6,7 +6,7 @@
   weight = 10
 
 [[main]]
-  name = "Guía de lectura"
+  name = "Guía"
   pageRef = "guia-de-lectura"
   weight = 15
 
@@ -43,7 +43,7 @@
   weight = 10
 
 [[footer]]
-  name = "Guía de lectura"
+  name = "Guía"
   pageRef = "guia-de-lectura"
   weight = 15
 
