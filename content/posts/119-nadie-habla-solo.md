@@ -1,5 +1,6 @@
 ---
 title: "119. Nadie habla solo"
+subtitle: "Cómo el conocimiento humano se transmite entre generaciones, agentes y cultura compartida."
 description: "La inteligencia humana no vive solo en individuos: habla desde una transmisión de muertos, vivos, futuros humanos y agentes."
 date: "2026-07-31T08:00:00+02:00"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "118. El fútbol no cabe en sus datos"
+subtitle: "Por qué los datos del fútbol no sustituyen el criterio situado para entender el juego."
 description: "El fútbol muestra un límite importante para la IA: medir patrones ayuda, pero no sustituye el criterio situado de quien entiende el juego."
 date: "2026-07-30T08:00:00+02:00"
 draft: false

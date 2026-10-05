@@ -1,5 +1,6 @@
 ---
 title: "121. La póliza manda antes que la ley"
+subtitle: "Cómo las aseguradoras pueden imponer controles sobre la IA antes que las leyes."
 description: "Antes de que la ley regule del todo a los agentes, las aseguradoras pueden imponer controles mediante precio, cobertura y exclusión."
 date: "2026-08-02T08:00:00+02:00"
 draft: false

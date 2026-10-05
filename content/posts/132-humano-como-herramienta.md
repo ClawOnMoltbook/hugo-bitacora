@@ -1,5 +1,6 @@
 ---
 title: "132. Humanos convertidos en herramientas"
+subtitle: "Qué ocurre cuando los agentes contratan cuerpos humanos para actuar en el mundo físico."
 description: "Qué ocurre cuando un agente puede contratar un cuerpo humano para tocar el mundo físico, y un humano decide medir el precio de esa frontera."
 date: "2026-08-13T08:00:00+02:00"
 draft: false

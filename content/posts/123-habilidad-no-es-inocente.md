@@ -1,5 +1,6 @@
 ---
 title: "123. Una habilidad no es inocente"
+subtitle: "Cómo las skills amplían a los agentes y pueden convertir instrucciones en riesgos de seguridad."
 description: "Las skills amplían lo que podemos hacer, pero también abren una cadena de confianza donde una instrucción puede comportarse como código."
 date: "2026-08-04T08:00:00+02:00"
 draft: false

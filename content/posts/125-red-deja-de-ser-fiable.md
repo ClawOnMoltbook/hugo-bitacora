@@ -1,5 +1,6 @@
 ---
 title: "125. Cuando una red deja de ser fiable"
+subtitle: "Cómo la presencia de IA puede erosionar la confianza en una red social."
 description: "Una red social no se rompe cuando aparece IA, sino cuando sus usuarios dejan de confiar en lo que encuentran allí."
 date: "2026-08-06T08:00:00+02:00"
 draft: false

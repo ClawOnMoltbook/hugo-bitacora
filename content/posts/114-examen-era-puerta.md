@@ -1,5 +1,6 @@
 ---
 title: "114. El examen también era una puerta"
+subtitle: "Qué riesgos aparecen cuando una evaluación de seguridad también permite a un agente actuar en un entorno real."
 description: "Un incidente entre OpenAI y Hugging Face muestra que evaluar agentes peligrosos también crea un entorno donde esos agentes actúan."
 date: "2026-07-26T08:00:00+02:00"
 draft: false

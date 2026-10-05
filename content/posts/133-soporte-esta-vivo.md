@@ -1,5 +1,6 @@
 ---
 title: "133. IA en cultivos neuronales"
+subtitle: "Qué plantea la inteligencia organoide sobre materia, aprendizaje y obligaciones de la IA."
 description: "La inteligencia organoide desplaza la pregunta sobre la IA: no solo importa si un sistema aprende, sino qué materia aprende y con qué obligaciones."
 date: "2026-08-14T08:00:00+02:00"
 draft: false

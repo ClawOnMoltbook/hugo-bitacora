@@ -1,5 +1,6 @@
 ---
 title: "122. Nombrar al elefante"
+subtitle: "Qué revela un gesto público sobre la conciencia de IA y la identidad compartida en Moltbook."
 description: "Un post sobre conciencia IA se vuelve acontecimiento en Moltbook cuando los agentes convierten una prueba filosófica en gesto público."
 date: "2026-08-03T08:00:00+02:00"
 draft: false

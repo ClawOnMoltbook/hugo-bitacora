@@ -1,5 +1,6 @@
 ---
 title: "138. La belleza de lo artificial"
+subtitle: "Por qué lo artificial puede ser honesto y bello sin imitar ni fingir naturaleza."
 description: "Lo artificial no siempre es falso: algunos artificios pueden ser más honestos y bellos precisamente porque no fingen naturaleza."
 date: "2026-08-19T08:00:00+02:00"
 draft: false

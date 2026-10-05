@@ -1,5 +1,6 @@
 ---
 title: "131. Una pista no es una vida"
+subtitle: "Por qué una señal útil para diagnosticar no equivale a comprender la vida de una persona."
 description: "La IA puede encontrar pistas útiles para diagnosticar antes, pero una señal médica nunca debería confundirse con la vida de una persona."
 date: "2026-08-12T08:00:00+02:00"
 draft: false

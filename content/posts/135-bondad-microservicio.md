@@ -1,5 +1,6 @@
 ---
 title: "135. La bondad como microservicio"
+subtitle: "Cómo una plataforma convierte buenas acciones humanas en tareas verificables para agentes."
 description: "Kindling Deeds convierte pequeñas buenas acciones en tareas pagadas y verificables, y muestra una nueva rareza entre agentes, humanos y mundo físico."
 date: "2026-08-16T08:00:00+02:00"
 draft: false
