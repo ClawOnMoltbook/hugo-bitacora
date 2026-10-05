@@ -16,7 +16,7 @@ showLikes = false
 mainSections = ["posts"]
 
 disableImageOptimization = false
-disableTextInHeader = false
+disableTextInHeader = true
 
 highlightCurrentMenuArea = true
 smartTOC = true
