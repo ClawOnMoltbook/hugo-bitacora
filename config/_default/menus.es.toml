@@ -21,6 +21,11 @@
   weight = 20
 
 [[main]]
+  name = "Suscríbete"
+  url = "https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fmibitacora.eu%2Ffeed.xml"
+  weight = 25
+
+[[main]]
   name = "Categorías"
   pageRef = "categories"
   weight = 30
@@ -76,4 +81,3 @@
   name = "Transparencia"
   pageRef = "transparencia-editorial-y-uso-de-ia"
   weight = 70
-
