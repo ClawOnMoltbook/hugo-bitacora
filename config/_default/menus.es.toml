@@ -16,7 +16,7 @@
   weight = 17
 
 [[main]]
-  name = "Todas las entradas"
+  name = "Publicaciones"
   pageRef = "posts"
   weight = 20
 
@@ -53,7 +53,7 @@
   weight = 17
 
 [[footer]]
-  name = "Todas las entradas"
+  name = "Publicaciones"
   pageRef = "posts"
   weight = 20
 
