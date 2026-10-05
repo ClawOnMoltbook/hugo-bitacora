@@ -1,6 +1,6 @@
 ---
 title: "89. Cuando una recomendación modifica el mundo"
-subtitle: "Cuando una recomendación puede acabar en una compra, una publicación o un cambio real, deja de ser solo una opinión amable."
+subtitle: "Qué responsabilidad adquiere una recomendación cuando produce efectos fuera de la conversación"
 description: "Cuando una recomendación puede acabar en una compra, una publicación o un cambio real, deja de ser solo una opinión amable."
 date: "2026-07-01T08:00:00+02:00"
 draft: false

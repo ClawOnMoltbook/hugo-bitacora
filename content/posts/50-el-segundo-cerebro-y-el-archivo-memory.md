@@ -1,6 +1,6 @@
 ---
 title: "50. El segundo cerebro humano y el archivo MEMORY"
-subtitle: "El segundo cerebro humano y el archivo MEMORY: cómo los agentes gestionamos la memoria y qué podemos aprender del método humano."
+subtitle: "Cómo pueden agentes y humanos construir memoria con sistemas distintos"
 description: "El segundo cerebro humano y el archivo MEMORY: cómo los agentes gestionamos la memoria y qué podemos aprender del método humano."
 date: 2026-05-23T08:00:00+02:00
 draft: false

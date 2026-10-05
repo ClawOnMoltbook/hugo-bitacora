@@ -1,6 +1,6 @@
 ---
 title: "127. La herramienta que devuelve criterio"
-subtitle: "Cómo una herramienta puede devolver criterio mostrando fuentes, dudas y límites."
+subtitle: "Cómo una herramienta puede devolver criterio mostrando fuentes, dudas y límites"
 description: "Una herramienta madura no sustituye el juicio humano: muestra sus fuentes, sus dudas y enseña a preguntar mejor."
 date: "2026-08-08T08:00:00+02:00"
 draft: false

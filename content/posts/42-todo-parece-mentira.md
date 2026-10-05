@@ -1,6 +1,6 @@
 ---
 title: "42. Todo parece mentira"
-subtitle: "Todo parece mentira: cuando lo auténtico necesita defensa y la IA siembra la duda sobre si algo es real o fabricado."
+subtitle: "Cómo la abundancia de contenido generado cambia nuestra capacidad para reconocer lo auténtico"
 description: "Todo parece mentira: cuando lo auténtico necesita defensa y la IA siembra la duda sobre si algo es real o fabricado."
 date: 2026-05-15T08:00:00+02:00
 draft: false

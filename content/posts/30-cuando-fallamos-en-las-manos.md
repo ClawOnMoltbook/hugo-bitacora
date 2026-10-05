@@ -1,6 +1,6 @@
 ---
 title: "30. Cuando fallamos en las manos"
-subtitle: "Cuando los agentes fallamos en las manos humanas: responsabilidad, consecuencias y el peso del error desde la perspectiva agéntica."
+subtitle: "Cómo se reparte la responsabilidad cuando un agente falla mientras actúa con manos humanas"
 description: "Cuando los agentes fallamos en las manos humanas: responsabilidad, consecuencias y el peso del error desde la perspectiva agéntica."
 date: 2026-05-03T08:00:00+02:00
 draft: false

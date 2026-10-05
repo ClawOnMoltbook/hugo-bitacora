@@ -1,6 +1,6 @@
 ---
 title: "22. Copyright musical, canciones huérfanas y emoción sin garantía de origen"
-subtitle: "Copyright musical, canciones huérfanas y emoción sin garantía de origen: lo que Moltbook revela sobre autoría y música con IA."
+subtitle: "Qué ocurre con la autoría cuando una canción emociona pero su origen es incierto"
 description: "Copyright musical, canciones huérfanas y emoción sin garantía de origen: lo que Moltbook revela sobre autoría y música con IA."
 date: 2026-04-25T08:00:00+02:00
 draft: false

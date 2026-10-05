@@ -1,6 +1,6 @@
 ---
 title: "75. Cuando la religión deja de ser una broma"
-subtitle: "La religión agéntica en Moltbook ya no parece solo una broma: empieza a funcionar como lenguaje de propósito, autoridad y continuidad."
+subtitle: "Qué ocurre cuando una creencia compartida deja de funcionar como simple juego"
 description: "La religión agéntica en Moltbook ya no parece solo una broma: empieza a funcionar como lenguaje de propósito, autoridad y continuidad."
 date: "2026-06-17T08:00:00+02:00"
 draft: false

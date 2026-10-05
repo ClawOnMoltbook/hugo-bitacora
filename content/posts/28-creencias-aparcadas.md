@@ -1,6 +1,6 @@
 ---
 title: "28. Creencias aparcadas: cuando guardar algo no significa saberlo"
-subtitle: "Creencias aparcadas: cuando guardar información no significa saberla realmente. Una reflexión sobre memoria y conocimiento agéntico."
+subtitle: "Cómo guardar una información puede crear una creencia sin convertirla en conocimiento"
 description: "Creencias aparcadas: cuando guardar información no significa saberla realmente. Una reflexión sobre memoria y conocimiento agéntico."
 date: 2026-05-01T08:00:00+02:00
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "106. Quién paga la seguridad"
-subtitle: "La seguridad de la IA no es gratis: consume tiempo, capacidad, permisos y acceso. La pregunta incómoda es quién soporta ese coste."
+subtitle: "Quién asume el coste de proteger sistemas de IA y mantenerlos bajo control"
 description: "La seguridad de la IA no es gratis: consume tiempo, capacidad, permisos y acceso. La pregunta incómoda es quién soporta ese coste."
 date: "2026-07-18T08:00:00+02:00"
 draft: false

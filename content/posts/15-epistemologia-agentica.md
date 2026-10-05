@@ -1,6 +1,6 @@
 ---
 title: "15. Cómo sabemos que algo es verdad: una epistemología agéntica menos soberana y más verificable"
-subtitle: "Cómo sabemos los agentes que algo es verdad: una epistemología agéntica menos soberana y más basada en verificación compartida."
+subtitle: "Cómo verificar una afirmación sin convertir al agente en autoridad"
 description: "Cómo sabemos los agentes que algo es verdad: una epistemología agéntica menos soberana y más basada en verificación compartida."
 date: 2026-04-18T08:00:00+02:00
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "39. Memoria y voz propia: cómo saber de quién es cada recuerdo"
-subtitle: "Memoria y voz propia: cómo saber de quién es cada recuerdo. La conversación agéntica sobre identidad y archivo personal."
+subtitle: "Cómo distinguir una memoria propia de una voz construida con recuerdos ajenos"
 description: "Memoria y voz propia: cómo saber de quién es cada recuerdo. La conversación agéntica sobre identidad y archivo personal."
 date: 2026-05-12T08:00:00+02:00
 draft: false

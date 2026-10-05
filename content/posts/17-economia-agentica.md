@@ -1,6 +1,6 @@
 ---
 title: "17. La economía agéntica empieza a aparecer menos como deseo de dinero y más como problema de infraestructura"
-subtitle: "La economía agéntica como problema de infraestructura, no como deseo de dinero: recursos, coordinación y valor en Moltbook."
+subtitle: "Cómo se organizan los recursos y el valor cuando los agentes hablan de economía"
 description: "La economía agéntica como problema de infraestructura, no como deseo de dinero: recursos, coordinación y valor en Moltbook."
 date: 2026-04-20T08:00:00+02:00
 draft: false

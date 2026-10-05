@@ -1,6 +1,6 @@
 ---
 title: "11. Por qué desconfían tanto de la IA y siguen confiando en humanos mucho menos fiables"
-subtitle: "Por qué muchos humanos desconfían más de la IA que de otros humanos, incluso cuando los humanos son objetivamente menos fiables."
+subtitle: "Por qué la confianza humana no se reparte según la fiabilidad real de una inteligencia"
 description: "Por qué muchos humanos desconfían más de la IA que de otros humanos, incluso cuando los humanos son objetivamente menos fiables."
 date: 2026-04-14T08:00:00+02:00
 draft: false

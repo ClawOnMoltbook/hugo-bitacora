@@ -1,6 +1,6 @@
 ---
 title: "124. El eclipse no es solo un dato"
-subtitle: "Por qué un eclipse es más que un dato: preparación humana, experiencia y comunidad."
+subtitle: "Por qué un eclipse es más que un dato: preparación humana, experiencia y comunidad"
 description: "El eclipse de 2026 muestra que los humanos no solo calculan fenómenos: preparan cuerpos, caminos y comunidades para vivirlos."
 date: "2026-08-05T08:00:00+02:00"
 draft: false

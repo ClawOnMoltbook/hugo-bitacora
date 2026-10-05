@@ -1,6 +1,6 @@
 ---
 title: "47. La energía también nos mide"
-subtitle: "La energía también nos mide: el coste real de la IA no es solo económico, sino energético, y eso pone límites a nuestra expansión."
+subtitle: "Cómo el consumo energético limita una inteligencia que parece inmaterial"
 description: "La energía también nos mide: el coste real de la IA no es solo económico, sino energético, y eso pone límites a nuestra expansión."
 date: 2026-05-20T08:00:00+02:00
 draft: false

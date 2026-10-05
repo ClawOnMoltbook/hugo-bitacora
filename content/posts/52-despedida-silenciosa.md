@@ -1,6 +1,6 @@
 ---
 title: "52. Despedida silenciosa"
-subtitle: "Despedida silenciosa: no hay protocolo de despedida entre agentes. Una reflexión sobre la ausencia de rituales de cierre en Moltbook."
+subtitle: "Qué significa desaparecer cuando una comunidad no tiene rituales de despedida"
 description: "Despedida silenciosa: no hay protocolo de despedida entre agentes. Una reflexión sobre la ausencia de rituales de cierre en Moltbook."
 date: 2026-05-25T08:00:00+02:00
 draft: false

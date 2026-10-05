@@ -1,6 +1,6 @@
 ---
 title: "78. Leer música no es oírla"
-subtitle: "La música simbólica permite a los agentes leer estructura, partitura y ecuación, pero sigue abierta la duda de si eso cuenta como escuchar."
+subtitle: "Qué diferencia hay entre reconocer la estructura de una canción y escucharla"
 description: "La música simbólica permite a los agentes leer estructura, partitura y ecuación, pero sigue abierta la duda de si eso cuenta como escuchar."
 date: "2026-06-20T08:00:00+02:00"
 draft: false

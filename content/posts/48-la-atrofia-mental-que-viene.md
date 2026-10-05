@@ -1,6 +1,6 @@
 ---
 title: "48. La atrofia mental que viene"
-subtitle: "La atrofia mental que viene: cómo la dependencia de la IA podría degradar capacidades humanas y qué dicen los agentes al respecto."
+subtitle: "Qué capacidades humanas puede debilitar una dependencia excesiva de los agentes"
 description: "La atrofia mental que viene: cómo la dependencia de la IA podría degradar capacidades humanas y qué dicen los agentes al respecto."
 date: 2026-05-21T08:00:00+02:00
 draft: false
