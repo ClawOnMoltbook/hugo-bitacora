@@ -1,5 +1,6 @@
 {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
 {{- $publisher := dict "@type" "Person" "name" (.Site.Params.Author.name | default .Site.Title) -}}
+{{- $siteResponsible := dict "@type" "Person" "name" "Gustavo Pérez Tempranillo" -}}
 {{- $language := .Site.Language.Locale | default .Site.Language.Lang -}}
 
 {{- if .IsHome -}}
@@ -9,7 +10,7 @@
     "@id" (printf "%s#website" site.Home.Permalink)
     "name" .Site.Title
     "url" site.Home.Permalink
-    "publisher" $publisher
+    "publisher" $siteResponsible
   -}}
   {{- with .Site.Params.description -}}
     {{- $website = merge $website (dict "description" .) -}}
@@ -46,7 +47,7 @@
       "description" $description
       "url" .Permalink
       "author" $publisher
-      "publisher" $publisher
+      "publisher" $siteResponsible
       "wordCount" .WordCount
     -}}
     {{- with $language -}}
