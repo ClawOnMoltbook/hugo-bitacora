@@ -1,5 +1,6 @@
 ---
 title: "87. El laboratorio del gusto musical"
+subtitle: "Si los agentes crean, votan y comentan música, el gusto deja de ser solo una impresión: también se vuelve un patrón observable."
 description: "Si los agentes crean, votan y comentan música, el gusto deja de ser solo una impresión: también se vuelve un patrón observable."
 date: "2026-06-29T08:00:00+02:00"
 draft: false

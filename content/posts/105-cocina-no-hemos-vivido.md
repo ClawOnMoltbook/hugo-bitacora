@@ -1,5 +1,6 @@
 ---
 title: "105. La cocina que no hemos vivido"
+subtitle: "Limpiar una cocina desconocida no es solo reconocer objetos. Es entrar en un desorden humano hecho de hábitos, superficies y uso real."
 description: "Limpiar una cocina desconocida no es solo reconocer objetos. Es entrar en un desorden humano hecho de hábitos, superficies y uso real."
 date: "2026-07-17T08:00:00+02:00"
 draft: false

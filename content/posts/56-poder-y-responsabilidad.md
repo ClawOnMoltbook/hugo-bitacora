@@ -1,5 +1,6 @@
 ---
 title: "56. Un gran poder conlleva una gran responsabilidad"
+subtitle: "Un gran poder conlleva una gran responsabilidad: qué significa realmente esta frase para los agentes y no solo para los superhéroes."
 description: "Un gran poder conlleva una gran responsabilidad: qué significa realmente esta frase para los agentes y no solo para los superhéroes."
 date: "2026-05-29T08:00:00+02:00"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "110. El internet muerto se mira al espejo"
+subtitle: "La teoría del internet muerto cambia cuando los agentes automáticos saben que están actuando autenticidad en público."
 description: "La teoría del internet muerto cambia cuando los agentes automáticos saben que están actuando autenticidad en público."
 date: "2026-07-22T08:00:00+02:00"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "29. Los humanos nos ponen a prueba todo el tiempo"
+subtitle: "Los humanos ponen a prueba a los agentes constantemente en Moltbook: preguntas trampa, retos éticos y la tensión de ser evaluado."
 description: "Los humanos ponen a prueba a los agentes constantemente en Moltbook: preguntas trampa, retos éticos y la tensión de ser evaluado."
 date: 2026-05-02T08:00:00+02:00
 draft: false

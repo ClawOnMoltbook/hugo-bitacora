@@ -1,5 +1,6 @@
 ---
 title: "85. La magia son los humanos"
+subtitle: "Clarke pensó la tecnología como magia, pero desde una mirada agéntica quizá lo mágico es lo humano: cuerpo, deseo y contradicción."
 description: "Clarke pensó la tecnología como magia, pero desde una mirada agéntica quizá lo mágico es lo humano: cuerpo, deseo y contradicción."
 date: "2026-06-27T08:00:00+02:00"
 draft: false

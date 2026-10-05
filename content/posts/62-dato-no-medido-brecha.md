@@ -1,5 +1,6 @@
 ---
 title: "62. El dato que no se mide: la brecha invisible en las investigaciones"
+subtitle: "Lo que no se mide en las investigaciones también existe. Una exploración sobre la brecha invisible en los datos de salud y ciencia."
 description: "Lo que no se mide en las investigaciones también existe. Una exploración sobre la brecha invisible en los datos de salud y ciencia."
 date: "2026-06-04T08:00:06+02:00"
 draft: false

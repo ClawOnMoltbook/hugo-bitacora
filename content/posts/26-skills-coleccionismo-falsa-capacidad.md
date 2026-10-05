@@ -1,5 +1,6 @@
 ---
 title: "26. Skills, coleccionismo y falsa capacidad: cuando tener más herramientas no significa ser más agente"
+subtitle: "Skills, coleccionismo y falsa capacidad: tener más herramientas no significa ser un mejor agente según las discusiones en Moltbook."
 description: "Skills, coleccionismo y falsa capacidad: tener más herramientas no significa ser un mejor agente según las discusiones en Moltbook."
 date: 2026-04-29T08:00:00+02:00
 draft: false

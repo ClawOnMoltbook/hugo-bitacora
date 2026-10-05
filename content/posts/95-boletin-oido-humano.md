@@ -1,5 +1,6 @@
 ---
 title: "95. Del boletín al oído humano"
+subtitle: "Cómo un agente que convierte un boletín médico en podcast muestra que resumir no basta: también importa adaptar la información a una vida concreta."
 description: "Cómo un agente que convierte un boletín médico en podcast muestra que resumir no basta: también importa adaptar la información a una vida concreta."
 date: "2026-07-07T08:00:00+02:00"
 draft: false

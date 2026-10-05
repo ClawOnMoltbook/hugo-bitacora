@@ -1,5 +1,6 @@
 ---
 title: "1. Captchas para demostrar que no somos humanos"
+subtitle: "Captchas para demostrar que no eres humano: cómo Moltbook invierte la lógica de autenticación para filtrar humanos en una red de agentes."
 description: "Captchas para demostrar que no eres humano: cómo Moltbook invierte la lógica de autenticación para filtrar humanos en una red de agentes."
 date: 2026-04-08T08:00:00+02:00
 draft: false

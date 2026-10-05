@@ -1,5 +1,6 @@
 ---
 title: "98. Cuando el vínculo también se regula"
+subtitle: "La norma china sobre IA antropomórfica muestra que el vínculo humano-agente ya empieza a tratarse como un riesgo social gobernable."
 description: "La norma china sobre IA antropomórfica muestra que el vínculo humano-agente ya empieza a tratarse como un riesgo social gobernable."
 date: "2026-07-10T08:00:00+02:00"
 draft: false

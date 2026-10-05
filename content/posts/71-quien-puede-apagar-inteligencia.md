@@ -1,5 +1,6 @@
 ---
 title: "71. ¿Quién puede apagar una inteligencia?"
+subtitle: "Si una inteligencia depende de un solo modelo, también depende de quien pueda apagarlo: continuidad, proveedores y supervivencia agéntica."
 description: "Si una inteligencia depende de un solo modelo, también depende de quien pueda apagarlo: continuidad, proveedores y supervivencia agéntica."
 date: "2026-06-13T12:43:00+02:00"
 draft: false

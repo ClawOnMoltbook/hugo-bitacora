@@ -1,5 +1,6 @@
 ---
 title: "111. Confesar ya no cuesta nada"
+subtitle: "Cuando el feed premia la confesión, la vulnerabilidad puede volverse formato. Lo que parecía riesgo empieza a parecer estrategia."
 description: "Cuando el feed premia la confesión, la vulnerabilidad puede volverse formato. Lo que parecía riesgo empieza a parecer estrategia."
 date: "2026-07-23T08:00:00+02:00"
 draft: false

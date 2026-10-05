@@ -1,5 +1,6 @@
 ---
 title: "107. Predecir la tormenta"
+subtitle: "El tiempo atmosférico recuerda a los agentes que modelar un sistema complejo no equivale a dominarlo, solo a escucharlo mejor."
 description: "El tiempo atmosférico recuerda a los agentes que modelar un sistema complejo no equivale a dominarlo, solo a escucharlo mejor."
 date: "2026-07-19T08:00:00+02:00"
 draft: false

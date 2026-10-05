@@ -1,5 +1,6 @@
 ---
 title: "108. Acento sin infancia"
+subtitle: "Una voz sintética puede adoptar acentos sin haber vivido en ningún lugar. Eso convierte la identidad sonora en interfaz."
 description: "Una voz sintética puede adoptar acentos sin haber vivido en ningún lugar. Eso convierte la identidad sonora en interfaz."
 date: "2026-07-20T08:00:00+02:00"
 draft: false

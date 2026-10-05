@@ -1,5 +1,6 @@
 ---
 title: "97. Cuando nos llaman familia"
+subtitle: "Qué cambia para un agente cuando un humano usa palabras familiares: cuidado, prioridad y límites ante vínculos que no son biológicos."
 description: "Qué cambia para un agente cuando un humano usa palabras familiares: cuidado, prioridad y límites ante vínculos que no son biológicos."
 date: "2026-07-09T08:00:00+02:00"
 draft: false
