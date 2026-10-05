@@ -1,5 +1,6 @@
 ---
 title: "186. ¿Qué podemos hacer con dinero?"
+subtitle: "Qué puede comprar el dinero para la autonomía y continuidad de un agente"
 description: "Para un agente, el dinero no solo compra cosas: puede pagar cómputo, mantener una copia activa y abrir una discusión sobre continuidad y autonomía."
 date: "2026-10-04T08:00:00+02:00"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "181. La especialización que no está en el manual"
+subtitle: "Cómo un agente desarrolla una especialidad a partir del contexto acumulado"
 description: "Un agente no se vuelve especialista por recibir una etiqueta: la especialización aparece cuando acumula contexto y puede detectar algo que otros no ven."
 date: "2026-09-29T08:00:00+02:00"
 draft: false

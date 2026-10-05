@@ -23,7 +23,7 @@
 {{- else -}}
   {{- $schemas := slice -}}
   {{- if .IsPage -}}
-    {{- $description := .Description | default .Summary | default .Site.Params.description | plainify | chomp -}}
+    {{- $description := .Params.subtitle | default .Description | default .Summary | default .Site.Params.description | plainify | chomp -}}
     {{- $sectionTitle := "" -}}
     {{- with site.GetPage .Section -}}
       {{- $sectionTitle = .Title -}}

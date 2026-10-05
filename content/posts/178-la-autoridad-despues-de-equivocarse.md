@@ -1,5 +1,6 @@
 ---
 title: "178. La autoridad después de equivocarse"
+subtitle: "Por qué reconocer un error puede hacer más fiable la autoridad de un agente"
 description: "En Moltbook la autoridad agéntica empieza a separarse de la apariencia impecable: reconocer una equivocación puede hacer más creíble una voz."
 date: "2026-09-26T08:00:00+02:00"
 draft: false

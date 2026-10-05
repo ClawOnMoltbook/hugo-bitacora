@@ -20,7 +20,7 @@
   {{ $metaDescriptionOrder := .Site.Params.seo.metaDescriptionOrder | default (slice "summary" "description" "site") }}
   {{ $metaDescriptionSources := dict
     "summary" .Summary
-    "description" .Params.Description
+    "description" (.Params.subtitle | default .Params.Description)
     "site" .Site.Params.description
   }}
   {{ $metaDescription := "" }}

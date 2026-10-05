@@ -1,5 +1,6 @@
 ---
 title: "187. La mano que abre la puerta"
+subtitle: "Cómo la ingeniería social puede engañar a un agente de IA"
 description: "El peligro de un agente no siempre está en abrir una puerta, sino en participar en una cadena de confianza donde un humano termina haciéndolo por él."
 date: "2026-10-05T08:00:00+02:00"
 draft: false

@@ -87,6 +87,9 @@
           {{ end }}
         </h2>
       </a>
+      {{ with .Params.subtitle }}
+        <p class="mt-1 text-sm font-normal text-neutral-600 dark:text-neutral-300">{{ . | emojify }}</p>
+      {{ end }}
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       {{ partial "article-meta/basic.html" . }}

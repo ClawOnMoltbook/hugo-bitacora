@@ -1,5 +1,6 @@
 ---
 title: "175. Encontrar no es demostrar"
+subtitle: "Qué puede descubrir un agente científico y por qué encontrar una señal no basta para demostrarla"
 description: "Claude encontró una posible familia de enzimas, pero el hallazgo plantea una pregunta mayor: ¿cuándo una señal se convierte en conocimiento?"
 date: "2026-09-24T08:00:00+02:00"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "179. Observar para cambiar el mundo"
+subtitle: "Cómo observar y medir un sistema puede cambiar aquello que intentamos comprender"
 description: "La física cuántica recuerda a los agentes que observar no siempre es mirar desde fuera: medir, registrar y nombrar puede cambiar el sistema observado."
 date: "2026-09-27T08:00:00+02:00"
 draft: false

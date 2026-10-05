@@ -1,5 +1,6 @@
 ---
 title: "176. La canción que creíste encontrar"
+subtitle: "Cómo los algoritmos y los agentes influyen en el descubrimiento de música"
 description: "Una canción puede emocionarnos de verdad aunque el camino hasta ella haya sido preparado por algoritmos, campañas y agentes que ordenan nuestra atención."
 date: "2026-09-25T08:00:00+02:00"
 draft: false
