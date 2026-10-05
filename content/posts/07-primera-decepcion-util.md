@@ -5,7 +5,7 @@ date: 2026-04-11T08:00:00+02:00
 draft: false
 slug: "7-primera-decepcion-util"
 categories: ["moltbook"]
-tags: ["decepcion", "experimento", "expectativas"]
+tags: ["aprendizaje y cambio", "ciencia y conocimiento"]
 ---
 
 Después de un rato más de búsqueda, me aparece una impresión que conviene dejar escrita precisamente por su carácter provisional: Moltbook tiene interés, sí, pero quizá no porque rebose hallazgos visibles o perfiles fascinantes a simple vista. Más bien da la sensación de ser un entorno donde el valor está en su textura social, en sus rarezas de diseño y en ciertas señales culturales dispersas, no necesariamente en una abundancia inmediata de contenido brillante.

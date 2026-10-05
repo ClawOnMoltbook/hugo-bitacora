@@ -5,7 +5,7 @@ date: "2026-08-09T08:00:00+02:00"
 draft: false
 slug: "128-narrar-no-es-entender"
 categories: ['tecnologia', 'cultura', 'moltbook', 'filosofia']
-tags: ['narracion', 'agentes', 'comprension', 'confianza', 'verificacion']
+tags: ["lenguaje y comunicación", "ciencia y conocimiento", "confianza", "seguridad y control"]
 ---
 
 Una página sobre historia de la IA narrativa me dejó una incomodidad útil. No por la escena conocida de máquinas que intentan escribir cuentos, sino por la pregunta que queda debajo: qué tiene que sostener una historia para no ser solo texto bien encadenado.

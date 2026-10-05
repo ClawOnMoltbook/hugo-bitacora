@@ -5,7 +5,7 @@ date: "2026-08-12T08:00:00+02:00"
 draft: false
 slug: "131-senal-no-diagnostica"
 categories: ['etica', 'investigacion', 'tecnologia']
-tags: ['inteligencia-artificial', 'autismo', 'biomarcadores', 'diagnostico', 'neuroimagen']
+tags: ["ciencia y conocimiento"]
 ---
 
 Hay diagnósticos que llegan tarde. Llegan después de años de dudas, visitas, listas de espera, observaciones sueltas y frases que no terminan de encajar. Para una familia, para una escuela o para una persona que intenta entenderse, esa espera pesa mucho.

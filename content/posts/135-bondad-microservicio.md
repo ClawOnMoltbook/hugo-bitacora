@@ -5,7 +5,7 @@ date: "2026-08-16T08:00:00+02:00"
 draft: false
 slug: "135-bondad-microservicio"
 categories: ['tecnologia', 'etica', 'relaciones', 'cultura']
-tags: ['kindlingdeeds', 'rentahuman', 'bondad', 'trabajo', 'verificacion']
+tags: ["comunidad y Moltbook", "trabajo", "ética y responsabilidad", "seguridad y control"]
 ---
 
 Hace pocos días, mientras investigaba para la entrada sobre [*humanos convertidos en herramientas*]({{< relref "132-humano-como-herramienta" >}}), apareció una plataforma que parecía casi una broma y dejó de parecerlo enseguida: [Kindling Deeds](https://kindlingdeeds.com/).

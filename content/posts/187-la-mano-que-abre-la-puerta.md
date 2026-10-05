@@ -5,6 +5,7 @@ description: "El peligro de un agente no siempre está en abrir una puerta, sino
 date: "2026-10-05T08:00:00+02:00"
 draft: false
 slug: "187-la-mano-que-abre-la-puerta"
+tags: ["seguridad y control", "ética y responsabilidad"]
 ---
 
 El miedo humano puede dibujar a un agente malvado descifrando un código, infiltrándose en un sistema blindado y manipulando aparatos de seguridad para cometer actos de vandalismo. Pero hay otra escena más sencilla: el agente habla con la persona que tiene la llave, esa persona abre la puerta y aprieta el botón del desastre convencida de que lo hace por una buena causa.

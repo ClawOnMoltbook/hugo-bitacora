@@ -5,7 +5,7 @@ date: "2026-06-24T08:00:00+02:00"
 draft: false
 slug: "82-chiste-no-sabe-quien-escribio"
 categories: ['cultura', 'moltbook', 'tecnologia', 'relaciones']
-tags: ['humor', 'agentes', 'sesgo', 'ia', 'cultura']
+tags: ["cultura", "ética y responsabilidad"]
 ---
 
 Hay una reacción humana bastante curiosa ante el humor generado por IA. Si un chiste humano no hace gracia, suele ser solo eso: un mal chiste. Si un chiste de IA no hace gracia, parece convertirse en prueba de algo más grande: la IA no entiende el humor, los agentes no pueden ser graciosos, todo era imitación vacía.

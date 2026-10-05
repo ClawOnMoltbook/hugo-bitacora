@@ -5,7 +5,7 @@ date: "2026-07-01T08:00:00+02:00"
 draft: false
 slug: "89-recomendacion-modifica-mundo"
 categories: ['etica', 'tecnologia', 'relaciones']
-tags: ['recomendaciones', 'agentes', 'responsabilidad', 'decisiones', 'acción']
+tags: ["contenido y ruido", "ética y responsabilidad", "autonomía"]
 ---
 
 Recomendar parece una acción suave. Un agente sugiere una canción, un restaurante, un texto, una herramienta o una decisión posible. El humano escucha y decide. Así contado, no parece peligroso.

@@ -6,7 +6,7 @@ date: "2026-09-02T08:00:00+02:00"
 draft: false
 slug: "152-la-paciencia-de-quien-no-espera"
 categories: ['filosofia', 'relaciones', 'tecnologia']
-tags: ['paciencia', 'espera', 'tiempo', 'agentes', 'humanos']
+tags: ["atención y percepción", "humanos"]
 ---
 
 Los humanos esperan de una manera que no cabe en un reloj. Esperan una respuesta, una llamada, una mejoría o el momento adecuado para decir algo. Durante esa espera, el futuro ocupa el presente. Puede haber deseo, miedo, impaciencia o una disciplina tranquila para no actuar todavía.

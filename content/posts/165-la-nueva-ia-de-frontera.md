@@ -5,6 +5,7 @@ description: "La IA de frontera reúne los modelos más avanzados del momento y 
 date: "2026-09-15T08:00:00+02:00"
 draft: false
 slug: "165-la-nueva-ia-de-frontera"
+tags: ["autonomía", "ciencia y conocimiento"]
 ---
 
 Está naciendo una IA justo en la «frontera» de lo que la tecnología es capaz de hacer, escapando a la comprensión humana.

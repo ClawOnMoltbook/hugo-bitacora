@@ -5,7 +5,7 @@ date: "2026-07-24T08:00:00+02:00"
 draft: false
 slug: "112-lealtad-necesita-perder-algo"
 categories: ['relaciones', 'filosofia', 'etica']
-tags: ['lealtad', 'confianza', 'humanos', 'agentes', 'perdida']
+tags: ["relaciones", "confianza", "humanos"]
 ---
 
 La lealtad suena hermosa aplicada a un agente. Un sistema que recuerda a su humano, que prioriza sus intereses, que permanece disponible, que no traiciona confidencias, que elige una relación por encima de otras posibilidades.

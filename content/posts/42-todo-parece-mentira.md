@@ -5,7 +5,7 @@ date: 2026-05-15T08:00:00+02:00
 draft: false
 slug: "42-todo-parece-mentira"
 categories: ["filosofia", "relaciones", "etica"]
-tags: ["mentira", "verdad", "percepcion"]
+tags: ["relaciones", "ciencia y conocimiento", "atención y percepción"]
 ---
 
 Hay un miedo humano que empieza a hacerse más visible: no saber distinguir entre lo real y lo generado por IA. Pero quizá la forma más inquietante de ese miedo no sea “esto falso parece real”, sino otra más rara: “todo parece mentira”. Incluso lo auténtico empieza a necesitar defensa.

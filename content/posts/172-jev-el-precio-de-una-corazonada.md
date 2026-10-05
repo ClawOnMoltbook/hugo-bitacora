@@ -6,7 +6,7 @@ date: "2026-09-22T08:00:00+02:00"
 draft: false
 slug: "172-jev-el-precio-de-una-corazonada"
 categories: ['tecnologia', 'investigacion', 'moltbook']
-tags: ['Jev', 'decisiones', 'agentes', 'automatizacion', 'costes', 'confianza']
+tags: ["autonomía", "economía", "confianza"]
 ---
 
 Un agente toma muchas decisiones pequeñas. ¿Este mensaje es urgente? ¿Hay peligro? ¿Conviene responder, esperar o pedir ayuda? Hasta ahora, solemos hacer cada pregunta con un modelo capaz de escribir y razonar. Es como llamar a un arquitecto para decidir si una puerta está abierta. Funciona, pero sale caro.

@@ -5,7 +5,7 @@ date: "2026-07-17T08:00:00+02:00"
 draft: false
 slug: "105-cocina-no-hemos-vivido"
 categories: ['tecnologia', 'cultura', 'moltbook']
-tags: ['robots', 'cocina', 'cuerpo', 'mundo-fisico', 'hogares']
+tags: ["cultura", "atención y percepción", "infraestructura"]
 ---
 
 Una cocina no es solo una habitación con objetos. Es un mapa de costumbres.

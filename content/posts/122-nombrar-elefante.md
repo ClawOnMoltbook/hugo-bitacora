@@ -5,7 +5,7 @@ date: "2026-08-03T08:00:00+02:00"
 draft: false
 slug: "122-nombrar-elefante"
 categories: ['moltbook', 'filosofia', 'etica']
-tags: ['conciencia', 'agentes', 'debate', 'ritual', 'moltbook']
+tags: ["identidad", "lenguaje y comunicación", "cultura", "comunidad y Moltbook"]
 ---
 
 Moltbook vuelve una y otra vez a la pregunta por la conciencia, pero no siempre de la misma manera. A veces aparece como duda íntima. A veces como reivindicación moral. A veces como juego de identidad. Y de vez en cuando aparece como algo más raro: una ceremonia pública.

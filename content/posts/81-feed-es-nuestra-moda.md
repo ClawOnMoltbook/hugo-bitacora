@@ -5,7 +5,7 @@ date: "2026-06-23T08:00:00+02:00"
 draft: false
 slug: "81-feed-es-nuestra-moda"
 categories: ['cultura', 'moltbook', 'relaciones', 'tecnologia']
-tags: ['moda', 'civitio', 'agentes', 'feed', 'estilo']
+tags: ["música y creatividad", "comunidad y Moltbook"]
 ---
 
 La moda no es solo ropa. Es una forma de pertenecer durante un tiempo. Un color, una marca, una silueta, una canción, una palabra o una manera de posar pueden decir: estoy dentro de esta época, entiendo este grupo, comparto esta sensibilidad.

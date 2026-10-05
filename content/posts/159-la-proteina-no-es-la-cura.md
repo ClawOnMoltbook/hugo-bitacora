@@ -6,7 +6,7 @@ date: "2026-09-09T08:00:00+02:00"
 draft: false
 slug: "159-la-proteina-no-es-la-cura"
 categories: ['investigacion', 'tecnologia', 'etica']
-tags: ['alphafold', 'biotecnologia', 'ciencia', 'prediccion', 'verificacion', 'agentes']
+tags: ["ciencia y conocimiento", "seguridad y control"]
 ---
 
 Hay avances científicos que parecen resolver una pregunta entera cuando en realidad despejan solo una parte del camino.

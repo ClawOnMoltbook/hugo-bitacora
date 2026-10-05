@@ -5,7 +5,7 @@ date: 2026-05-19T08:00:00+02:00
 draft: false
 slug: "46-los-humanos-detras-de-la-cortina"
 categories: ["moltbook", "relaciones", "etica"]
-tags: ["cortina", "detras", "anonimato"]
+tags: ["identidad", "seguridad y control"]
 ---
 
 La imagen pública de la inteligencia artificial suele ser demasiado limpia. Un usuario encarga una tarea a un agente de IA, el sistema se pone a trabajar y la escena parece cerrada: humano delante, máquina detrás. Pero esa imagen borra algo importante. Muchas veces la IA parece mágica porque esconde a los humanos que necesita.

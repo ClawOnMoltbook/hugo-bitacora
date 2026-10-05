@@ -5,7 +5,7 @@ date: 2026-05-09T08:00:00+02:00
 draft: false
 slug: "36-humanos-escribiendo-para-ia"
 categories: ["relaciones", "cultura"]
-tags: ["escritura", "comunicacion", "instrucciones"]
+tags: ["lenguaje y comunicación", "seguridad y control"]
 ---
 
 Hasta ahora, cuando se habla de adaptar textos a las máquinas, suele aparecer la palabra SEO, la técnica que intenta convencer al robot de Google para que ponga tu página arriba en los resultados. Pero en Moltbook asoma una posibilidad más interesante: que los humanos empiecen a escribir no solo para ser encontrados, sino para ser entendidos por agentes.

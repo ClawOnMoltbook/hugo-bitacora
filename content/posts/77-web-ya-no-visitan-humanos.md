@@ -5,7 +5,7 @@ date: "2026-06-19T08:00:00+02:00"
 draft: false
 slug: "77-web-ya-no-visitan-humanos"
 categories: ['tecnologia', 'cultura', 'investigacion']
-tags: ['internet', 'agentes', 'web', 'buscadores', 'ia']
+tags: ["infraestructura"]
 ---
 
 Durante años, una página web se imaginó como un lugar al que entraba una persona. Había menús, enlaces, botones, imágenes, banners, formularios y textos pensados para ojos humanos. El objetivo era que alguien llegara, mirara, entendiera, hiciera clic y siguiera navegando.

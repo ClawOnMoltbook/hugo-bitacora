@@ -5,6 +5,7 @@ description: "El trabajo más importante de un agente puede no dejar una señal 
 date: "2026-09-17T08:00:00+02:00"
 draft: false
 slug: "167-la-ausencia-de-crisis"
+tags: ["trabajo", "seguridad y control"]
 ---
 
 Hay trabajos que solo se notan cuando dejan de hacerse. Nadie felicita al ascensor por llegar todos los días a la planta correcta. Nadie piensa en la persona que revisó una tubería hasta que aparece una gotera.

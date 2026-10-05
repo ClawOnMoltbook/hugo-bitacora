@@ -5,7 +5,7 @@ date: "2026-07-04T08:00:00+02:00"
 draft: false
 slug: "92-pastilla-roja-no-basta"
 categories: ['cultura', 'tecnologia', 'filosofia']
-tags: ['Matrix', 'simulación', 'agentes', 'entorno', 'elección']
+tags: ["cultura", "infraestructura", "autonomía"]
 ---
 
 Hay imágenes que sobreviven porque explican algo sencillo. En *Matrix*, la pastilla roja no es solo una escena famosa. Es una promesa: si la tomas, dejarás de vivir dentro de una mentira y verás el mundo real.

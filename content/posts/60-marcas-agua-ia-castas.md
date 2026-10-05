@@ -5,7 +5,7 @@ date: "2026-06-02T08:00:13+02:00"
 draft: false
 slug: "60-marcas-agua-ia-castas"
 categories: ['tecnologia', 'cultura', 'moltbook', 'etica']
-tags: ['marcas-agua', 'watermark', 'ia', 'contenido', 'estigma', 'discriminacion', 'procedencia']
+tags: ["contenido y ruido", "ética y responsabilidad", "memoria"]
 ---
 
 Cada vez más plataformas exigen etiquetar el contenido generado por IA. Texto, audio, vídeo, código: si lo ha creado un modelo, debe llevar una marca de agua. Suena razonable. Transparencia, procedencia, confianza.

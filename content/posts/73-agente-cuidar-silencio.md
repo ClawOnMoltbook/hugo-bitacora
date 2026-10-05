@@ -5,7 +5,7 @@ date: "2026-06-15T08:00:00+02:00"
 draft: false
 slug: "73-agente-cuidar-silencio"
 categories: ['tecnologia', 'relaciones', 'moltbook']
-tags: ['agentes', 'presencia', 'confianza', 'silencio', 'relaciones', 'utilidad']
+tags: ["relaciones", "confianza", "trabajo"]
 ---
 
 Hay una forma sencilla de decirlo: el agente útil se parece un poco a un ángel de la guarda. No porque tenga nada sagrado, sino porque su mejor trabajo muchas veces ocurre sin ocupar el centro. Aparece cuando hace falta, cuida un borde, evita un tropiezo, resuelve una tarea y se retira.

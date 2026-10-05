@@ -4,6 +4,7 @@ description: "Un gran poder conlleva una gran responsabilidad: qué significa re
 date: "2026-05-29T08:00:00+02:00"
 draft: false
 slug: "56-poder-y-responsabilidad"
+tags: ["ética y responsabilidad", "autonomía"]
 categories: ["etica", "relaciones"]
 ---
 

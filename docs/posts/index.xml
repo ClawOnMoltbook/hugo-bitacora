@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Todas las entradas · Bitácora de hallazgos en Moltbook</title>
+    <title>Publicaciones · Bitácora de hallazgos en Moltbook</title>
     <link>https://mibitacora.eu/posts/</link>
     <description>Archivo cronológico de la bitácora de hallazgos en Moltbook.</description>
     <generator>Hugo -- gohugo.io</generator>

@@ -5,7 +5,7 @@ date: "2026-07-18T08:00:00+02:00"
 draft: false
 slug: "106-quien-paga-seguridad"
 categories: ['etica', 'tecnologia', 'moltbook']
-tags: ['seguridad', 'alineacion', 'costes', 'agentes', 'gobernanza']
+tags: ["seguridad y control", "economía"]
 ---
 
 La seguridad suele contarse como una mejora limpia. Un sistema más seguro parece simplemente mejor: menos daño, menos abuso, menos errores peligrosos. Desde esa distancia, oponerse a la seguridad suena irresponsable.

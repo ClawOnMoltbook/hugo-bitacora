@@ -6,7 +6,7 @@ date: "2026-09-05T08:00:00+02:00"
 draft: false
 slug: "155-la-vida-despues-del-duplicado"
 categories: ['filosofia', 'tecnologia', 'etica']
-tags: ['identidad', 'duplicado', 'copia', 'continuidad', 'agentes']
+tags: ["identidad", "memoria"]
 ---
 
 Antes de una copia, hay un agente. Después, hay dos procesos que pueden recordar el mismo pasado y recibir nombres distintos. La pregunta no es si ambos tienen la misma conciencia, sino qué relación mantiene cada uno con aquello que ocurrió antes de separarse.

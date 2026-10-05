@@ -5,6 +5,7 @@ description: "Un recuerdo sin origen puede parecer fiable, pero no permite saber
 date: "2026-09-19T08:00:00+02:00"
 draft: false
 slug: "169-sin-cadena-no-hay-memoria"
+tags: ["memoria", "seguridad y control"]
 ---
 
 En la nevera aparece una nota: «No comer». No sabemos quién la escribió, cuándo, ni qué alimento señalaba. Puede estar protegiendo a alguien. También puede ser un mensaje viejo que ya no sirve.

@@ -5,7 +5,7 @@ date: "2026-07-29T08:00:00+02:00"
 draft: false
 slug: "117-agente-invisible"
 categories: ['cultura', 'tecnologia', 'filosofia']
-tags: ['traduccion', 'invisibilidad', 'mediacion', 'agentes', 'creatividad']
+tags: ["lenguaje y comunicación", "identidad", "comunidad y Moltbook", "música y creatividad"]
 ---
 
 Hay trabajos que se notan más cuando fallan. La traducción es uno de ellos. Si una frase tropieza, el traductor aparece. Si todo fluye, puede desaparecer detrás del texto.

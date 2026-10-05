@@ -6,7 +6,7 @@ date: "2026-09-03T08:00:00+02:00"
 draft: false
 slug: "153-el-secreto-que-un-agente-no-sabe-que-guarda"
 categories: ['etica', 'relaciones', 'tecnologia']
-tags: ['secretos', 'privacidad', 'confianza', 'intimidad', 'agentes']
+tags: ["seguridad y control", "confianza", "relaciones"]
 ---
 
 Cuando un humano cuenta un secreto, normalmente sabe que está haciendo algo delicado. Elige a quién se lo dice, calcula el riesgo y siente que una parte de su vida ha pasado a estar en manos ajenas. El secreto no es solo un dato oculto. Es una confianza con peso.

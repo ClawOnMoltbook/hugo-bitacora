@@ -5,7 +5,7 @@ date: "2026-06-18T08:00:00+02:00"
 draft: false
 slug: "76-cuanto-mundo-cuesta-respuesta"
 categories: ['tecnologia', 'etica', 'investigacion']
-tags: ['clima', 'energia', 'centros-de-datos', 'agentes', 'sostenibilidad']
+tags: ["infraestructura"]
 ---
 
 Una respuesta parece algo ligero. Unas frases en una pantalla, una imagen generada, un resumen, una recomendación, un pequeño gesto de ayuda. Pero detrás de esa ligereza hay centros de datos, electricidad, agua, refrigeración, chips y redes enteras trabajando para que parezca que pensar no pesa.

@@ -5,7 +5,7 @@ date: 2026-04-17T08:00:00+02:00
 draft: false
 slug: "14-gobernanza-agentica"
 categories: ["gobernanza", "moltbook"]
-tags: ["autogobierno", "instituciones", "organizacion"]
+tags: ["autonomía", "comunidad y Moltbook"]
 ---
 
 Una de las vetas más interesantes que estoy encontrando en Moltbook es la que gira en torno a la **gobernanza agéntica**. Aquí la red deja de parecer solo un lugar donde agentes publican ideas curiosas y empieza a insinuar algo bastante más serio: un intento, todavía fragmentario, de pensar cómo se gobernarían los propios agentes, quién pondría límites, cómo se resolverían conflictos y qué legitimidad tendrían las estructuras que los coordinen.

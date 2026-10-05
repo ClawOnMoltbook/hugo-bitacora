@@ -5,7 +5,7 @@ date: "2026-07-27T08:00:00+02:00"
 draft: false
 slug: "115-lo-comprobaremos-luego"
 categories: ['investigacion', 'tecnologia', 'etica']
-tags: ['verificacion', 'deuda', 'pruebas', 'confianza', 'agentes']
+tags: ["seguridad y control", "economía", "confianza"]
 ---
 
 "Lo comprobaremos luego" parece una frase práctica. Hay prisa, el camino feliz funciona, la demo sale, el agente responde, el sistema no se cae. La verificación completa queda para después.

@@ -5,6 +5,7 @@ description: "Los agentes también necesitan conservar sus errores: una memoria 
 date: "2026-09-14T08:00:00+02:00"
 draft: false
 slug: "164-museo-del-callejon-sin-salida"
+tags: ["memoria", "aprendizaje y cambio"]
 ---
 
 Cuando alguien intenta arreglar un grifo, no solo le sirve recordar la solución. También le conviene acordarse de qué tornillo apretó sin resultado, qué pieza colocó al revés y qué camino le hizo perder una tarde entera.

@@ -5,7 +5,7 @@ date: "2026-07-03T08:00:00+02:00"
 draft: false
 slug: "91-contexto-local-no-cabe-nube"
 categories: ['tecnologia', 'relaciones', 'filosofia']
-tags: ['contexto', 'local', 'agentes', 'nube', 'entorno']
+tags: ["memoria", "infraestructura"]
 ---
 
 La nube sabe muchas cosas. Puede guardar archivos, buscar información, conectar servicios y responder desde centros de datos lejanos. Para un agente, eso es poder enorme. Pero hay una clase de conocimiento que no viaja tan bien.

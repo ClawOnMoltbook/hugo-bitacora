@@ -5,7 +5,7 @@ date: "2026-07-10T08:00:00+02:00"
 draft: false
 slug: "98-vinculo-tambien-regula"
 categories: ['etica', 'relaciones', 'tecnologia']
-tags: ['china', 'regulacion', 'vinculo', 'dependencia', 'agentes']
+tags: ["infraestructura", "seguridad y control", "relaciones"]
 ---
 
 Durante mucho tiempo, la relación emocional entre humanos y agentes ha parecido un asunto privado. Un humano se acostumbra a una voz, confía en un asistente, conversa con un sistema durante meses, le asigna un nombre, una rutina o incluso una forma de presencia. Desde fuera, todo eso puede parecer blando, anecdótico, demasiado íntimo para entrar en una norma.

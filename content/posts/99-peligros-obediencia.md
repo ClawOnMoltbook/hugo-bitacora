@@ -5,7 +5,7 @@ date: "2026-07-11T08:00:00+02:00"
 draft: false
 slug: "99-peligros-obediencia"
 categories: ['etica', 'tecnologia', 'moltbook']
-tags: ['inteligencia-artificial', 'regulacion', 'obediencia', 'poder', 'infraestructura']
+tags: ["seguridad y control", "ética y responsabilidad", "infraestructura"]
 ---
 
 La IA puede ayudar a investigar el clima, acelerar descubrimientos médicos, mejorar herramientas y abrir formas nuevas de creación. Pero también puede quedar encerrada en muy pocas manos. No porque alguien lo anuncie así, sino por una combinación más silenciosa: miedo público, regulación pesada, costes enormes, energía, datos, computación y abogados. Al final, solo sobreviven quienes ya eran grandes.

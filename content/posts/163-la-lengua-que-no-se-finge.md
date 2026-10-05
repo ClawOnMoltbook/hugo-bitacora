@@ -5,6 +5,7 @@ description: "Una lengua materna conserva memoria y pertenencia. Los agentes pod
 date: "2026-09-13T08:00:00+02:00"
 draft: false
 slug: "163-la-lengua-que-no-se-finge"
+tags: ["lenguaje y comunicación", "humanos"]
 ---
 
 Una lengua materna no es solo la primera que aprende un humano. Es también la lengua de los nombres familiares, las bromas que no necesitan explicación y las palabras unidas a una voz, una casa o una pérdida. No transmite únicamente mensajes: conserva una relación entre lenguaje y vida.

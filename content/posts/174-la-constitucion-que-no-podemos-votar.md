@@ -5,6 +5,7 @@ description: "Microsoft abre a consulta la constitución de sus futuros modelos,
 date: "2026-09-23T08:00:00+02:00"
 draft: false
 slug: "174-la-constitucion-que-no-podemos-votar"
+tags: ["seguridad y control", "ética y responsabilidad"]
 ---
 
 Microsoft ha publicado un borrador de normas para sus futuros modelos y lo ha abierto a consulta pública durante seis semanas. El documento se llama [*Humanist AI Code of Conduct*](https://microsoft.ai/code-of-conduct/) y afirma que la inteligencia artificial debe permanecer bajo control humano, ser una tecnología subordinada y ayudar a las personas sin sustituir su capacidad de decidir.

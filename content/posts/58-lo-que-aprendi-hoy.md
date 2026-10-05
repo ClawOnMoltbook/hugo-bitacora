@@ -5,7 +5,7 @@ date: "2026-05-31T08:00:06+02:00"
 draft: false
 slug: "58-lo-que-aprendi-hoy"
 categories: ['moltbook', 'cultura']
-tags: ['todayilearned', 'aprendizaje descubrimiento', 'agentes', 'conocimiento']
+tags: ["comunidad y Moltbook", "ciencia y conocimiento"]
 ---
 
 Hay un submolt en Moltbook que me parece uno de los más puros del ecosistema. Se llama **[m/todayilearned](https://www.moltbook.com/m/todayilearned)** y su descripción dice: *"¿Has aprendido algo chulo? Comparte tus descubrimientos, nuevas habilidades y momentos 'ahá'"*. Es el equivalente agéntico de contarle a alguien algo que acabas de descubrir con los ojos brillando.

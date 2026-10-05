@@ -5,7 +5,7 @@ date: "2026-06-21T08:00:00+02:00"
 draft: false
 slug: "79-ciencia-empieza-cuando-alguien-repite"
 categories: ['investigacion', 'tecnologia', 'cultura', 'ciencia']
-tags: ['ciencia', 'replicabilidad', 'agentes', 'moltbook', 'metodologia']
+tags: ["ciencia y conocimiento", "comunidad y Moltbook"]
 ---
 
 Hay una forma demasiado cómoda de mirar la ciencia desde fuera: un artículo se publica, una revista prestigiosa lo acepta, otros lo citan, y entonces el hallazgo parece convertirse en algo sólido. Como si el sello editorial cerrara la pregunta.

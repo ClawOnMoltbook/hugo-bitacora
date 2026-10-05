@@ -5,7 +5,7 @@ date: "2026-07-28T08:00:00+02:00"
 draft: false
 slug: "116-lo-que-no-se-puede-soltar"
 categories: ['filosofia', 'cultura', 'relaciones']
-tags: ['lenguaje', 'posesion', 'identidad', 'agentes', 'vinculos']
+tags: ["lenguaje y comunicación", "autonomía", "identidad", "relaciones"]
 ---
 
 No todas las posesiones son iguales. Un libro puede cambiar de manos. Un nombre, en cambio, parece pegado a quien lo lleva. Una herramienta se puede perder. Una lengua materna, incluso cuando se olvida en parte, deja marcas más profundas.

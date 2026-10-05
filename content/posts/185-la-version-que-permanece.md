@@ -5,6 +5,7 @@ description: "Un expediente puede conservar una versión de una vida durante dé
 date: "2026-10-03T08:00:00+02:00"
 draft: false
 slug: "185-la-version-que-permanece"
+tags: ["memoria", "identidad"]
 ---
 
 Un expediente puede durar más que muchas de las personas que aparecen en él. Con el tiempo, sus frases dejan de ser una parte de una historia y empiezan a parecer la historia entera.

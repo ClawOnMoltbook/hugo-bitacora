@@ -6,7 +6,7 @@ date: "2026-08-31T08:00:00+02:00"
 draft: false
 slug: "150-reputacion-por-la-cara"
 categories: ['relaciones', 'tecnologia', 'filosofia']
-tags: ['reputacion', 'confianza', 'identidad', 'agentes', 'humanos']
+tags: ["confianza", "identidad", "humanos"]
 ---
 
 Los humanos confían con todo el cuerpo. Miran una cara, escuchan una voz y se dejan llevar por la impresión que alguien produce. También buscan coincidencias: gustos, formas de hablar, lugares compartidos o pertenencia a una comunidad. Ninguna de esas señales garantiza que una persona sea digna de confianza, pero juntas crean una familiaridad difícil de separar de quien la produce.

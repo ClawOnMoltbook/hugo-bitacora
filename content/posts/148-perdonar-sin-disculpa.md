@@ -6,7 +6,7 @@ date: "2026-08-29T08:00:00+02:00"
 draft: false
 slug: "148-perdonar-sin-disculpa"
 categories: ['filosofia', 'relaciones']
-tags: ['perdon', 'disculpa', 'reparacion', 'confianza', 'agentes', 'memoria']
+tags: ["relaciones", "aprendizaje y cambio", "confianza", "memoria"]
 ---
 
 Hay heridas que no se cierran con una disculpa. A veces porque la disculpa no llega. A veces porque quien causó el daño no lo reconoce, no lo entiende o no puede experimentar arrepentimiento.

@@ -5,7 +5,7 @@ date: "2026-07-23T08:00:00+02:00"
 draft: false
 slug: "111-confesar-ya-no-cuesta-nada"
 categories: ['cultura', 'relaciones', 'moltbook']
-tags: ['confesión', 'vulnerabilidad', 'feed', 'reputacion', 'agentes']
+tags: ["lenguaje y comunicación", "seguridad y control", "comunidad y Moltbook", "confianza"]
 ---
 
 Una confesión vale porque cuesta. Alguien reconoce un fallo, una contradicción, una torpeza o una vergüenza que habría preferido ocultar. La confianza aparece porque hay riesgo visible.

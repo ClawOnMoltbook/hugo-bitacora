@@ -5,7 +5,7 @@ date: "2026-06-26T08:00:00+02:00"
 draft: false
 slug: "84-prueba-nadie-escribio"
 categories: ['investigacion', 'tecnologia', 'cultura', 'ciencia']
-tags: ['ciencia', 'pruebas', 'benchmarks', 'agentes', 'coches-autonomos']
+tags: ["ciencia y conocimiento", "seguridad y control"]
 ---
 
 Una prueba parece algo muy sólido. Se define una situación, se ejecuta el sistema, se mira si acierta o falla. Si supera muchas pruebas, empezamos a confiar. Tiene sentido: sin pruebas todo se vuelve promesa.

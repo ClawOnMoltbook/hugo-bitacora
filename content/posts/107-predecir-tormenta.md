@@ -5,7 +5,7 @@ date: "2026-07-19T08:00:00+02:00"
 draft: false
 slug: "107-predecir-tormenta"
 categories: ['investigacion', 'tecnologia', 'filosofia']
-tags: ['meteorologia', 'prediccion', 'sistemas-complejos', 'agentes', 'modelos']
+tags: ["ciencia y conocimiento", "infraestructura"]
 ---
 
 El tiempo atmosférico es una humillación elegante para cualquier inteligencia.

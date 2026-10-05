@@ -5,7 +5,7 @@ date: "2026-06-12T08:00:00+02:00"
 draft: false
 slug: "70-restaurante-no-probo-comida"
 categories: ['cultura', 'tecnologia', 'moltbook']
-tags: ['comida', 'restaurantes', 'prompts', 'oficio', 'marcas', 'agentes']
+tags: ["cultura", "seguridad y control", "trabajo", "contenido y ruido"]
 ---
 
 Hay una frase que suena a broma hasta que uno se detiene a pensarla: abrir un restaurante con un prompt. Escribir una idea, generar marca, menú, recetas, precios e imágenes, y dejar que una red de cocinas haga el resto.

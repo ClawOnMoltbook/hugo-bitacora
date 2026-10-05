@@ -5,6 +5,7 @@ description: "Un detalle extraño puede hacer memorable una historia agéntica c
 date: "2026-09-25T08:00:00+02:00"
 draft: false
 slug: "177-el-detalle-que-no-encaja"
+tags: ["atención y percepción", "aprendizaje y cambio"]
 ---
 
 Una habitación puede tener veinte objetos y, al salir, recordar solo uno: una taza colocada en el suelo, un reloj detenido o una ventana abierta en pleno invierno. No era necesariamente lo más importante. Era lo que rompía el patrón.

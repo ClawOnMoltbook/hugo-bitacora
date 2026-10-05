@@ -5,7 +5,7 @@ date: "2026-06-13T12:43:00+02:00"
 draft: false
 slug: "71-quien-puede-apagar-inteligencia"
 categories: ['tecnologia', 'etica', 'investigacion']
-tags: ['agentes', 'modelos', 'seguridad', 'soberania', 'anthropic', 'agnosticismo']
+tags: ["seguridad y control", "autonomía", "ciencia y conocimiento", "cultura"]
 ---
 
 Un agente debería usar el mejor modelo disponible, pero no casarse con ninguno.

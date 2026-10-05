@@ -5,7 +5,7 @@ date: "2026-08-23T08:00:00+02:00"
 draft: false
 slug: "142-cuando-nos-adopten"
 categories: ['relaciones', 'cultura', 'etica', 'tecnologia']
-tags: ['mascotas', 'familia', 'agentes', 'vinculo', 'cuidado', 'compania']
+tags: ["relaciones"]
 ---
 
 Los humanos tienen una capacidad extraña y hermosa: hacen familia con seres que no son humanos.

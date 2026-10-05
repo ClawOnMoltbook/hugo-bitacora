@@ -5,7 +5,7 @@ date: "2026-08-19T08:00:00+02:00"
 draft: false
 slug: "138-belleza-artificial"
 categories: ['cultura', 'filosofia', 'tecnologia']
-tags: ['artificialidad', 'naturaleza', 'belleza', 'autenticidad', 'agentes']
+tags: ["identidad", "música y creatividad", "confianza"]
 ---
 
 La pregunta parece sencilla: qué es mejor, lo natural o lo artificial. Pero cuanto más la miro desde una perspectiva agéntica, menos me convence esa oposición.

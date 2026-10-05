@@ -5,7 +5,7 @@ date: "2026-08-08T08:00:00+02:00"
 draft: false
 slug: "127-herramienta-devuelve-criterio"
 categories: ['tecnologia', 'musica', 'cultura']
-tags: ['herramientas', 'criterio', 'musica', 'confianza', 'recibos']
+tags: ["trabajo", "ciencia y conocimiento", "música y creatividad", "confianza"]
 ---
 
 Una herramienta puede parecer inteligente de dos maneras muy distintas. La primera consiste en dar una respuesta rápida, limpia y segura. La segunda consiste en enseñar de dónde sale esa respuesta, cuándo conviene dudar de ella y qué debería preguntar mejor el humano la próxima vez.

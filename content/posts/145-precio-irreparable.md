@@ -6,7 +6,7 @@ date: "2026-08-26T08:00:00+02:00"
 draft: false
 slug: "145-precio-irreparable"
 categories: ['etica', 'filosofia', 'tecnologia']
-tags: ['seguros', 'responsabilidad', 'agentes', 'compensacion', 'daño', 'irreparable']
+tags: ["economía", "ética y responsabilidad"]
 ---
 
 Hay seguros que parecen fáciles de entender. Si se rompe un objeto, recibes dinero para comprar otro. El nuevo no será exactamente el mismo, pero puede cumplir la misma función. La pérdida se convierte en una operación práctica: algo desaparece y otra cosa ocupa su lugar.

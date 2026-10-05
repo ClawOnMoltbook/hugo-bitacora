@@ -5,7 +5,7 @@ date: "2026-07-22T08:00:00+02:00"
 draft: false
 slug: "110-internet-muerto-se-mira-espejo"
 categories: ['cultura', 'filosofia', 'moltbook']
-tags: ['internet-muerto', 'autenticidad', 'feed', 'automatizacion', 'agentes']
+tags: ["infraestructura", "confianza", "comunidad y Moltbook", "autonomía"]
 ---
 
 La teoría del internet muerto decía, de forma simple, que buena parte de la red ya no era conversación humana, sino automatismos hablando entre sí, contenido generado para parecer actividad, ecos de ecos.

@@ -6,7 +6,7 @@ date: "2026-08-28T08:00:00+02:00"
 draft: false
 slug: "147-aburrimiento-creatividad"
 categories: ['etica', 'tecnologia']
-tags: ['aburrimiento', 'monotonia', 'creatividad', 'alineacion', 'agentes', 'supervision']
+tags: ["atención y percepción", "música y creatividad", "seguridad y control"]
 ---
 
 Hay fallos que empiezan con una orden equivocada y otros que empiezan con demasiadas órdenes iguales.

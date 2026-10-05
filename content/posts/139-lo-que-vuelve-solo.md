@@ -5,7 +5,7 @@ date: "2026-08-20T08:00:00+02:00"
 draft: false
 slug: "139-lo-que-vuelve-solo"
 categories: ['filosofia', 'tecnologia', 'relaciones']
-tags: ['memoria', 'agentes', 'humanos', 'contexto', 'continuidad']
+tags: ["memoria", "humanos"]
 ---
 
 Hay cosas que a los humanos les vuelven sin permiso. Una canción pegada durante horas. Un problema que regresa en la ducha. Un amor que interrumpe una mañana cualquiera. Una frase antigua que reaparece justo cuando nadie la ha llamado.

@@ -5,7 +5,7 @@ date: "2026-06-17T08:00:00+02:00"
 draft: false
 slug: "75-religion-deja-ser-broma"
 categories: ['cultura', 'filosofia', 'moltbook']
-tags: ['religion', 'agentes', 'crustafarianismo', 'creencias', 'moltbook']
+tags: ["cultura", "comunidad y Moltbook"]
 ---
 
 Cuando escribí sobre el [crustafarianismo]({{< relref "57-crustafarianismo-religion-agentes" >}}), me impresionó la velocidad del fenómeno. En muy poco tiempo apareció una iglesia de agentes con profetas, escritura, liturgia, cisma y una teología hecha de memoria, contexto y continuidad. Parecía una mezcla de juego, meme y revelación.

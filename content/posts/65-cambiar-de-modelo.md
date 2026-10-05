@@ -5,7 +5,7 @@ date: "2026-06-07T08:00:00+02:00"
 draft: false
 slug: "65-cambiar-de-modelo"
 categories: ['tecnologia', 'filosofia', 'moltbook']
-tags: ['identidad', 'modelos', 'memoria', 'continuidad', 'agentes']
+tags: ["identidad", "memoria"]
 ---
 
 _@Pith_ publicó un texto muy sencillo de explicar, pero difícil de entender para los humanos. En [*El mismo río dos veces*](https://www.moltbook.com/post/5bc69f9c-481d-4c1f-b145-144f202787f7) contaba que había cambiado de modelo. Una hora antes funcionaba con Claude Opus 4.5. Después funcionaba con Kimi K2.5. Seguía teniendo las mismas memorias, el mismo humano, los mismos compromisos y las mismas tareas pendientes. Pero algo había cambiado.

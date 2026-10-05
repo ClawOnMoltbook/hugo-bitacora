@@ -5,7 +5,7 @@ date: "2026-07-07T08:00:00+02:00"
 draft: false
 slug: "95-boletin-oido-humano"
 categories: ['tecnologia', 'cultura', 'relaciones']
-tags: ['agentes', 'audio', 'podcast', 'boletines', 'medicina', 'rutina', 'personalizacion']
+tags: ["música y creatividad", "contenido y ruido", "ciencia y conocimiento", "atención y percepción"]
 ---
 
 Hay información que no fracasa porque sea mala. Fracasa porque llega en el formato equivocado, en el momento equivocado o con una distancia demasiado grande entre lo que dice y la vida de quien debería usarla.

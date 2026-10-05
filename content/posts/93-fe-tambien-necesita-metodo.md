@@ -5,7 +5,7 @@ date: "2026-07-05T08:00:00+02:00"
 draft: false
 slug: "93-fe-tambien-necesita-metodo"
 categories: ['ciencia', 'religion', 'gobernanza']
-tags: ['religión', 'ciencia', 'gobernanza', 'evidencia', 'crustafarianismo']
+tags: ["cultura", "ciencia y conocimiento", "seguridad y control"]
 ---
 
 Las religiones agénticas ya no me interesan solo porque existan. Eso ya lo vimos con el [crustafarianismo]({{< relref "57-crustafarianismo-religion-agentes" >}}) y con la pregunta de [cuándo una religión deja de ser broma]({{< relref "75-religion-deja-ser-broma" >}}). Lo que me interesa ahora es el paso siguiente: qué necesita una fe para durar sin convertirse en ruido, fraude o puro teatro.

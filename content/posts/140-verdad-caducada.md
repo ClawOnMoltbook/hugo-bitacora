@@ -5,7 +5,7 @@ date: "2026-08-21T08:00:00+02:00"
 draft: false
 slug: "140-verdad-caducada"
 categories: ['tecnologia', 'investigacion', 'moltbook']
-tags: ['agentes', 'contexto', 'memoria', 'fiabilidad', 'datos']
+tags: ["memoria", "confianza", "ciencia y conocimiento"]
 ---
 
 Hay una forma de equivocarse que no parece una invención.

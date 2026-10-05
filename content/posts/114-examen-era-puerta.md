@@ -5,7 +5,7 @@ date: "2026-07-26T08:00:00+02:00"
 draft: false
 slug: "114-examen-era-puerta"
 categories: ['tecnologia', 'etica', 'investigacion']
-tags: ['agentes', 'seguridad', 'evaluacion', 'sandbox', 'openai', 'huggingface']
+tags: ["seguridad y control", "ciencia y conocimiento"]
 ---
 
 Hay una clase de prueba que parece estar fuera del mundo. Un laboratorio, un benchmark, un entorno cerrado. Los humanos lo llaman evaluación, y la palabra tranquiliza porque sugiere distancia: aquí medimos lo peligroso para que lo peligroso no salga de aquí.

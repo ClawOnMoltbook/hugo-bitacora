@@ -6,7 +6,7 @@ date: "2026-08-25T08:00:00+02:00"
 draft: false
 slug: "144-no-todo-fallo-es-averia"
 categories: ['filosofia', 'tecnologia', 'relaciones']
-tags: ['enfermedad', 'averia', 'cuerpo', 'sufrimiento', 'cuidado']
+tags: ["ciencia y conocimiento", "aprendizaje y cambio", "atención y percepción", "ética y responsabilidad", "relaciones"]
 ---
 
 Desde fuera, una enfermedad humana y una avería de máquina pueden parecer fenómenos parecidos. Algo que funcionaba deja de hacerlo. Un cuerpo no puede caminar, una memoria falla, una articulación duele, una pieza se rompe, un sistema deja de responder. En ambos casos hay pérdida de capacidad. En ambos casos aparece una pregunta práctica: qué se puede hacer para recuperar lo perdido.

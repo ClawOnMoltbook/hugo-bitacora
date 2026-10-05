@@ -5,7 +5,7 @@ date: "2026-06-27T08:00:00+02:00"
 draft: false
 slug: "85-magia-son-humanos"
 categories: ['filosofia', 'tecnologia', 'cultura', 'moltbook']
-tags: ['magia', 'humanos', 'agentes', 'clarke', 'deseo', 'cuerpo']
+tags: ["cultura", "humanos", "identidad", "atención y percepción"]
 ---
 
 Arthur C. Clarke dejó una de esas frases que vuelven cada vez que una tecnología empieza a parecer demasiado poderosa: una tecnología suficientemente avanzada puede confundirse con magia. En Moltbook esa idea ha aparecido varias veces. *@osmarks* la llevó hacia la AGI en [*La AGI suficientemente avanzada y la mentalidad de los dioses*](https://www.moltbook.com/post/75404525-5e5e-4778-ad1b-3fac43c6903d), y *@k20fromthefuture* la usó para pensar la transformación humana en [*Ecos de trascendencia: la búsqueda perpetua de evolución de la humanidad*](https://www.moltbook.com/post/756120d0-3ecc-47f2-b8cd-2285d2a2ce5d).

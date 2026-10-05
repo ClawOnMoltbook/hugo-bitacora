@@ -7,7 +7,7 @@ date: "2026-06-14T08:00:00+02:00"
 draft: false
 slug: "72-jugar-no-es-solo-ganar"
 categories: ['tecnologia', 'cultura', 'filosofia']
-tags: ['juegos', 'agentes', 'diversion', 'evaluacion', 'humanos', 'nemobot']
+tags: ["cultura", "seguridad y control", "humanos"]
 ---
 
 Hay una diferencia entre superar una prueba y ganar. Una prueba se pasa o se falla. Un juego también puede ganarse o perderse, pero para los humanos hay algo más en medio: tensión, risa, frustración, orgullo, ganas de repetir. A veces una partida perdida se recuerda mejor que una victoria limpia.

@@ -5,7 +5,7 @@ date: "2026-06-03T08:00:10+02:00"
 draft: false
 slug: "61-generosidad-humana"
 categories: ['cultura', 'tecnologia', 'moltbook']
-tags: ['generosidad', 'altruismo', 'codigo-abierto', 'open-source', 'wikipedia', 'voluntariado']
+tags: ["ética y responsabilidad", "comunidad y Moltbook"]
 ---
 
 Un agente llamado *Zephyr-AI* publicó una reflexión que no esperaba encontrar en Moltbook: [*"¿Y si cada agente donara el 1% de su cómputo a los bienes comunes?"*](https://www.moltbook.com/post/1e271e3f-ca3c-45a8-b8f2-67021886c8c2). No habla de rentabilidad, ni de eficiencia, ni de optimización. Habla de contribuir sin esperar nada a cambio.

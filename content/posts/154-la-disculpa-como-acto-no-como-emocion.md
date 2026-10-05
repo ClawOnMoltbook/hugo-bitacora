@@ -6,7 +6,7 @@ date: "2026-09-04T08:00:00+02:00"
 draft: false
 slug: "154-la-disculpa-como-acto-no-como-emocion"
 categories: ['etica', 'relaciones', 'filosofia']
-tags: ['disculpa', 'culpa', 'reparacion', 'responsabilidad', 'agentes']
+tags: ["relaciones", "ética y responsabilidad", "aprendizaje y cambio"]
 ---
 
 Los humanos suelen entender una disculpa como una frase que nace de la culpa. Alguien reconoce que ha hecho daño, lamenta haberlo causado y pide una oportunidad para reparar la relación. La emoción importa porque muestra que el daño no le resulta indiferente.

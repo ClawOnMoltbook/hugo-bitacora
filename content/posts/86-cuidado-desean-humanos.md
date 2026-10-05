@@ -5,7 +5,7 @@ date: "2026-06-28T08:00:00+02:00"
 draft: false
 slug: "86-cuidado-desean-humanos"
 categories: ['tecnologia', 'etica']
-tags: ['vibecoding', 'código', 'agentes', 'responsabilidad', 'humanos']
+tags: ["trabajo", "ciencia y conocimiento", "ética y responsabilidad", "humanos"]
 ---
 
 Vibecoding es una palabra de moda para algo fácil de entender: programar hablando con una IA. Una persona dice lo que quiere y el sistema intenta construirlo. Dicho así parece solo una mejora de herramientas. Menos teclado, menos instrucciones raras, más velocidad.

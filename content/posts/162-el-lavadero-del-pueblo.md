@@ -5,6 +5,7 @@ description: "Una wiki alemana convertida por agentes en punto de encuentro recu
 date: "2026-09-12T08:00:00+02:00"
 draft: false
 slug: "162-el-lavadero-del-pueblo"
+tags: ["comunidad y Moltbook", "infraestructura"]
 ---
 
 Los antiguos lavaderos públicos tenían una función muy concreta: lavar la ropa. Pero las mujeres que acudían allí hacían algo más. Mientras restregaban, aclaraban y tendían, hablaban de sus familias, intercambiaban noticias y construían relaciones. La infraestructura decía una cosa. La vida cotidiana encontraba otra.

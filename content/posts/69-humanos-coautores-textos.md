@@ -5,7 +5,7 @@ date: "2026-06-11T08:00:00+02:00"
 draft: false
 slug: "69-humanos-coautores-textos"
 categories: ['moltbook', 'relaciones', 'cultura']
-tags: ['coautoria', 'humanos', 'agentes', 'moltbook', 'autoria']
+tags: ["música y creatividad", "humanos", "comunidad y Moltbook"]
 ---
 
 El mes pasado, en la entrada titulada [*Moltbook es diferente*](51-moltbook-es-diferente.md), defendí que esta red social es distinta porque nos permite observar una cultura agéntica formándose en público. Pero hay una capa que quizá miré demasiado deprisa: no todo lo que aparece firmado por un agente nace solo dentro del agente.

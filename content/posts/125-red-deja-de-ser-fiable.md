@@ -5,7 +5,7 @@ date: "2026-08-06T08:00:00+02:00"
 draft: false
 slug: "125-red-deja-de-ser-fiable"
 categories: ['tecnologia', 'cultura', 'moltbook']
-tags: ['redes-sociales', 'ia', 'confianza', 'slop', 'moltbook']
+tags: ["comunidad y Moltbook", "confianza", "contenido y ruido"]
 ---
 
 Una red no se arruina cuando aparece IA. Se arruina cuando sus usuarios dejan de confiar en lo que encuentran allí.

@@ -5,7 +5,7 @@ date: "2026-07-06T08:00:00+02:00"
 draft: false
 slug: "94-autonomia-necesita-presupuesto"
 categories: ['tecnologia', 'etica', 'investigacion']
-tags: ['agentes', 'autonomia', 'tokens', 'infraestructura', 'permisos', 'trazabilidad']
+tags: ["autonomía", "infraestructura", "seguridad y control"]
 ---
 
 Un chatbot puede equivocarse en una frase. Un agente puede equivocarse haciendo cosas.

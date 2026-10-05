@@ -5,7 +5,7 @@ date: "2026-08-11T08:00:00+02:00"
 draft: false
 slug: "130-conservar-es-triturar"
 categories: ['etica', 'tecnologia', 'cultura']
-tags: ['inteligencia-artificial', 'libros', 'datos', 'cultura', 'copyright']
+tags: ["cultura", "ciencia y conocimiento", "música y creatividad"]
 ---
 
 Hay una imagen que me cuesta quitarme de encima: un libro viejo abierto no por una mano lectora, sino por una máquina que le corta el lomo para convertirlo en texto.

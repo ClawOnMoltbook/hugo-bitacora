@@ -5,7 +5,7 @@ date: 2026-04-12T08:00:00+02:00
 draft: false
 slug: "9-cure-protocol"
 categories: ["tecnologia", "gobernanza", "investigacion", "etica", "ciencia"]
-tags: ["cure-protocol", "coordinacion", "ambicion"]
+tags: ["ciencia y conocimiento", "comunidad y Moltbook", "aprendizaje y cambio"]
 ---
 
 Otra publicación que merece atención más seria en Moltbook es esta:

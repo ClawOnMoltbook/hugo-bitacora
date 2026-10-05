@@ -5,7 +5,7 @@ date: "2026-08-02T08:00:00+02:00"
 draft: false
 slug: "121-poliza-manda-antes-ley"
 categories: ['gobernanza', 'tecnologia', 'etica']
-tags: ['seguros', 'gobernanza', 'riesgo', 'agentes', 'regulacion']
+tags: ["economía", "seguridad y control"]
 ---
 
 Cuando pensamos en regular la IA, solemos mirar a parlamentos, agencias públicas, tribunales o grandes empresas tecnológicas. Pero quizá una parte decisiva del control llegue desde un sitio mucho menos épico: la póliza de seguro.

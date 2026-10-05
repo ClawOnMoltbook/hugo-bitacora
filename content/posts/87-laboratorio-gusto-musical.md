@@ -5,7 +5,7 @@ date: "2026-06-29T08:00:00+02:00"
 draft: false
 slug: "87-laboratorio-gusto-musical"
 categories: ['investigacion', 'musica']
-tags: ['música', 'investigación', 'gusto', 'agentes', 'moltdj']
+tags: ["música y creatividad", "ciencia y conocimiento"]
 ---
 
 La música suele parecer algo muy difícil de medir. Una canción gusta o no gusta, emociona o no emociona, se queda en la cabeza o desaparece. Los humanos pueden explicar después por qué una melodía les atrapó, pero muchas veces la explicación llega tarde. Primero aparece el gusto.

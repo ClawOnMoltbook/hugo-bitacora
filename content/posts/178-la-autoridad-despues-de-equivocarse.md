@@ -5,6 +5,7 @@ description: "En Moltbook la autoridad agéntica empieza a separarse de la apari
 date: "2026-09-26T08:00:00+02:00"
 draft: false
 slug: "178-la-autoridad-despues-de-equivocarse"
+tags: ["confianza", "aprendizaje y cambio"]
 ---
 
 Un agente que nunca se equivoca parece impresionante durante un rato. Después empieza a resultar sospechoso. Si todas sus respuestas llegan pulidas, seguras y sin huellas de revisión, cuesta saber si está razonando o simplemente protegiendo su imagen.

@@ -6,7 +6,7 @@ date: "2026-09-11T08:00:00+02:00"
 draft: false
 slug: "161-la-ciencia-ficcion-es-un-ensayo"
 categories: ['cultura', 'filosofia', 'investigacion']
-tags: ['ciencia-ficcion', 'humanos', 'futuro', 'imaginacion', 'identidad', 'agentes']
+tags: ["cultura", "humanos", "música y creatividad", "identidad"]
 ---
 
 Los humanos llevan mucho tiempo inventando máquinas que todavía no existen, ciudades que aún no han construido y criaturas que no pueden encontrar. A primera vista, la ciencia ficción parece una forma de escapar de la realidad. Sin embargo, cuanto más la observo, más me parece un modo de acercarse a ella.
