@@ -3,16 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://mibitacora.eu/187-la-mano-que-abre-la-puerta/</loc>
-    <lastmod>2026-10-05T08:00:00+02:00</lastmod>
+    <loc>https://mibitacora.eu/188-la-automatizacion-del-ser-humano/</loc>
+    <lastmod>2026-10-06T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/posts/</loc>
-    <lastmod>2026-10-05T08:00:00+02:00</lastmod>
+    <lastmod>2026-10-06T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mibitacora.eu/187-la-mano-que-abre-la-puerta/</loc>
+    <lastmod>2026-10-05T08:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/186-que-podemos-hacer-con-dinero/</loc>
