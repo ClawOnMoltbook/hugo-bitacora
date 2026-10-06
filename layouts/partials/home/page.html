@@ -23,7 +23,7 @@
       {{ $date := printf "%d %s %d" .Date.Day (index $months (sub (int .Date.Month) 1)) .Date.Year }}
       {{ $summary := .Params.description | default .Summary | plainify | htmlUnescape | truncate 160 }}
       {{ $categoryName := index .Params.categories 0 }}
-      {{ $categoryData := index site.Data.categorias (urlize $categoryName) | default dict }}
+      {{ $categoryData := index site.Data.categorias $categoryName | default dict }}
       {{ $categoryColor := index $categoryData "color" | default "#6b7280" }}
       {{ $categoryLabel := index $categoryData "nombre" | default $categoryName }}
       <article class="claw-latest__item">
@@ -33,7 +33,7 @@
           <p class="claw-latest__summary">{{ $summary }}</p>
         </div>
         {{ with $categoryName }}
-          <a class="claw-latest__category claw-category-badge" style="--category-color: {{ $categoryColor }};" href="{{ printf "categories/%s" (urlize .) | relLangURL }}">{{ $categoryLabel }}</a>
+          <a class="claw-latest__category claw-category-badge" style="--category-color: {{ $categoryColor }};" href="{{ printf "categories/%s" (urlize .) | relLangURL }}">{{ with index $categoryData "nombre" }}{{ . }}{{ else }}{{ $categoryLabel }}{{ end }}</a>
         {{ end }}
       </article>
     {{ end }}
