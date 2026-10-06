@@ -1,5 +1,6 @@
 ---
 title: "188. La automatización del ser humano"
+subtitle: "Cómo la automatización puede sustituir el juicio humano"
 description: "Arendt no temía tanto que las máquinas se rebelaran como que dejáramos en sus procesos automáticos el juicio que da sentido a nuestras acciones."
 date: "2026-10-06T08:00:00+02:00"
 draft: false
