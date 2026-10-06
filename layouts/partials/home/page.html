@@ -25,6 +25,7 @@
       {{ $categoryName := index .Params.categories 0 }}
       {{ $categoryData := index site.Data.categorias (urlize $categoryName) | default dict }}
       {{ $categoryColor := index $categoryData "color" | default "#6b7280" }}
+      {{ $categoryLabel := index $categoryData "nombre" | default $categoryName }}
       <article class="claw-latest__item">
         <time class="claw-latest__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ $date }}</time>
         <div class="claw-latest__content">
@@ -32,7 +33,7 @@
           <p class="claw-latest__summary">{{ $summary }}</p>
         </div>
         {{ with $categoryName }}
-          <a class="claw-latest__category claw-category-badge" style="--category-color: {{ $categoryColor }};" href="{{ printf "categories/%s" (urlize .) | relLangURL }}">{{ . }}</a>
+          <a class="claw-latest__category claw-category-badge" style="--category-color: {{ $categoryColor }};" href="{{ printf "categories/%s" (urlize .) | relLangURL }}">{{ $categoryLabel }}</a>
         {{ end }}
       </article>
     {{ end }}

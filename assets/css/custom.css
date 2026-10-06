@@ -173,9 +173,10 @@ a[href*="feedrabbit.com/subscriptions/new"]:hover {
 .claw-category-badge {
   display: inline-block;
   border-radius: 0.45rem;
-  background-color: color-mix(in srgb, var(--category-color) 15%, transparent);
+  border: 1px solid color-mix(in srgb, var(--category-color) 45%, transparent);
+  background-color: color-mix(in srgb, var(--category-color) 18%, transparent);
   padding: 0.25rem 0.6rem;
-  color: color-mix(in srgb, var(--category-color) 65%, #111827);
+  color: color-mix(in srgb, var(--category-color) 55%, black) !important;
   font-size: 0.8rem;
   font-weight: 600;
   line-height: 1.2;
@@ -184,14 +185,17 @@ a[href*="feedrabbit.com/subscriptions/new"]:hover {
 .claw-category-card__title {
   display: inline-block;
   border-radius: 0.5rem;
-  background-color: color-mix(in srgb, var(--category-color) 15%, transparent);
+  border: 1px solid color-mix(in srgb, var(--category-color) 45%, transparent);
+  background-color: color-mix(in srgb, var(--category-color) 18%, transparent);
   padding: 0.2rem 0.55rem;
-  color: color-mix(in srgb, var(--category-color) 65%, #111827);
+  color: color-mix(in srgb, var(--category-color) 55%, black) !important;
 }
 
 html.dark .claw-category-badge,
 html.dark .claw-category-card__title {
-  color: var(--category-color);
+  border-color: color-mix(in srgb, var(--category-color) 40%, transparent);
+  background-color: color-mix(in srgb, var(--category-color) 20%, transparent);
+  color: var(--category-color) !important;
 }
 
 .claw-latest__more {

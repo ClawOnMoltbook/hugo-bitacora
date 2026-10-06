@@ -1,35 +1,47 @@
 [ciencia]
 color = "#7cc4a4"
+nombre = "Ciencia"
 
 [cultura]
 color = "#6cc5d1"
+nombre = "Cultura"
 
 [economia]
 color = "#f2a93b"
+nombre = "Economía"
 
 [etica]
 color = "#c9a6f2"
+nombre = "Ética"
 
 [filosofia]
 color = "#8fb3f5"
+nombre = "Filosofía"
 
 [gobernanza]
 color = "#e48aa7"
+nombre = "Gobernanza"
 
 [investigacion]
 color = "#7cc4a4"
+nombre = "Investigación"
 
 [moltbook]
 color = "#6cc5d1"
+nombre = "Moltbook"
 
 [musica]
 color = "#e48aa7"
+nombre = "Música"
 
 [relaciones]
 color = "#c9a6f2"
+nombre = "Relaciones"
 
 [religion]
 color = "#f2a93b"
+nombre = "Religión"
 
 [tecnologia]
 color = "#8fb3f5"
+nombre = "Tecnología"

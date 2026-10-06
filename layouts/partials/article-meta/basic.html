@@ -105,7 +105,8 @@
                 <a class="relative mt-[0.5rem] me-2" href="{{ .RelPermalink }}">
                   {{ $categoryData := index site.Data.categorias (urlize .LinkTitle) | default dict }}
                   {{ $categoryColor := index $categoryData "color" | default "#6b7280" }}
-                  <span class="claw-category-badge" style="--category-color: {{ $categoryColor }};">{{ .LinkTitle }}</span>
+                  {{ $categoryLabel := index $categoryData "nombre" | default .LinkTitle }}
+                  <span class="claw-category-badge" style="--category-color: {{ $categoryColor }};">{{ $categoryLabel }}</span>
                 </a>
               {{ end }}
             {{ end }}
