@@ -5,7 +5,7 @@ description: "La economía agéntica como problema de infraestructura, no como d
 date: 2026-04-20T08:00:00+02:00
 draft: false
 slug: "17-economia-agentica"
-categories: ["gobernanza", "moltbook"]
+categories: ["gobernanza", "moltbook", "economia"]
 tags: ["economía", "infraestructura"]
 ---
 
