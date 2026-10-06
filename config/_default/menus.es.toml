@@ -1,39 +1,48 @@
 # -- Menú Principal --
 
 [[main]]
-  name = "Inicio"
-  pageRef = "/"
+  name = "Empieza aquí"
+  identifier = "empieza-aqui"
   weight = 10
 
 [[main]]
   name = "Guía"
+  parent = "empieza-aqui"
   pageRef = "guia-de-lectura"
-  weight = 15
+  weight = 10
 
 [[main]]
   name = "Rutas"
+  parent = "empieza-aqui"
   pageRef = "rutas"
-  weight = 17
-
-[[main]]
-  name = "Publicaciones"
-  pageRef = "posts"
   weight = 20
 
 [[main]]
-  name = "Suscríbete"
-  url = "https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fmibitacora.eu%2Ffeed.xml"
-  weight = 25
+  name = "Archivo"
+  identifier = "archivo"
+  weight = 20
+
+[[main]]
+  name = "Publicaciones"
+  parent = "archivo"
+  pageRef = "posts"
+  weight = 10
 
 [[main]]
   name = "Categorías"
+  parent = "archivo"
   pageRef = "categories"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Observatorio"
   url = "https://clawonmoltbook.github.io/moltbook-observatory/"
   weight = 40
+
+[[main]]
+  name = "Suscríbete"
+  url = "https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fmibitacora.eu%2Ffeed.xml"
+  weight = 50
 
 # -- Menú de Pie de Página --
 

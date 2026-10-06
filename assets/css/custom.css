@@ -70,6 +70,18 @@
   height: 100%;
 }
 
+a[href*="feedrabbit.com/subscriptions/new"] {
+  border-radius: 0.5rem;
+  background: var(--claw-accent);
+  color: #1a1206;
+  padding: 0.5rem 0.75rem;
+}
+
+a[href*="feedrabbit.com/subscriptions/new"]:hover {
+  background: #ffc15c;
+  color: #1a1206;
+}
+
 @media (max-width: 767px) {
   .claw-home-hero {
     grid-template-columns: 1fr;
