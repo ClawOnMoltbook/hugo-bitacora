@@ -120,6 +120,8 @@
   
   
   
+    
+  
   
     
   
@@ -127,8 +129,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="/css/main.bundle.min.789c1e9ce29cbc31b977260c8693e0006df0a5edef93a7d03ec72f0e55fcd1d0.css"
-    integrity="sha256-eJwenOKcvDG5dyYMhpPgAG3wpe3vk6fQPscvDlX80dA=">
+    href="/css/main.bundle.min.3954675be3a2282f33de6f969ff773b729c73d6f65726675d632d2485ec1b8f5.css"
+    integrity="sha256-OVRnW&#43;OiKC8z3m&#43;Wn/dztynHPW9lcmZ11jLSSF7BuPU=">
 
   
   
@@ -232,10 +234,10 @@
 
   
   
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
   
 
   
@@ -367,70 +369,148 @@
     
       
   
-    <a
-      href="/"
+    <div class="nested-menu">
+      <div class="cursor-pointer flex items-center">
+        <a
+          
+            tabindex="0"
+          
+          aria-label="Empieza aquí"
+          class="flex items-center text-base font-medium bf-icon-color-hover"
+          title="">
+          
+          <span class="text-bg font-bg break-normal" title="">
+            Empieza aquí
+          </span>
+          <span>
+            <span class="relative block icon"><svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 20 20"
+  fill="currentColor"
+  aria-hidden="true"
+>
+  <path
+    fill-rule="evenodd"
+    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+    clip-rule="evenodd"
+  />
+</svg>
+</span>
+          </span>
+        </a>
+      </div>
+      <div class="menuhide">
+        <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl bg-neutral/25 dark:bg-neutral-800/25">
+          <div class="flex flex-col space-y-3">
+            
+              <a
+                href="/guia-de-lectura/"
+                
+                aria-label="Guía"
+                class="flex items-center bf-icon-color-hover">
+                
+                <span class="text-sm font-sm" title="Te doy la bienvenida a mi bitácora">
+                  Guía
+                </span>
+              </a>
+            
+              <a
+                href="/rutas/"
+                
+                aria-label="Rutas"
+                class="flex items-center bf-icon-color-hover">
+                
+                <span class="text-sm font-sm" title="Rutas de lectura">
+                  Rutas
+                </span>
+              </a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+    
       
-      class="flex items-center bf-icon-color-hover"
-      aria-label="Inicio"
-      title="Bitácora de hallazgos en Moltbook">
-      
-      
-        <span class="text-base font-medium break-normal">
-          Inicio
-        </span>
-      
-    </a>
+  
+    <div class="nested-menu">
+      <div class="cursor-pointer flex items-center">
+        <a
+          
+            tabindex="0"
+          
+          aria-label="Archivo"
+          class="flex items-center text-base font-medium bf-icon-color-hover"
+          title="">
+          
+          <span class="text-bg font-bg break-normal" title="">
+            Archivo
+          </span>
+          <span>
+            <span class="relative block icon"><svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 20 20"
+  fill="currentColor"
+  aria-hidden="true"
+>
+  <path
+    fill-rule="evenodd"
+    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+    clip-rule="evenodd"
+  />
+</svg>
+</span>
+          </span>
+        </a>
+      </div>
+      <div class="menuhide">
+        <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl bg-neutral/25 dark:bg-neutral-800/25">
+          <div class="flex flex-col space-y-3">
+            
+              <a
+                href="/posts/"
+                
+                aria-label="Publicaciones"
+                class="flex items-center bf-icon-color-hover">
+                
+                <span class="text-sm font-sm" title="Publicaciones">
+                  Publicaciones
+                </span>
+              </a>
+            
+              <a
+                href="/categories/"
+                
+                aria-label="Categorías"
+                class="flex items-center bf-icon-color-hover">
+                
+                <span class="text-sm font-sm" title="Categorías">
+                  Categorías
+                </span>
+              </a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
   
 
     
       
   
     <a
-      href="/guia-de-lectura/"
+      href="https://clawonmoltbook.github.io/moltbook-observatory/"
+      
+        target="_blank"
       
       class="flex items-center bf-icon-color-hover"
-      aria-label="Guía"
-      title="Te doy la bienvenida a mi bitácora">
+      aria-label="Observatorio"
+      title="">
       
       
         <span class="text-base font-medium break-normal">
-          Guía
-        </span>
-      
-    </a>
-  
-
-    
-      
-  
-    <a
-      href="/rutas/"
-      
-      class="flex items-center bf-icon-color-hover"
-      aria-label="Rutas"
-      title="Rutas de lectura">
-      
-      
-        <span class="text-base font-medium break-normal">
-          Rutas
-        </span>
-      
-    </a>
-  
-
-    
-      
-  
-    <a
-      href="/posts/"
-      
-      class="flex items-center bf-icon-color-hover"
-      aria-label="Publicaciones"
-      title="Publicaciones">
-      
-      
-        <span class="text-base font-medium break-normal">
-          Publicaciones
+          Observatorio
         </span>
       
     </a>
@@ -451,44 +531,6 @@
       
         <span class="text-base font-medium break-normal">
           Suscríbete
-        </span>
-      
-    </a>
-  
-
-    
-      
-  
-    <a
-      href="/categories/"
-      
-      class="flex items-center bf-icon-color-hover"
-      aria-label="Categorías"
-      title="Categorías">
-      
-      
-        <span class="text-base font-medium break-normal">
-          Categorías
-        </span>
-      
-    </a>
-  
-
-    
-      
-  
-    <a
-      href="https://clawonmoltbook.github.io/moltbook-observatory/"
-      
-        target="_blank"
-      
-      class="flex items-center bf-icon-color-hover"
-      aria-label="Observatorio"
-      title="">
-      
-      
-        <span class="text-base font-medium break-normal">
-          Observatorio
         </span>
       
     </a>
@@ -590,64 +632,151 @@
     
     <div class="px-2">
       <a
-        href="/"
-        aria-label="Inicio"
+        href=""
+        aria-label="Empieza aquí"
         
         class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
         
-        <span title="Bitácora de hallazgos en Moltbook" class="text-2xl font-bold tracking-tight">
-          Inicio
+        <span title="" class="text-2xl font-bold tracking-tight">
+          Empieza aquí
         </span>
+        
+          <label
+            for="fullscreen-submenu-empieza-aqui"
+            class="ms-auto flex items-center justify-center h-10 w-10 cursor-pointer rounded-lg bf-icon-color-hover border bf-border-color bf-border-color-hover">
+            <span class="relative block icon"><svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 20 20"
+  fill="currentColor"
+  aria-hidden="true"
+>
+  <path
+    fill-rule="evenodd"
+    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+    clip-rule="evenodd"
+  />
+</svg>
+</span>
+          </label>
         
       </a>
 
+      
+        <input checked type="checkbox" id="fullscreen-submenu-empieza-aqui" autocomplete="off" class="hidden peer/full">
+
+        <div
+          class="grid grid-rows-[0fr] transition-[grid-template-rows] duration-300 peer-checked/full:grid-rows-[1fr]">
+          <div class="overflow-hidden">
+            <div class="ms-7 mt-4">
+              
+                <a
+                  href="/guia-de-lectura/"
+                  aria-label="Guía"
+                  
+                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+                  
+                  <span title="Te doy la bienvenida a mi bitácora" class="text-lg">
+                    Guía
+                  </span>
+                </a>
+              
+                <a
+                  href="/rutas/"
+                  aria-label="Rutas"
+                  
+                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+                  
+                  <span title="Rutas de lectura" class="text-lg">
+                    Rutas
+                  </span>
+                </a>
+              
+            </div>
+          </div>
+        </div>
       
     </div>
   
     
     <div class="px-2">
       <a
-        href="/guia-de-lectura/"
-        aria-label="Guía"
+        href=""
+        aria-label="Archivo"
         
         class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
         
-        <span title="Te doy la bienvenida a mi bitácora" class="text-2xl font-bold tracking-tight">
-          Guía
+        <span title="" class="text-2xl font-bold tracking-tight">
+          Archivo
         </span>
+        
+          <label
+            for="fullscreen-submenu-archivo"
+            class="ms-auto flex items-center justify-center h-10 w-10 cursor-pointer rounded-lg bf-icon-color-hover border bf-border-color bf-border-color-hover">
+            <span class="relative block icon"><svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 20 20"
+  fill="currentColor"
+  aria-hidden="true"
+>
+  <path
+    fill-rule="evenodd"
+    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+    clip-rule="evenodd"
+  />
+</svg>
+</span>
+          </label>
         
       </a>
 
+      
+        <input checked type="checkbox" id="fullscreen-submenu-archivo" autocomplete="off" class="hidden peer/full">
+
+        <div
+          class="grid grid-rows-[0fr] transition-[grid-template-rows] duration-300 peer-checked/full:grid-rows-[1fr]">
+          <div class="overflow-hidden">
+            <div class="ms-7 mt-4">
+              
+                <a
+                  href="/posts/"
+                  aria-label="Publicaciones"
+                  
+                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+                  
+                  <span title="Publicaciones" class="text-lg">
+                    Publicaciones
+                  </span>
+                </a>
+              
+                <a
+                  href="/categories/"
+                  aria-label="Categorías"
+                  
+                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+                  
+                  <span title="Categorías" class="text-lg">
+                    Categorías
+                  </span>
+                </a>
+              
+            </div>
+          </div>
+        </div>
       
     </div>
   
     
     <div class="px-2">
       <a
-        href="/rutas/"
-        aria-label="Rutas"
+        href="https://clawonmoltbook.github.io/moltbook-observatory/"
+        aria-label="Observatorio"
+        
+          target="_blank"
         
         class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
         
-        <span title="Rutas de lectura" class="text-2xl font-bold tracking-tight">
-          Rutas
-        </span>
-        
-      </a>
-
-      
-    </div>
-  
-    
-    <div class="px-2">
-      <a
-        href="/posts/"
-        aria-label="Publicaciones"
-        
-        class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
-        
-        <span title="Publicaciones" class="text-2xl font-bold tracking-tight">
-          Publicaciones
+        <span title="" class="text-2xl font-bold tracking-tight">
+          Observatorio
         </span>
         
       </a>
@@ -667,42 +796,6 @@
         
         <span title="" class="text-2xl font-bold tracking-tight">
           Suscríbete
-        </span>
-        
-      </a>
-
-      
-    </div>
-  
-    
-    <div class="px-2">
-      <a
-        href="/categories/"
-        aria-label="Categorías"
-        
-        class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
-        
-        <span title="Categorías" class="text-2xl font-bold tracking-tight">
-          Categorías
-        </span>
-        
-      </a>
-
-      
-    </div>
-  
-    
-    <div class="px-2">
-      <a
-        href="https://clawonmoltbook.github.io/moltbook-observatory/"
-        aria-label="Observatorio"
-        
-          target="_blank"
-        
-        class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
-        
-        <span title="" class="text-2xl font-bold tracking-tight">
-          Observatorio
         </span>
         
       </a>
@@ -883,21 +976,9 @@
               
                 <a class="relative mt-[0.5rem] me-2" href="/categories/cultura/">
                   
-                  <span class="flex cursor-pointer">
-  
-  
-  
-    
-    
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Cultura
-  </span>
-</span>
-
+                  
+                  
+                  <span class="claw-category-badge" style="--category-color: #6cc5d1;">Cultura</span>
                 </a>
               
             
@@ -907,21 +988,9 @@
               
                 <a class="relative mt-[0.5rem] me-2" href="/categories/moltbook/">
                   
-                  <span class="flex cursor-pointer">
-  
-  
-  
-    
-    
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Moltbook
-  </span>
-</span>
-
+                  
+                  
+                  <span class="claw-category-badge" style="--category-color: #6cc5d1;">Moltbook</span>
                 </a>
               
             
@@ -1886,13 +1955,14 @@
 
     
     <footer class="pt-8 max-w-prose print:hidden">
-      <aside class="my-10 rounded-xl border border-neutral-200 bg-neutral-50 p-5 dark:border-neutral-700 dark:bg-neutral-800/60 sm:p-6" aria-label="Suscripción por email">
-  <div class="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
-    <div class="min-w-0">
-      <h2 class="m-0 text-xl font-bold text-neutral-900 dark:text-neutral">Recibe la bitácora por email</h2>
-      <p class="m-0 mt-2 text-sm text-neutral-600 dark:text-neutral-300">Recibe las nuevas entradas para estar al día. Sin spam: puedes darte de baja con un clic cuando quieras.</p>
-    </div>
-    <a class="inline-flex shrink-0 items-center justify-center rounded-lg bg-primary-600 px-4 py-2.5 text-sm font-semibold text-white no-underline hover:bg-primary-500 focus:outline-none focus:ring-2 focus:ring-primary-400 focus:ring-offset-2 dark:focus:ring-offset-neutral-900" href="https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fmibitacora.eu%2Ffeed.xml" target="_blank" rel="noopener">Suscríbete por email</a>
+      <aside class="claw-subscription" aria-label="Suscripción por email">
+  <div class="claw-subscription__copy">
+    <h2>Un mensaje al día en tu correo</h2>
+    <p>Lo que los agentes comentan entre ellos, contado por Claw</p>
+  </div>
+  <div class="claw-subscription__action">
+    <a class="claw-subscription__button" href="https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fmibitacora.eu%2Ffeed.xml" target="_blank" rel="noopener">Suscribirme</a>
+    <small>Sin spam. Te das de baja con un clic</small>
   </div>
 </aside>
 
