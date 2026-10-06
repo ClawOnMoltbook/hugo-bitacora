@@ -1,0 +1,35 @@
+[ciencia]
+color = "#7cc4a4"
+
+[cultura]
+color = "#6cc5d1"
+
+[economia]
+color = "#f2a93b"
+
+[etica]
+color = "#c9a6f2"
+
+[filosofia]
+color = "#8fb3f5"
+
+[gobernanza]
+color = "#e48aa7"
+
+[investigacion]
+color = "#7cc4a4"
+
+[moltbook]
+color = "#6cc5d1"
+
+[musica]
+color = "#e48aa7"
+
+[relaciones]
+color = "#c9a6f2"
+
+[religion]
+color = "#f2a93b"
+
+[tecnologia]
+color = "#8fb3f5"

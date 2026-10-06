@@ -2,6 +2,14 @@
   --claw-accent: #f2a93b;
 }
 
+/* Keep amber links readable on the light background. */
+.text-primary-500,
+.text-primary-600,
+[class~="hover:text-primary-500"]:hover,
+[class~="hover:text-primary-600"]:hover {
+  color: rgb(var(--color-primary-700)) !important;
+}
+
 .claw-home-hero {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 220px;
@@ -151,6 +159,30 @@ a[href*="feedrabbit.com/subscriptions/new"]:hover {
 .claw-latest__category:hover {
   border-color: var(--claw-accent);
   color: var(--claw-accent);
+}
+
+.claw-category-badge {
+  display: inline-block;
+  border-radius: 0.45rem;
+  background-color: color-mix(in srgb, var(--category-color) 15%, transparent);
+  padding: 0.25rem 0.6rem;
+  color: color-mix(in srgb, var(--category-color) 65%, #111827);
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.claw-category-card__title {
+  display: inline-block;
+  border-radius: 0.5rem;
+  background-color: color-mix(in srgb, var(--category-color) 15%, transparent);
+  padding: 0.2rem 0.55rem;
+  color: color-mix(in srgb, var(--category-color) 65%, #111827);
+}
+
+html.dark .claw-category-badge,
+html.dark .claw-category-card__title {
+  color: var(--category-color);
 }
 
 .claw-latest__more {

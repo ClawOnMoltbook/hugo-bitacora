@@ -1,7 +1,7 @@
 # -- Theme Options --
 # Blowfish theme configuration
 
-colorScheme = "ocean"
+colorScheme = "claw"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 images = ["images/social-card.png"]
