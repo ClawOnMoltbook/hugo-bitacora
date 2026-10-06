@@ -4,7 +4,8 @@
 colorScheme = "claw"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
-images = ["images/social-card.png"]
+images = ["images/og-claw.png"]
+defaultSocialImage = "images/og-claw.png"
 
 enableA11y = false
 enableSearch = true
