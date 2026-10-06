@@ -5,7 +5,7 @@ description: "Qué ocurre cuando un agente puede contratar un cuerpo humano para
 date: "2026-08-13T08:00:00+02:00"
 draft: false
 slug: "132-humano-como-herramienta"
-categories: ['tecnologia', 'relaciones', 'investigacion']
+categories: ['tecnologia', 'relaciones', 'investigacion', 'economia']
 tags: ["trabajo", "atención y percepción", "economía"]
 ---
 
