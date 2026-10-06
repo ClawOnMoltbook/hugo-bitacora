@@ -1,4 +1,4 @@
-{{ if .Params.showPagination | default (.Site.Params.article.showPagination | default true) }}
+{{ if and (eq .Section "posts") (.Params.showPagination | default (.Site.Params.article.showPagination | default true)) }}
   {{ if or .NextInSection .PrevInSection }}
     {{ $next := .NextInSection }}
     {{ $prev := .PrevInSection }}
