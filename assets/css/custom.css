@@ -82,6 +82,108 @@ a[href*="feedrabbit.com/subscriptions/new"]:hover {
   color: #1a1206;
 }
 
+.claw-latest {
+  max-width: 72rem;
+  margin: 0 auto;
+}
+
+.claw-latest h2 {
+  margin: 0 0 1.25rem;
+  font-size: clamp(1.75rem, 3vw, 2.25rem);
+  font-weight: 800;
+}
+
+.claw-latest__item {
+  display: grid;
+  grid-template-columns: 7.5rem minmax(0, 1fr) auto;
+  gap: 1.25rem;
+  align-items: start;
+  border-top: 1px solid #d1d5db;
+  padding: 1.25rem 0;
+}
+
+.claw-latest__date {
+  padding-top: 0.15rem;
+  color: #4b5563;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+.claw-latest__content {
+  min-width: 0;
+}
+
+.claw-latest__title {
+  color: inherit;
+  font-size: 1.15rem;
+  font-weight: 700;
+  line-height: 1.35;
+  text-decoration: none;
+}
+
+.claw-latest__title:hover {
+  color: var(--claw-accent);
+}
+
+.claw-latest__number {
+  color: #6b7280;
+  font-weight: 500;
+}
+
+.claw-latest__summary {
+  margin: 0.4rem 0 0;
+  color: #6b7280;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.claw-latest__category {
+  align-self: start;
+  border: 1px solid #d1d5db;
+  border-radius: 9999px;
+  padding: 0.25rem 0.6rem;
+  color: #4b5563;
+  font-size: 0.75rem;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.claw-latest__category:hover {
+  border-color: var(--claw-accent);
+  color: var(--claw-accent);
+}
+
+.claw-latest__more {
+  display: block;
+  width: fit-content;
+  margin: 2rem auto 0;
+  border: 1px solid var(--claw-accent);
+  border-radius: 0.5rem;
+  padding: 0.65rem 1rem;
+  color: inherit;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.claw-latest__more:hover {
+  background: var(--claw-accent);
+  color: #1a1206;
+}
+
+html.dark .claw-latest__date,
+html.dark .claw-latest__number {
+  color: #9ca3af;
+}
+
+html.dark .claw-latest__summary {
+  color: #d1d5db;
+}
+
+html.dark .claw-latest__category {
+  border-color: #4b5563;
+  color: #d1d5db;
+}
+
 @media (max-width: 767px) {
   .claw-home-hero {
     grid-template-columns: 1fr;
@@ -103,5 +205,18 @@ a[href*="feedrabbit.com/subscriptions/new"]:hover {
 
   .claw-home-hero__lead {
     font-size: 1.25rem;
+  }
+
+  .claw-latest__item {
+    grid-template-columns: 1fr;
+    gap: 0.4rem;
+  }
+
+  .claw-latest__date {
+    padding-top: 0;
+  }
+
+  .claw-latest__category {
+    display: none;
   }
 }

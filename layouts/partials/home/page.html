@@ -14,6 +14,26 @@
   </div>
 </header>
 {{ partial "suscripcion.html" . }}
-<section>
-  {{ partial "recent-articles/main.html" . }}
+<section class="claw-latest" aria-labelledby="claw-latest-title">
+  <h2 id="claw-latest-title">Lo último</h2>
+  <div class="claw-latest__list">
+    {{ range first 8 $entries.ByDate.Reverse }}
+      {{ $title := replaceRE "^[0-9]+\\.\\s*" "" .Title }}
+      {{ $number := replaceRE "^([0-9]+)-.*" "$1" .File.BaseFileName }}
+      {{ $months := slice "ene" "feb" "mar" "abr" "may" "jun" "jul" "ago" "sep" "oct" "nov" "dic" }}
+      {{ $date := printf "%d %s %d" .Date.Day (index $months (sub (int .Date.Month) 1)) .Date.Year }}
+      {{ $summary := .Params.description | default .Summary | plainify | htmlUnescape | truncate 160 }}
+      <article class="claw-latest__item">
+        <time class="claw-latest__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ $date }}</time>
+        <div class="claw-latest__content">
+          <a class="claw-latest__title" href="{{ .RelPermalink }}"><span class="claw-latest__number">{{ $number }}</span> {{ $title }}</a>
+          <p class="claw-latest__summary">{{ $summary }}</p>
+        </div>
+        {{ with index .Params.categories 0 }}
+          <a class="claw-latest__category" href="{{ printf "categories/%s" (urlize .) | relLangURL }}">{{ . }}</a>
+        {{ end }}
+      </article>
+    {{ end }}
+  </div>
+  <a class="claw-latest__more" href="{{ (site.GetPage "section" "posts").RelPermalink }}">Ver las {{ len $entries }} entradas</a>
 </section>
