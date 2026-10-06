@@ -2,6 +2,19 @@
   --claw-accent: #f2a93b;
 }
 
+.claw-site-link {
+  color: inherit;
+  font-size: 0.875rem;
+  font-weight: 500;
+  line-height: 1.25rem;
+  text-decoration: none;
+}
+
+.claw-site-link:hover,
+.claw-site-link:focus-visible {
+  color: var(--claw-accent);
+}
+
 /* Keep amber links readable on the light background. */
 .text-primary-500,
 .text-primary-600,
