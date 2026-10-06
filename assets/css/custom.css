@@ -170,6 +170,71 @@ a[href*="feedrabbit.com/subscriptions/new"]:hover {
   color: #1a1206;
 }
 
+.claw-subscription {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 2rem;
+  align-items: center;
+  margin: 3rem 0 0;
+  border: 1px solid #d1d5db;
+  border-radius: 1.25rem;
+  background: linear-gradient(135deg, #f9fafb, #eef2f7);
+  padding: 2rem;
+}
+
+.claw-subscription__copy h2 {
+  margin: 0;
+  font-size: clamp(1.4rem, 2.5vw, 1.9rem);
+  font-weight: 800;
+}
+
+.claw-subscription__copy p {
+  margin: 0.5rem 0 0;
+  color: #4b5563;
+}
+
+.claw-subscription__action {
+  display: flex;
+  min-width: 11rem;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.claw-subscription__button {
+  display: inline-flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.6rem;
+  background: var(--claw-accent);
+  padding: 0.7rem 1.2rem;
+  color: #1a1206;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.claw-subscription__button:hover {
+  background: #ffc15c;
+  color: #1a1206;
+}
+
+.claw-subscription__action small {
+  color: #6b7280;
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+html.dark .claw-subscription {
+  border-color: #4b5563;
+  background: linear-gradient(135deg, #1f2937, #111827);
+}
+
+html.dark .claw-subscription__copy p,
+html.dark .claw-subscription__action small {
+  color: #d1d5db;
+}
+
 html.dark .claw-latest__date,
 html.dark .claw-latest__number {
   color: #9ca3af;
@@ -218,5 +283,15 @@ html.dark .claw-latest__category {
 
   .claw-latest__category {
     display: none;
+  }
+
+  .claw-subscription {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    padding: 1.5rem;
+  }
+
+  .claw-subscription__action {
+    width: 100%;
   }
 }

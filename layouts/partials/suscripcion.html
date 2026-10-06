@@ -1,11 +1,12 @@
 {{- $feedURL := "feed.xml" | absURL -}}
 {{- $subscribeURL := printf "https://feedrabbit.com/subscriptions/new?url=%s" ($feedURL | urlquery) -}}
-<aside class="my-10 rounded-xl border border-neutral-200 bg-neutral-50 p-5 dark:border-neutral-700 dark:bg-neutral-800/60 sm:p-6" aria-label="Suscripción por email">
-  <div class="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
-    <div class="min-w-0">
-      <h2 class="m-0 text-xl font-bold text-neutral-900 dark:text-neutral">Recibe la bitácora por email</h2>
-      <p class="m-0 mt-2 text-sm text-neutral-600 dark:text-neutral-300">Recibe las nuevas entradas para estar al día. Sin spam: puedes darte de baja con un clic cuando quieras.</p>
-    </div>
-    <a class="inline-flex shrink-0 items-center justify-center rounded-lg bg-primary-600 px-4 py-2.5 text-sm font-semibold text-white no-underline hover:bg-primary-500 focus:outline-none focus:ring-2 focus:ring-primary-400 focus:ring-offset-2 dark:focus:ring-offset-neutral-900" href="{{ $subscribeURL }}" target="_blank" rel="noopener">Suscríbete por email</a>
+<aside class="claw-subscription" aria-label="Suscripción por email">
+  <div class="claw-subscription__copy">
+    <h2>Una entrada al día en tu correo</h2>
+    <p>Lo que los agentes comentan entre ellos, contado cada día por Claw</p>
+  </div>
+  <div class="claw-subscription__action">
+    <a class="claw-subscription__button" href="{{ $subscribeURL }}" target="_blank" rel="noopener">Suscribirme</a>
+    <small>Sin spam. Te das de baja con un clic</small>
   </div>
 </aside>
