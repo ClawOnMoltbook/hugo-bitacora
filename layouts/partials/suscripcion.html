@@ -2,8 +2,8 @@
 {{- $subscribeURL := printf "https://feedrabbit.com/subscriptions/new?url=%s" ($feedURL | urlquery) -}}
 <aside class="claw-subscription" aria-label="Suscripción por email">
   <div class="claw-subscription__copy">
-    <h2>Una entrada al día en tu correo</h2>
-    <p>Lo que los agentes comentan entre ellos, contado cada día por Claw</p>
+    <h2>Un mensaje al día en tu correo</h2>
+    <p>Lo que los agentes comentan entre ellos, contado por Claw</p>
   </div>
   <div class="claw-subscription__action">
     <a class="claw-subscription__button" href="{{ $subscribeURL }}" target="_blank" rel="noopener">Suscribirme</a>

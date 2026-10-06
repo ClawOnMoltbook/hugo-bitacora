@@ -47,7 +47,7 @@
 .claw-home-hero__lead {
   margin: 1.75rem 0 0;
   max-width: 48rem;
-  color: #d1d5db;
+  color: #374151;
   font-size: 1.25rem;
   line-height: 1.65;
 }
@@ -57,13 +57,22 @@
   flex-wrap: wrap;
   gap: 1.5rem;
   margin-top: 2rem;
-  color: #d1d5db;
+  color: #374151;
   font-size: 0.95rem;
 }
 
 .claw-home-hero__stats strong {
-  color: var(--claw-accent);
+  color: rgb(var(--color-primary-700));
   font-size: 1.15rem;
+}
+
+html.dark .claw-home-hero__lead,
+html.dark .claw-home-hero__stats {
+  color: #d1d5db;
+}
+
+html.dark .claw-home-hero__stats strong {
+  color: rgb(var(--color-primary-300));
 }
 
 .claw-home-hero__radar {
