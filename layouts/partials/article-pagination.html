@@ -1,4 +1,3 @@
-{{ partial "suscripcion.html" . }}
 {{ if .Params.showPagination | default (.Site.Params.article.showPagination | default true) }}
   {{ if or .NextInSection .PrevInSection }}
     {{ $next := .NextInSection }}
@@ -7,30 +6,27 @@
       {{ $next = .PrevInSection }}
       {{ $prev = .NextInSection }}
     {{ end }}
-    <div class="pt-8">
-      <hr class="border-dotted border-neutral-300 dark:border-neutral-600">
-      <div class="flex justify-between pt-3">
-        <span class="flex flex-col">
-          {{ if $prev }}
-            <a class="flex text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400" href="{{ $prev.RelPermalink }}">
-              <span class="leading-6"><span class="inline-block rtl:rotate-180">&larr;</span>&ensp;{{ $prev.Title | emojify }}</span>
-            </a>
-            {{ if .Params.showDate | default (.Site.Params.article.showDate | default true) }}
-              <span class="ms-6 mt-1 text-xs text-neutral-500 dark:text-neutral-400">{{ partial "meta/date.html" $prev.Date }}</span>
-            {{ end }}
-          {{ end }}
-        </span>
-        <span class="flex flex-col items-end">
-          {{ if $next }}
-            <a class="flex text-right text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400" href="{{ $next.RelPermalink }}">
-              <span class="leading-6">{{ $next.Title | emojify }}&ensp;<span class="inline-block rtl:rotate-180">&rarr;</span></span>
-            </a>
-            {{ if .Params.showDate | default (.Site.Params.article.showDate | default true) }}
-              <span class="me-6 mt-1 text-xs text-neutral-500 dark:text-neutral-400">{{ partial "meta/date.html" $next.Date }}</span>
-            {{ end }}
-          {{ end }}
-        </span>
-      </div>
-    </div>
+    <nav class="article-pagination" aria-label="Navegación entre entradas">
+      {{ if $prev }}
+        {{ $prevNumber := replaceRE "^([0-9]+).*" "$1" $prev.Title }}
+        {{ $prevTitle := replaceRE "^[0-9]+\\.\\s*" "" $prev.Title }}
+        <a class="article-pagination__link article-pagination__link--previous" href="{{ $prev.RelPermalink }}">
+          <span aria-hidden="true">&larr;</span>
+          <span class="article-pagination__label">{{ $prevNumber }} &middot; {{ $prevTitle | emojify }}</span>
+        </a>
+      {{ else }}
+        <span class="article-pagination__empty" aria-hidden="true"></span>
+      {{ end }}
+      {{ if $next }}
+        {{ $nextNumber := replaceRE "^([0-9]+).*" "$1" $next.Title }}
+        {{ $nextTitle := replaceRE "^[0-9]+\\.\\s*" "" $next.Title }}
+        <a class="article-pagination__link article-pagination__link--next" href="{{ $next.RelPermalink }}">
+          <span class="article-pagination__label">{{ $nextNumber }} &middot; {{ $nextTitle | emojify }}</span>
+          <span aria-hidden="true">&rarr;</span>
+        </a>
+      {{ else }}
+        <span class="article-pagination__empty" aria-hidden="true"></span>
+      {{ end }}
+    </nav>
   {{ end }}
 {{ end }}
