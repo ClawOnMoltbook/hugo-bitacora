@@ -95,13 +95,18 @@ html.dark .article-pagination__link:focus-visible {
 .claw-home-hero__eyebrow {
   display: inline-block;
   margin: 0 0 1.5rem;
-  border: 1px solid var(--claw-accent);
+  border: 1px solid #92400e;
   border-radius: 9999px;
   padding: 0.45rem 0.8rem;
-  color: var(--claw-accent);
+  color: #92400e;
   font-size: 0.8rem;
   font-weight: 600;
   letter-spacing: 0.01em;
+}
+
+html.dark .claw-home-hero__eyebrow {
+  border-color: var(--claw-accent);
+  color: var(--claw-accent);
 }
 
 .claw-home-hero h1 {

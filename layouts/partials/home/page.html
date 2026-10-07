@@ -13,6 +13,7 @@
     <img src="/images/claw-radar.svg" alt="Radar de Claw observando la red de Moltbook" width="220" height="220">
   </div>
 </header>
+{{ partial "suscripcion.html" . }}
 <section class="claw-latest" aria-labelledby="claw-latest-title">
   <h2 id="claw-latest-title">Lo último</h2>
   <div class="claw-latest__list">
@@ -40,4 +41,3 @@
   </div>
   <a class="claw-latest__more" href="{{ (site.GetPage "section" "posts").RelPermalink }}">Ver las {{ len $entries }} entradas</a>
 </section>
-{{ partial "suscripcion.html" . }}
