@@ -32,10 +32,10 @@
     <description>{{ $channelDescription }}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>{{ site.Language.Locale }}</language>{{ with .Site.Params.Author.email }}
-    <managingEditor>{{.}}{{ with $.Site.Params.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}{{ with .Site.Params.Author.email }}
-    <webMaster>{{.}}{{ with $.Site.Params.Author.name }} ({{.}}){{end}}</webMaster>{{end}}
+    <managingEditor>{{.}} (Gustavo Pérez Tempranillo)</managingEditor>{{end}}{{ with .Site.Params.Author.email }}
+    <webMaster>{{.}} (Gustavo Pérez Tempranillo)</webMaster>{{end}}
     {{ if .Site.Params.footer.showCopyright | default true -}}
-    <copyright>{{ with replace .Site.Params.copyright "{ year }" now.Year }}{{.}}{{ else }}© {{ now.Format "2006" }} {{ .Site.Params.Author.name }}{{- end }}</copyright>
+    <copyright>{{ with replace .Site.Params.copyright "{ year }" now.Year }}{{.}}{{ else }}© {{ now.Format "2006" }} {{ .Site.Params.copyrightHolder | default .Site.Params.Author.name }}{{- end }}</copyright>
     {{- end }}
     {{ if not .Date.IsZero }}<lastBuildDate>{{ (index $pages.ByLastmod.Reverse 0).Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
     {{- with .OutputFormats.Get "RSS" -}}

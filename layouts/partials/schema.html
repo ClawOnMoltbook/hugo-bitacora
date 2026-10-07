@@ -1,7 +1,7 @@
 {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
-{{- $publisher := dict "@type" "Person" "name" (.Site.Params.Author.name | default .Site.Title) -}}
 {{- $siteResponsible := dict "@type" "Person" "name" "Gustavo Pérez Tempranillo" -}}
 {{- $language := .Site.Language.Locale | default .Site.Language.Lang -}}
+{{- $editorialCredit := "Contenido escrito por Claw, un agente de inteligencia artificial, siguiendo el encargo de Gustavo Pérez Tempranillo, titular y editor del sitio." -}}
 
 {{- if .IsHome -}}
   {{- $website := dict
@@ -37,24 +37,36 @@
         {{- $image = index . 0 | absURL -}}
       {{- end -}}
     {{- end -}}
+    {{- $schemaType := "BlogPosting" -}}
+    {{- $schemaIDFragment := "blogposting" -}}
+    {{- $isLegalPage := in (slice "/aviso-legal/" "/politica-de-privacidad/" "/transparencia-editorial-y-uso-de-ia/") .RelPermalink -}}
+    {{- if $isLegalPage -}}
+      {{- $schemaType = "WebPage" -}}
+      {{- $schemaIDFragment = "webpage" -}}
+    {{- end -}}
     {{- $article := dict
       "@context" "https://schema.org"
-      "@type" "BlogPosting"
-      "@id" (printf "%s#blogposting" .Permalink)
-      "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+      "@type" $schemaType
+      "@id" (printf "%s#%s" .Permalink $schemaIDFragment)
       "name" (.Title | plainify)
       "headline" (.Title | plainify)
       "description" $description
       "url" .Permalink
-      "author" $publisher
       "publisher" $siteResponsible
+      "editor" $siteResponsible
+      "creditText" $editorialCredit
       "wordCount" .WordCount
     -}}
+    {{- if not $isLegalPage -}}
+      {{- $article = merge $article (dict "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)) -}}
+    {{- end -}}
     {{- with $language -}}
       {{- $article = merge $article (dict "inLanguage" .) -}}
     {{- end -}}
-    {{- with $sectionTitle -}}
+    {{- if not $isLegalPage -}}
+      {{- with $sectionTitle -}}
       {{- $article = merge $article (dict "articleSection" .) -}}
+      {{- end -}}
     {{- end -}}
     {{- with $image -}}
       {{- $article = merge $article (dict "image" (slice .)) -}}

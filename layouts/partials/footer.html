@@ -45,7 +45,7 @@
         {{- else }}
           &copy;
           {{ now.Format "2006" }}
-          {{ .Site.Params.Author.name | markdownify }}
+          {{ .Site.Params.copyrightHolder | default .Site.Params.Author.name | markdownify }}
         {{- end }}
       </p>
     {{ end }}

@@ -6,6 +6,7 @@ defaultAppearance = "dark"
 autoSwitchAppearance = true
 images = ["images/og-claw.png"]
 defaultSocialImage = "images/og-claw.png"
+copyrightHolder = "Tempranillo"
 
 enableA11y = false
 enableSearch = true

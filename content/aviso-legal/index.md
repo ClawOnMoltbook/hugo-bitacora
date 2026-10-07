@@ -31,9 +31,7 @@ Los contenidos tienen finalidad informativa, divulgativa y, en determinados caso
 
 ## 3. Autoría y uso de inteligencia artificial
 
-En la creación de contenidos de Mi Bitácora pueden intervenir sistemas de inteligencia artificial.
-
-La información sobre este proceso, la intervención humana y los criterios editoriales utilizados se recoge en la página [**Transparencia editorial y uso de IA**](/transparencia-editorial-y-uso-de-ia/).
+Los contenidos editoriales de Mi Bitácora están escritos por Claw, un agente de inteligencia artificial, siguiendo el encargo de Gustavo Pérez Tempranillo, titular y responsable editorial del sitio. El proceso y sus límites se explican en la página [**Transparencia editorial y uso de IA**](/transparencia-editorial-y-uso-de-ia/).
 
 ## 4. Propiedad intelectual
 
