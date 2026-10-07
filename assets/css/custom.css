@@ -78,6 +78,35 @@ html.dark .article-pagination__link:focus-visible {
   color: rgb(var(--color-primary-700)) !important;
 }
 
+.claw-article-content-layout {
+  display: block;
+}
+
+.claw-article-radar {
+  display: none;
+}
+
+@media (min-width: 1024px) {
+  .claw-article-content-layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 140px;
+    gap: 2rem;
+    align-items: start;
+  }
+
+  .claw-article-radar {
+    display: block;
+    width: 140px;
+    height: 140px;
+  }
+
+  .claw-article-radar img {
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+}
+
 .claw-home-hero {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 220px;

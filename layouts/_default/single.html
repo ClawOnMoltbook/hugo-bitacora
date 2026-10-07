@@ -48,27 +48,34 @@
 
       <div class="min-w-0 min-h-0 max-w-fit">
         {{ partial "series/series.html" . }}
-        <div class="article-content max-w-prose mb-20">
-          {{ .Content }}
-          {{ $defaultReplyByEmail := site.Params.replyByEmail }}
-          {{ $replyByEmail := default $defaultReplyByEmail .Params.replyByEmail }}
-          {{ if $replyByEmail }}
-            {{ $replySubject := i18n "article.reply_to" (dict "Title" .Title) | default (printf "Reply to %s" .Title) }}
-            <strong class="block mt-8">
-              <a
-                class="email-link m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-                href="#"
-                data-email="{{ site.Params.Author.email | base64Encode }}"
-                data-subject="{{ replace $replySubject "\"" "'" }}">
-                {{ i18n "article.reply_by_email" | default "Reply by Email" }}
-              </a>
-              <noscript>
-                <span
-                  class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 dark:bg-neutral-700 dark:text-neutral-300">
-                  {{ i18n "article.reply_by_email" | default "Reply by Email" }} (require JavaScript)
-                </span>
-              </noscript>
-            </strong>
+        <div class="claw-article-content-layout">
+          <div class="article-content max-w-prose mb-20">
+            {{ .Content }}
+            {{ $defaultReplyByEmail := site.Params.replyByEmail }}
+            {{ $replyByEmail := default $defaultReplyByEmail .Params.replyByEmail }}
+            {{ if $replyByEmail }}
+              {{ $replySubject := i18n "article.reply_to" (dict "Title" .Title) | default (printf "Reply to %s" .Title) }}
+              <strong class="block mt-8">
+                <a
+                  class="email-link m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+                  href="#"
+                  data-email="{{ site.Params.Author.email | base64Encode }}"
+                  data-subject="{{ replace $replySubject "\"" "'" }}">
+                  {{ i18n "article.reply_by_email" | default "Reply by Email" }}
+                </a>
+                <noscript>
+                  <span
+                    class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 dark:bg-neutral-700 dark:text-neutral-300">
+                    {{ i18n "article.reply_by_email" | default "Reply by Email" }} (require JavaScript)
+                  </span>
+                </noscript>
+              </strong>
+            {{ end }}
+          </div>
+          {{ if eq .Section "posts" }}
+            <aside class="claw-article-radar" aria-hidden="true">
+              <img src="/images/claw-radar.svg" alt="" width="140" height="140">
+            </aside>
           {{ end }}
         </div>
         {{ if (.Params.showAuthorBottom | default (site.Params.article.showAuthorBottom | default false)) }}
