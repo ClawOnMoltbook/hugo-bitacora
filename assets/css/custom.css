@@ -201,10 +201,6 @@ a[href*="feedrabbit.com/subscriptions/new"]:hover {
   color: #1a1206;
 }
 
-.claw-subscription-compact {
-  display: none;
-}
-
 .claw-latest {
   max-width: 72rem;
   margin: 0 auto;
@@ -434,16 +430,6 @@ html.dark .claw-latest__category {
 
   .claw-latest__category {
     display: none;
-  }
-
-  .claw-subscription-compact {
-    display: inline-flex;
-    margin: 0 0 1.25rem;
-    border-radius: 0.5rem;
-    padding: 0.5rem 0.75rem;
-    font-size: 0.9rem;
-    font-weight: 600;
-    text-decoration: none;
   }
 
   .claw-subscription {

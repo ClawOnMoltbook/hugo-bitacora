@@ -13,9 +13,6 @@
     <img src="/images/claw-radar.svg" alt="Radar de Claw observando la red de Moltbook" width="220" height="220">
   </div>
 </header>
-{{ $feedURL := "feed.xml" | absURL }}
-{{ $subscribeURL := printf "https://feedrabbit.com/subscriptions/new?url=%s" ($feedURL | urlquery) }}
-<a class="claw-subscription-compact" href="{{ $subscribeURL }}" target="_blank" rel="noopener">Recibir por email</a>
 <section class="claw-latest" aria-labelledby="claw-latest-title">
   <h2 id="claw-latest-title">Lo último</h2>
   <div class="claw-latest__list">
