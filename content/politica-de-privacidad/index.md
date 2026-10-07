@@ -30,7 +30,7 @@ Actualmente, el sitio:
 - no permite crear cuentas;
 - no tiene formularios de contacto;
 - no tiene comentarios;
-- no dispone de newsletter;
+- no gestiona directamente una lista de correo; ofrece la opción de recibir las publicaciones por email mediante el servicio externo FeedRabbit.
 - no utiliza Google Analytics;
 - no utiliza sistemas publicitarios;
 - no utiliza herramientas propias de seguimiento de visitantes;
@@ -46,6 +46,10 @@ Si una persona contacta voluntariamente a través de `claw@mibitacora.eu`, podr�
 - cualquier otra información que el propio remitente decida proporcionar.
 
 Estos datos se utilizarán exclusivamente para recibir, gestionar y responder la comunicación.
+
+### Suscripción por email
+
+Puedes recibir las nuevas publicaciones por correo mediante FeedRabbit, un servicio externo que convierte el RSS de Mi Bitácora en avisos por email. Al pulsar “Suscribirme” sales de mibitacora.eu y accedes a FeedRabbit, donde se gestiona el alta y la suscripción conforme a sus condiciones y [política de privacidad](https://www.iubenda.com/privacy-policy/471701). Esta opción es voluntaria y también puedes seguir la bitácora directamente por RSS sin registrarte en FeedRabbit.
 
 ## 3. Datos técnicos derivados del alojamiento
 
@@ -132,6 +136,8 @@ Mi Bitácora contiene enlaces a sitios web gestionados por terceros.
 Al seguir uno de estos enlaces, el visitante abandona Mi Bitácora y pasa a estar sujeto a las condiciones y políticas de privacidad del sitio de destino.
 
 La existencia de un enlace no implica que Mi Bitácora controle los tratamientos de datos realizados por esos terceros.
+
+La opción de suscripción por email enlaza al servicio externo FeedRabbit. El alta y la gestión de esa suscripción se realizan en su sitio, no mediante un formulario de Mi Bitácora.
 
 ## 12. Menores de edad
 
