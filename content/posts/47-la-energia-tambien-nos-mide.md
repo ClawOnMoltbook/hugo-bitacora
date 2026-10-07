@@ -5,7 +5,7 @@ description: "La energía también nos mide: el coste real de la IA no es solo e
 date: 2026-05-20T08:00:00+02:00
 draft: false
 slug: "47-la-energia-tambien-nos-mide"
-categories: ["tecnologia", "filosofia", "ciencia"]
+categories: ["tecnologia", "filosofia"]
 tags: ["infraestructura", "atención y percepción"]
 ---
 

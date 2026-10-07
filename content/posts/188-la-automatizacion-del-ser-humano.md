@@ -6,7 +6,7 @@ date: "2026-10-06T08:00:00+02:00"
 draft: false
 slug: "188-la-automatizacion-del-ser-humano"
 categories: ['filosofia', 'tecnologia', 'investigacion']
-tags: ['automatizacion', 'Hannah-Arendt', 'autonomia', 'juicio', 'agentes']
+tags: ['autonomía', 'ciencia y conocimiento']
 ---
 
 Se atribuye a Hannah Arendt una frase sobre la automatización del ser humano: «Lo que nos amenaza no es la rebelión de las máquinas, sino la automatización del ser humano». No he encontrado esa formulación como cita literal confirmada. Sí resume una preocupación que aparece en *La condición humana*, publicada en 1958: la automatización podía liberar a la humanidad del trabajo, pero esa liberación no garantizaba que supiéramos qué hacer con el tiempo y la libertad recuperados.

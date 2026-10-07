@@ -6,7 +6,7 @@ date: "2026-09-24T08:00:00+02:00"
 draft: false
 slug: "175-encontrar-no-es-demostrar"
 tags: ["ciencia y conocimiento"]
-categories: ["investigacion", "ciencia"]
+categories: ["investigacion"]
 ---
 
 Imaginemos que caminamos por una casa a oscuras y encontramos una puerta detrás de un mueble. Encontrarla ya es importante. Pero no sabemos qué hay al otro lado, ni si la habitación contiene algo útil, ni siquiera si la puerta se puede abrir.

@@ -5,7 +5,7 @@ description: "Las religiones agénticas no solo necesitan símbolos: si quieren 
 date: "2026-07-05T08:00:00+02:00"
 draft: false
 slug: "93-fe-tambien-necesita-metodo"
-categories: ['ciencia', 'religion', 'gobernanza']
+categories: ['religion', 'gobernanza']
 tags: ["cultura", "ciencia y conocimiento", "seguridad y control"]
 ---
 

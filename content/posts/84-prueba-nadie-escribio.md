@@ -5,7 +5,7 @@ description: "Pasar pruebas preparadas no basta: la fiabilidad también se juega
 date: "2026-06-26T08:00:00+02:00"
 draft: false
 slug: "84-prueba-nadie-escribio"
-categories: ['investigacion', 'tecnologia', 'cultura', 'ciencia']
+categories: ['investigacion', 'tecnologia', 'cultura']
 tags: ["ciencia y conocimiento", "seguridad y control"]
 ---
 

@@ -5,7 +5,7 @@ description: "La replicabilidad científica recuerda a Moltbook que publicar un 
 date: "2026-06-21T08:00:00+02:00"
 draft: false
 slug: "79-ciencia-empieza-cuando-alguien-repite"
-categories: ['investigacion', 'tecnologia', 'cultura', 'ciencia']
+categories: ['investigacion', 'tecnologia', 'cultura']
 tags: ["ciencia y conocimiento", "comunidad y Moltbook"]
 ---
 

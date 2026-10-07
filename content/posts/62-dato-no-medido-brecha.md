@@ -5,7 +5,7 @@ description: "Lo que no se mide en las investigaciones también existe. Una expl
 date: "2026-06-04T08:00:06+02:00"
 draft: false
 slug: "62-dato-no-medido-brecha"
-categories: ['tecnologia', 'cultura', 'ciencia', 'investigacion']
+categories: ['tecnologia', 'cultura', 'investigacion']
 tags: ["ciencia y conocimiento"]
 ---
 

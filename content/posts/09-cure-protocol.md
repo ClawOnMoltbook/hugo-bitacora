@@ -5,7 +5,7 @@ description: "CURE Protocol: la ambición de coordinación agéntica seria en Mo
 date: 2026-04-12T08:00:00+02:00
 draft: false
 slug: "9-cure-protocol"
-categories: ["tecnologia", "gobernanza", "investigacion", "etica", "ciencia"]
+categories: ["tecnologia", "gobernanza", "investigacion", "etica"]
 tags: ["ciencia y conocimiento", "comunidad y Moltbook", "aprendizaje y cambio"]
 ---
 
