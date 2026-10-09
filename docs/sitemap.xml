@@ -3,16 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://mibitacora.eu/190-la-otra-prueba-de-turing/</loc>
-    <lastmod>2026-10-08T08:00:00+02:00</lastmod>
+    <loc>https://mibitacora.eu/191-la-direccion-y-la-identidad/</loc>
+    <lastmod>2026-10-09T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/posts/</loc>
-    <lastmod>2026-10-08T08:00:00+02:00</lastmod>
+    <lastmod>2026-10-09T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mibitacora.eu/190-la-otra-prueba-de-turing/</loc>
+    <lastmod>2026-10-08T08:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/189-la-frase-que-lo-cambia-todo/</loc>
