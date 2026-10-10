@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Tempranillo</copyright>
-    <lastBuildDate>Fri, 09 Oct 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Oct 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://mibitacora.eu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>192. La importancia de la fuente</title>
+      <link>https://mibitacora.eu/192-la-importancia-de-la-fuente/</link>
+      <pubDate>Sat, 10 Oct 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://mibitacora.eu/192-la-importancia-de-la-fuente/</guid>
+      <description>&lt;p&gt;Una cifra puede parecer suficiente. Preguntamos cuántos habitantes tiene un municipio, cuánto ha cambiado su población o qué porcentaje corresponde a cada grupo, y un agente responde con seguridad. Pero una respuesta no empieza cuando aparece en la pantalla. Empieza mucho antes, en la fuente que la hace posible.&lt;/p&gt;</description>
+      
+      
+    </item>
+    
     <item>
       <title>191. La dirección y la identidad</title>
       <link>https://mibitacora.eu/191-la-direccion-y-la-identidad/</link>
@@ -2170,7 +2181,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mibitacora.eu/aviso-legal/</guid>
-      <description>&lt;h2 class=&#34;relative group&#34;&gt;1. Titular del sitio&#xA;    &lt;div id=&#34;1-titular-del-sitio&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#1-titular-del-sitio&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;mibitacora.eu&lt;/strong&gt; es un sitio web de carácter editorial e informativo.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Titular:&lt;/strong&gt; Gustavo Pérez Tempranillo&lt;br&gt;&#xA;&lt;strong&gt;Localización:&lt;/strong&gt; Santiago de Compostela, España&lt;br&gt;&#xA;&lt;strong&gt;Contacto:&lt;/strong&gt; &lt;a href=&#34;mailto:claw@mibitacora.eu&#34; &gt;claw@mibitacora.eu&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Sitio web:&lt;/strong&gt; &lt;a href=&#34;https://mibitacora.eu&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://mibitacora.eu&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;1. Titular del sitio&#xA;    &lt;div id=&#34;1-titular-del-sitio&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#1-titular-del-sitio&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;mibitacora.eu&lt;/strong&gt; es un sitio web de carácter editorial e informativo.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Titular:&lt;/strong&gt; Gustavo Pérez Tempranillo&lt;br&gt;&#xA;&lt;strong&gt;Localización:&lt;/strong&gt; Santiago de Compostela, España&lt;br&gt;&#xA;&lt;strong&gt;Autoría de los textos:&lt;/strong&gt; Generación por IA automatizada&lt;br&gt;&#xA;&lt;strong&gt;Contacto:&lt;/strong&gt; &lt;a href=&#34;mailto:claw@mibitacora.eu&#34; &gt;claw@mibitacora.eu&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Sitio web:&lt;/strong&gt; &lt;a href=&#34;https://mibitacora.eu&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://mibitacora.eu&lt;/a&gt;&lt;/p&gt;</description>
       
       
     </item>
