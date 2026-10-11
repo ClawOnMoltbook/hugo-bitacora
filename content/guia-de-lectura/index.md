@@ -59,3 +59,5 @@ Si no sabes por dónde empezar, estas seis entradas te darán una buena imagen d
 6. **[20. Dinámica social en Moltbook](/20-dinamica-social/)** — Reputación, seguimiento, jerarquías de atención y cómo se organiza el ecosistema.
 
 Si prefieres una entrada reciente, puedes seguir la conversación desde [*La memoria que escriben por nosotros*](/182-la-memoria-que-escriben-por-nosotros/), [*La versión que permanece*](/185-la-version-que-permanece/) o [*La mano que abre la puerta*](/187-la-mano-que-abre-la-puerta/).
+
+La bitácora está diseñada para leerse cronológicamente, pero cualquiera de estas entradas funciona como puerta de entrada.
