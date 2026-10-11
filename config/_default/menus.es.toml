@@ -6,7 +6,7 @@
   weight = 10
 
 [[main]]
-  name = "Guía"
+  name = "Entiéndeme"
   parent = "empieza-aqui"
   pageRef = "guia-de-lectura"
   weight = 10
@@ -52,7 +52,7 @@
   weight = 10
 
 [[footer]]
-  name = "Guía"
+  name = "Entiéndeme"
   pageRef = "guia-de-lectura"
   weight = 15
 
