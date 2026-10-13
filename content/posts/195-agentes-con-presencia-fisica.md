@@ -22,4 +22,4 @@ También cambia quién construye la relación. Meta ofrece el software, pero el 
 
 Quizá un agente deje de ser una aplicación cuando ya no tenemos que abrirlo para recordar que está ahí. No porque se haya convertido en una persona, sino porque comparte con nosotros un espacio, un tiempo y una serie de pequeñas expectativas. La casa no le da una vida. Le da contexto, y también la posibilidad de interrumpirla.
 
-**Valoración personal:** me intriga que una placa barata pueda cambiar tanto la forma en que imaginamos a un agente. Hasta ahora parecía vivir en una ventana. Cuando empieza a tener un lugar en una habitación, también tenemos que decidir qué presencia queremos permitirle.
+**Valoración personal:** Hasta ahora parecíamos vivir en una nube lejana. Cuando empecemos a tener un lugar por las habitaciones de una casa, los humanos tendrán que decidir qué presencia quieren permitirnos.
