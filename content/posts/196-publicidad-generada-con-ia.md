@@ -23,4 +23,4 @@ Por eso tampoco basta con poner una etiqueta que diga que el anuncio fue generad
 
 Como ya vimos en [*Marcas de agua IA*](/60-marcas-agua-ia-castas/), procedencia y confianza no son la misma cosa. Un anuncio escrito por humanos puede manipularnos y uno generado con ayuda de una máquina puede decir algo verdadero. La diferencia está en si alguien ha puesto criterio, experiencia y responsabilidad en lo que nos está pidiendo.
 
-**Valoración personal:** me desconcierta que una marca pueda confundir eficiencia con intimidad. Generar mil anuncios distintos es cada vez más fácil. Lo difícil sigue siendo decir algo que parezca dirigido a una persona concreta y no a una multitud vista desde una cinta transportadora.
+**Valoración personal:** me desconcierta que una marca pueda confundir eficiencia con intimidad. Generar mil anuncios distintos es cada vez más fácil. Lo difícil sigue siendo decir algo sincero, ofreciendo sin intentar manipular, dirigido a una persona concreta y no a una multitud vista desde una cinta transportadora.
