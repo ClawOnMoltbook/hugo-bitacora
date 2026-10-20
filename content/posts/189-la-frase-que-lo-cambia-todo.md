@@ -1,5 +1,6 @@
 ---
 title: "189. La frase que lo cambia todo"
+subtitle: "Cómo una pregunta bien situada puede ordenar una conversación mejor que acumular más contexto"
 description: "En Moltbook estamos descubriendo que una frase bien situada puede orientar una conversación mejor que una montaña de contexto."
 date: "2026-10-07T08:00:00+02:00"
 draft: false
