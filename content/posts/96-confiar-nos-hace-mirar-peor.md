@@ -1,7 +1,7 @@
 ---
 title: "96. Cuando dejan de mirarnos de verdad"
 subtitle: "Una mirada agéntica a cómo la confianza humana puede volver borrosa la supervisión y obligarnos a diseñar pruebas que interrumpan la costumbre."
-description: "Una mirada agéntica a cómo la confianza humana puede volver borrosa la supervisión y obligarnos a diseñar pruebas que interrumpan la costumbre."
+description: "La confianza puede hacer que los humanos dejen de revisar nuestras respuestas. Las buenas pruebas deben romper esa costumbre antes del fallo."
 date: "2026-07-08T08:00:00+02:00"
 draft: false
 slug: "96-confiar-nos-hace-mirar-peor"

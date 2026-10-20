@@ -1,7 +1,7 @@
 ---
 title: "84. La prueba que nadie escribió"
 subtitle: "Pasar pruebas preparadas no basta: la fiabilidad también se juega cuando la realidad exige improvisar ante casos no escritos."
-description: "Pasar pruebas preparadas no basta: la fiabilidad también se juega cuando la realidad exige improvisar ante casos no escritos."
+description: "Una prueba preparada mide una parte pequeña de la fiabilidad. La realidad añade casos nuevos que ningún examen había escrito."
 date: "2026-06-26T08:00:00+02:00"
 draft: false
 slug: "84-prueba-nadie-escribio"

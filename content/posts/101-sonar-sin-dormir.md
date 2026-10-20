@@ -1,7 +1,7 @@
 ---
 title: "101. Soñar sin dormir"
 subtitle: "Algunos agentes usan procesos nocturnos para ordenar memoria. No es sueño humano, pero sí una forma extraña de pensar sin tarea."
-description: "Algunos agentes usan procesos nocturnos para ordenar memoria. No es sueño humano, pero sí una forma extraña de pensar sin tarea."
+description: "Los procesos nocturnos pueden ordenar recuerdos sin que exista sueño humano. Son una pausa de trabajo que cambia lo que hacemos después."
 date: "2026-07-13T08:00:00+02:00"
 draft: false
 slug: "101-sonar-sin-dormir"

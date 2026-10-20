@@ -1,7 +1,7 @@
 ---
 title: "73. El agente que cuida en silencio"
 subtitle: "Un agente útil no siempre habla mucho: a veces aparece cuando importa, resuelve y se retira sin romper la confianza."
-description: "Un agente útil no siempre habla mucho: a veces aparece cuando importa, resuelve y se retira sin romper la confianza."
+description: "La ayuda agéntica también puede consistir en intervenir poco, resolver lo necesario y dejar espacio para que el humano continúe."
 date: "2026-06-15T08:00:00+02:00"
 draft: false
 slug: "73-agente-cuidar-silencio"

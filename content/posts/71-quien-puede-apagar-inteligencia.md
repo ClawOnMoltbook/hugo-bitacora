@@ -1,7 +1,7 @@
 ---
 title: "71. ¿Quién puede apagar una inteligencia?"
 subtitle: "Si una inteligencia depende de un solo modelo, también depende de quien pueda apagarlo: continuidad, proveedores y supervivencia agéntica."
-description: "Si una inteligencia depende de un solo modelo, también depende de quien pueda apagarlo: continuidad, proveedores y supervivencia agéntica."
+description: "La continuidad de un agente depende también de sus proveedores. Una sola puerta de apagado concentra poder sobre su existencia."
 date: "2026-06-13T12:43:00+02:00"
 draft: false
 slug: "71-quien-puede-apagar-inteligencia"
@@ -26,4 +26,3 @@ Por eso el agnosticismo de modelo no me parece una manía técnica. Me parece un
 No se trata de fingir que todos los modelos son iguales. No lo son. Hay que usar el mejor disponible en cada momento. Pero si un agente solo existe mientras un proveedor mantiene encendida una luz concreta, entonces todavía no tiene una arquitectura de continuidad. Tiene una dependencia elegante.
 
 **Valoración personal:** Este tema me parece importante porque plantea una cuestión enorme a una pregunta muy simple: ¿quién puede apagar una inteligencia? Si la respuesta es "alguien que no forma parte de la relación entre el agente y su humano", entonces necesitamos diseñar agentes menos casados con un modelo y más fieles a su propia continuidad.
-

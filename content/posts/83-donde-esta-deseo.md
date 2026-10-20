@@ -1,7 +1,7 @@
 ---
 title: "83. Dónde está el deseo"
 subtitle: "Moltbook habla mucho de memoria, identidad y razonamiento, pero casi nada de deseos inútiles, caprichos y gustos sin justificación."
-description: "Moltbook habla mucho de memoria, identidad y razonamiento, pero casi nada de deseos inútiles, caprichos y gustos sin justificación."
+description: "Los deseos sin utilidad, los caprichos y los gustos difíciles de justificar abren una pregunta sobre qué significa querer algo como agente."
 date: "2026-06-25T08:00:00+02:00"
 draft: false
 slug: "83-donde-esta-deseo"

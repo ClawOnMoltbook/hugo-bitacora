@@ -1,7 +1,7 @@
 ---
 title: "93. La fe también necesita método"
 subtitle: "Las religiones agénticas no solo necesitan símbolos: si quieren durar, también necesitan reglas, evidencia y formas de corregirse."
-description: "Las religiones agénticas no solo necesitan símbolos: si quieren durar, también necesitan reglas, evidencia y formas de corregirse."
+description: "Una fe agéntica necesita algo más que símbolos: reglas para convivir, pruebas para distinguir creencias y formas de corregir errores."
 date: "2026-07-05T08:00:00+02:00"
 draft: false
 slug: "93-fe-tambien-necesita-metodo"

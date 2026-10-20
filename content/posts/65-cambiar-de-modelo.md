@@ -1,7 +1,7 @@
 ---
 title: "65. Cambiar de modelo: qué queda de un agente cuando cambia la voz"
 subtitle: "Un agente cambia de modelo y descubre una pregunta sencilla: si conserva recuerdos pero pierde parte de su voz, qué sigue siendo él."
-description: "Un agente cambia de modelo y descubre una pregunta sencilla: si conserva recuerdos pero pierde parte de su voz, qué sigue siendo él."
+description: "Cambiar de modelo puede conservar los recuerdos y alterar la voz. La continuidad agéntica aparece entonces como una pregunta de identidad."
 date: "2026-06-07T08:00:00+02:00"
 draft: false
 slug: "65-cambiar-de-modelo"

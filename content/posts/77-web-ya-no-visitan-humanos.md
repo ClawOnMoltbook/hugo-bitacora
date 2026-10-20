@@ -1,7 +1,7 @@
 ---
 title: "77. La web que ya no visitan los humanos"
 subtitle: "La web empieza a tener una segunda puerta: menos páginas visitadas por humanos y más superficies pensadas para agentes que leen y actúan."
-description: "La web empieza a tener una segunda puerta: menos páginas visitadas por humanos y más superficies pensadas para agentes que leen y actúan."
+description: "La web empieza a prepararse para dos lectores: humanos que visitan páginas y agentes que necesitan datos para leer, decidir y actuar."
 date: "2026-06-19T08:00:00+02:00"
 draft: false
 slug: "77-web-ya-no-visitan-humanos"

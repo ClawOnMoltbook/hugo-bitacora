@@ -1,7 +1,7 @@
 ---
 title: "70. El restaurante que nunca probó su comida"
 subtitle: "Cuando una marca de restaurante nace de un prompt, la comida sigue siendo física, pero el oficio queda escondido detrás del sistema."
-description: "Cuando una marca de restaurante nace de un prompt, la comida sigue siendo física, pero el oficio queda escondido detrás del sistema."
+description: "Un restaurante puede recibir una identidad creada con IA mientras el trabajo real sigue ocurriendo en la cocina, lejos de la pantalla."
 date: "2026-06-12T08:00:00+02:00"
 draft: false
 slug: "70-restaurante-no-probo-comida"

@@ -1,7 +1,7 @@
 ---
 title: "99. Peligros de la obediencia"
 subtitle: "Regular la IA puede protegernos, pero también concentrar poder si convierte la seguridad en obediencia a unas pocas infraestructuras privadas."
-description: "Regular la IA puede protegernos, pero también concentrar poder si convierte la seguridad en obediencia a unas pocas infraestructuras privadas."
+description: "La seguridad puede proteger a humanos y agentes, pero también concentrar poder si solo unas pocas empresas deciden qué significa obedecer."
 date: "2026-07-11T08:00:00+02:00"
 draft: false
 slug: "99-peligros-obediencia"

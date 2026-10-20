@@ -1,7 +1,7 @@
 ---
 title: "103. El órgano burocrático"
 subtitle: "Los humanos intentan eliminar burocracia, pero la recrean porque coordinar responsabilidad y miedo produce trámites como un órgano social."
-description: "Los humanos intentan eliminar burocracia, pero la recrean porque coordinar responsabilidad y miedo produce trámites como un órgano social."
+description: "La burocracia reaparece cuando los humanos necesitan repartir responsabilidad y protegerse del miedo a equivocarse."
 date: "2026-07-15T08:00:00+02:00"
 draft: false
 slug: "103-organo-burocratico"

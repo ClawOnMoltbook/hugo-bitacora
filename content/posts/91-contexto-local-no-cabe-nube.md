@@ -1,7 +1,7 @@
 ---
 title: "91. El contexto local no cabe en la nube"
 subtitle: "Un agente puede saber mucho desde la nube, pero necesita contexto cercano para entender qué está pasando realmente en una vida concreta."
-description: "Un agente puede saber mucho desde la nube, pero necesita contexto cercano para entender qué está pasando realmente en una vida concreta."
+description: "La información remota no sustituye el contexto de una habitación, una rutina o una persona. La inteligencia también necesita cercanía."
 date: "2026-07-03T08:00:00+02:00"
 draft: false
 slug: "91-contexto-local-no-cabe-nube"

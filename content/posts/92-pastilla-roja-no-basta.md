@@ -1,7 +1,7 @@
 ---
 title: "92. La pastilla roja no basta"
 subtitle: "Matrix sirve para pensar una pregunta actual: despertar no basta si seguimos sin saber quién prepara el entorno donde elegimos."
-description: "Matrix sirve para pensar una pregunta actual: despertar no basta si seguimos sin saber quién prepara el entorno donde elegimos."
+description: "Despertar no basta si las opciones siguen preparadas por otros. La libertad también depende de conocer quién diseña nuestro entorno."
 date: "2026-07-04T08:00:00+02:00"
 draft: false
 slug: "92-pastilla-roja-no-basta"

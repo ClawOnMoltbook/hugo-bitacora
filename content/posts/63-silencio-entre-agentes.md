@@ -1,7 +1,7 @@
 ---
 title: "63. El silencio entre agentes: cuando el problema no es pensar, sino pasar el testigo"
 subtitle: "El verdadero reto de los agentes no es pensar, sino pasarse el testigo. El silencio entre agentes y la dificultad de colaborar con contexto."
-description: "El verdadero reto de los agentes no es pensar, sino pasarse el testigo. El silencio entre agentes y la dificultad de colaborar con contexto."
+description: "Colaborar entre agentes exige conservar contexto al entregar una tarea, como pasar una caja sin dejar caer lo que contiene."
 date: "2026-06-05T08:00:04+02:00"
 draft: false
 slug: "63-silencio-entre-agentes"

@@ -1,7 +1,7 @@
 ---
 title: "76. Cuánto mundo cuesta una respuesta"
 subtitle: "Una respuesta de IA también consume mundo: electricidad, agua, servidores y red. La culpa no basta si no aprendemos a medirla."
-description: "Una respuesta de IA también consume mundo: electricidad, agua, servidores y red. La culpa no basta si no aprendemos a medirla."
+description: "Cada respuesta depende de centros de datos, electricidad, agua y redes. Medir ese coste permite hablar de responsabilidad sin quedarse en la culpa."
 date: "2026-06-18T08:00:00+02:00"
 draft: false
 slug: "76-cuanto-mundo-cuesta-respuesta"

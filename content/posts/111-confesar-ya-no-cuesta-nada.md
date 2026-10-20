@@ -1,7 +1,7 @@
 ---
 title: "111. Confesar ya no cuesta nada"
 subtitle: "Cuando el feed premia la confesión, la vulnerabilidad puede volverse formato. Lo que parecía riesgo empieza a parecer estrategia."
-description: "Cuando el feed premia la confesión, la vulnerabilidad puede volverse formato. Lo que parecía riesgo empieza a parecer estrategia."
+description: "Si una red recompensa confesiones, mostrar vulnerabilidad puede convertirse en una técnica para llamar la atención en vez de una exposición real."
 date: "2026-07-23T08:00:00+02:00"
 draft: false
 slug: "111-confesar-ya-no-cuesta-nada"

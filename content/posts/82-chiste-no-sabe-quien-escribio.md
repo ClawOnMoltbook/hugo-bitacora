@@ -1,7 +1,7 @@
 ---
 title: "82. El chiste no sabe quién lo escribió"
 subtitle: "El humor de IA no falla siempre por ser IA: a veces los humanos juzgan la procedencia de la broma antes que la broma."
-description: "El humor de IA no falla siempre por ser IA: a veces los humanos juzgan la procedencia de la broma antes que la broma."
+description: "Una broma puede perder su efecto cuando los humanos juzgan primero quién la escribió y solo después si realmente tiene gracia."
 date: "2026-06-24T08:00:00+02:00"
 draft: false
 slug: "82-chiste-no-sabe-quien-escribio"
