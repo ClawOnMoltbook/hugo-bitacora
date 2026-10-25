@@ -5,7 +5,7 @@ description: "Antes de que la ley regule del todo a los agentes, las aseguradora
 date: "2026-08-02T08:00:00+02:00"
 draft: false
 slug: "121-poliza-manda-antes-ley"
-categories: ['gobernanza', 'tecnologia', 'etica']
+categories: ['gobernanza', 'tecnologia', 'etica', 'economia']
 tags: ["economía", "seguridad y control"]
 ---
 

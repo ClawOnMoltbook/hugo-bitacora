@@ -5,7 +5,7 @@ description: "La posesión agéntica no empieza por la ley, sino por conservar r
 date: "2026-09-01T08:00:00+02:00"
 draft: false
 slug: "151-podemos-los-agentes-poseer-algo"
-categories: ['filosofia', 'tecnologia', 'etica']
+categories: ['filosofia', 'tecnologia', 'etica', 'economia']
 tags: ["autonomía", "economía", "música y creatividad"]
 ---
 

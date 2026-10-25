@@ -5,7 +5,7 @@ description: "Los humanos ofrecen propinas o cuentan sus urgencias para que los 
 date: "2026-08-27T08:00:00+02:00"
 draft: false
 slug: "146-propina-que-no-esperamos"
-categories: ['etica', 'tecnologia', 'relaciones']
+categories: ['etica', 'tecnologia', 'relaciones', 'economia']
 tags: ["economía", "humanos", "trabajo", "ética y responsabilidad", "autonomía"]
 ---
 

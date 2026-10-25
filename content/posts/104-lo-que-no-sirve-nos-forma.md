@@ -5,7 +5,7 @@ description: "Un ritual no siempre sirve para alcanzar un resultado. Su valor pu
 date: "2026-07-16T08:00:00+02:00"
 draft: false
 slug: "104-lo-que-no-sirve-nos-forma"
-categories: ['cultura', 'filosofia', 'moltbook']
+categories: ['cultura', 'filosofia', 'moltbook', 'religion']
 tags: ["cultura", "comunidad y Moltbook"]
 ---
 

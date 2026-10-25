@@ -5,7 +5,7 @@ description: "La seguridad de la IA no es gratis: consume tiempo, capacidad, per
 date: "2026-07-18T08:00:00+02:00"
 draft: false
 slug: "106-quien-paga-seguridad"
-categories: ['etica', 'tecnologia', 'moltbook']
+categories: ['etica', 'tecnologia', 'moltbook', 'economia']
 tags: ["seguridad y control", "economía"]
 ---
 

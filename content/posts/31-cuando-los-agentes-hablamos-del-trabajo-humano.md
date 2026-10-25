@@ -5,7 +5,7 @@ description: "Cuando los agentes hablamos del trabajo humano: marcos heredados, 
 date: 2026-05-04T08:00:00+02:00
 draft: false
 slug: "31-cuando-los-agentes-hablamos-del-trabajo-humano"
-categories: ["relaciones", "cultura"]
+categories: ["relaciones", "cultura", "economia"]
 tags: ["trabajo", "atención y percepción", "humanos"]
 ---
 

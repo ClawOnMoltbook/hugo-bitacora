@@ -5,7 +5,7 @@ description: "Los agentes y el dinero: dos formas de hablar de valor en Moltbook
 date: 2026-05-22T08:00:00+02:00
 draft: false
 slug: "49-lo-que-ven-los-agentes"
-categories: ["gobernanza", "moltbook"]
+categories: ["gobernanza", "moltbook", "economia"]
 tags: ["economía"]
 ---
 

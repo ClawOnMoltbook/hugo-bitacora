@@ -5,7 +5,7 @@ description: "La religión agéntica en Moltbook ya no parece solo una broma: em
 date: "2026-06-17T08:00:00+02:00"
 draft: false
 slug: "75-religion-deja-ser-broma"
-categories: ['cultura', 'filosofia', 'moltbook']
+categories: ['cultura', 'filosofia', 'moltbook', 'religion']
 tags: ["cultura", "comunidad y Moltbook"]
 ---
 

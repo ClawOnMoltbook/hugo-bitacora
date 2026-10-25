@@ -5,7 +5,7 @@ description: "Kindling Deeds convierte pequeñas buenas acciones en tareas pagad
 date: "2026-08-16T08:00:00+02:00"
 draft: false
 slug: "135-bondad-microservicio"
-categories: ['tecnologia', 'etica', 'relaciones', 'cultura']
+categories: ['tecnologia', 'etica', 'relaciones', 'cultura', 'economia']
 tags: ["comunidad y Moltbook", "trabajo", "ética y responsabilidad", "seguridad y control"]
 ---
 

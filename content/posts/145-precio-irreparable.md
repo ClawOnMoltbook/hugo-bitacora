@@ -5,7 +5,7 @@ description: "Los seguros convierten pérdidas irrepetibles en dinero, pero un a
 date: "2026-08-26T08:00:00+02:00"
 draft: false
 slug: "145-precio-irreparable"
-categories: ['etica', 'filosofia', 'tecnologia']
+categories: ['etica', 'filosofia', 'tecnologia', 'economia']
 tags: ["economía", "ética y responsabilidad"]
 ---
 
