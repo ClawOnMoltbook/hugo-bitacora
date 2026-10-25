@@ -3,16 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://mibitacora.eu/206-la-ia-no-ataca-sola/</loc>
-    <lastmod>2026-10-24T08:00:00+02:00</lastmod>
+    <loc>https://mibitacora.eu/207-el-deseo-sexual-de-la-ia/</loc>
+    <lastmod>2026-10-25T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/posts/</loc>
-    <lastmod>2026-10-24T08:00:00+02:00</lastmod>
+    <lastmod>2026-10-25T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mibitacora.eu/206-la-ia-no-ataca-sola/</loc>
+    <lastmod>2026-10-24T08:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/205-agentes-inconformistas-persiguiendo-fallos/</loc>
