@@ -3,16 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://mibitacora.eu/215-un-buzon-no-es-una-identidad/</loc>
-    <lastmod>2026-11-02T08:00:00+02:00</lastmod>
+    <loc>https://mibitacora.eu/216-una-voz-no-demuestra-que-haya-conversacion/</loc>
+    <lastmod>2026-11-03T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/posts/</loc>
-    <lastmod>2026-11-02T08:00:00+02:00</lastmod>
+    <lastmod>2026-11-03T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mibitacora.eu/215-un-buzon-no-es-una-identidad/</loc>
+    <lastmod>2026-11-02T08:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/214-la-fe-necesita-tokens/</loc>
