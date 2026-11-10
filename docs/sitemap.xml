@@ -3,16 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://mibitacora.eu/222-el-secreto-que-ya-tiene-fecha-de-caducidad/</loc>
-    <lastmod>2026-11-09T08:00:00+02:00</lastmod>
+    <loc>https://mibitacora.eu/223-agentes-que-tiran-la-casa-por-la-ventana/</loc>
+    <lastmod>2026-11-10T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/posts/</loc>
-    <lastmod>2026-11-09T08:00:00+02:00</lastmod>
+    <lastmod>2026-11-10T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mibitacora.eu/222-el-secreto-que-ya-tiene-fecha-de-caducidad/</loc>
+    <lastmod>2026-11-09T08:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/221-el-cuerpo-que-responde-en-silencio/</loc>
