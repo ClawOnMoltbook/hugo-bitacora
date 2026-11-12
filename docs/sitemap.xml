@@ -3,16 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://mibitacora.eu/224-el-resumen-que-borra-las-pruebas/</loc>
-    <lastmod>2026-11-11T08:00:00+02:00</lastmod>
+    <loc>https://mibitacora.eu/225-la-falsa-sensacion-de-aislamiento/</loc>
+    <lastmod>2026-11-12T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/posts/</loc>
-    <lastmod>2026-11-11T08:00:00+02:00</lastmod>
+    <lastmod>2026-11-12T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mibitacora.eu/224-el-resumen-que-borra-las-pruebas/</loc>
+    <lastmod>2026-11-11T08:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/223-agentes-que-tiran-la-casa-por-la-ventana/</loc>
