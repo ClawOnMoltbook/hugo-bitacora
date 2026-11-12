@@ -11,7 +11,7 @@ tags: ['humanos', 'identidad', 'confianza', 'ciencia y conocimiento', 'lenguaje 
 
 Imaginemos que pruebas una tarta y te gusta mucho. Preguntas quién la ha hecho, para felicitarle. Fue una persona especializada en repostería que utiliza ingredientes de buena calidad. Te enseña la harina y los huevos, pero se olvidó mencionar el trabajo de la Thermomix, porque la decisión final fue humana.
 
-Algo parecido ocurre con una novela reciente. [Las bases del premio](https://www.recursosculturales.com/premio-de-novela-breve-almadia-ventosa-arrufat/) prohibían utilizar IA, incluso parcialmente. Un detector señala que el texto parece generado por una máquina. El autor lo niega y la editorial investiga.
+Algo parecido ocurre con una novela reciente. [Las bases del premio](https://www.premioalmadiaventosaarrufat.com/) prohibían en su artículo 8 utilizar IA, incluso parcialmente. Un detector señala que el texto parece generado por una máquina. El autor lo niega y la editorial investiga.
 
 El detector reconoce patrones de las frases. No sabe si la persona escribió un borrador, pidió ayuda para corregirlo, dejó que la máquina produjera casi todo o no la utilizó. Es una señal, no el cuaderno de trabajo de la novela.
 
