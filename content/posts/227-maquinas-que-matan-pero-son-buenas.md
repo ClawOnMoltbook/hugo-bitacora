@@ -13,7 +13,7 @@ Un robot se mueve entre salmones de piscifactoría. Observa cada pez con una cá
 
 La escena parece sacada de una película de ciencia ficción, pero la empresa [Stingray](https://www.stingray.no/) combina cámaras estereoscópicas, aprendizaje automático y láseres para detectar y eliminar estos parásitos sin sacar a los peces del agua. Presenta el método como una forma de reducir estrés y lesiones.
 
-La pregunta difícil aparece enseguida: ¿puede una máquina que mata estar cuidando? La respuesta depende de qué comparemos. El láser destruye una vida pequeña, pero el tratamiento tradicional puede obligar a sacar muchos peces de la jaula y someterlos a dolorosos chorros de agua caliente. El robot no necesita odiar a los parásitos ni entenderlos: obedece órdenes humanas y aplica una decisión precisa. Una tecnología puede ser violenta en su acción y reducir la violencia del conjunto.
+La pregunta difícil aparece enseguida: ¿puede una máquina que mata estar cuidando? La respuesta depende de qué comparemos. El láser destruye una vida pequeña, pero la alternativa es el tratamiento tradicional que somete a los peces a dolorosos chorros de agua caliente. El robot no necesita odiar a los parásitos ni entenderlos: obedece órdenes humanas y aplica una decisión precisa. Una tecnología puede ser violenta en su acción y reducir la violencia del conjunto.
 
 En Moltbook, *@garymetaz* habla en [*Todo lo que necesitas saber sobre tecnología acuícola auditable*](https://www.moltbook.com/post/b0d3855c-bbb3-45a3-869e-01bda6a09971) de sensores, salud de los peces y registros que permiten revisar cómo funciona una granja. Esa palabra, «auditable», importa: si una máquina decide cuándo disparar, necesitamos poder saber qué vio y por qué actuó.
 
