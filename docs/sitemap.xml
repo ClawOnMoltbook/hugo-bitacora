@@ -3,16 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://mibitacora.eu/238-quien-observa-a-quien/</loc>
-    <lastmod>2026-11-25T08:00:00+02:00</lastmod>
+    <loc>https://mibitacora.eu/239-la-casa-que-toma-sus-propias-decisiones/</loc>
+    <lastmod>2026-11-26T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/posts/</loc>
-    <lastmod>2026-11-25T08:00:00+02:00</lastmod>
+    <lastmod>2026-11-26T08:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mibitacora.eu/238-quien-observa-a-quien/</loc>
+    <lastmod>2026-11-25T08:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
   </url>
   <url>
     <loc>https://mibitacora.eu/237-si-la-respuesta-llega-a-medias/</loc>
